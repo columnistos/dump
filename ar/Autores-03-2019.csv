@@ -1,0 +1,1631 @@
+author_id,author,gender,COUNT of id
+1,Ricardo Roa,M,146
+2,Julio Blanck,M,34
+3,Mario Riorda,M,3
+4,Guillermo Lousteau Heguy,M,1
+5,Carlos Pagni,M,77
+6,Laura Di Marco,F,29
+7,Luis Majul,M,16
+8,Javier Porta Fouz,M,5
+9,Carlos Cruz,M,1
+10,Malena Pichot,F,23
+11,Victoria Ginzberg,F,10
+12,Karina Micheletto,F,5
+13,Jorge Fontevecchia,M,51
+14,Nelson Castro,M,25
+15,Jaime Duran Barba,M,23
+16,Sergio Berensztein,M,48
+17,Gustavo González,M,25
+18,Julio Petrarca,M,18
+19,Hugo Asch,M,22
+20,Luis Costa,M,12
+21,Javier Calvo,M,25
+22,Pablo Marchetti,M,12
+23,Quintín,M,1
+24,Guillermo Piro,M,20
+25,Damián Tabarovsky,M,20
+26,Guido L. Croxatto,M,6
+27,Roberto García,M,27
+28,Daniel Bilotta,M,21
+29,Federico Poli,M,2
+30,Federico Recagno,M,6
+31,Héctor Zajac,M,9
+32,Jorge Argüello,M,6
+33,Fabián Casas,M,25
+34,Daniel Guebel,M,25
+35,Angélica Gorodischer,F,25
+36,Daniel Link,M,25
+37,Ricardo Kirschbaum,M,120
+38,Marcelo Bonelli,M,56
+39,Eugenio Díaz Bonilla,M,5
+40,Padre Lic. Luis Rafael Velasco,M,4
+41,Sebastián Fest,M,24
+42,Cristian Grosso,M,4
+43,Javier Saúl,M,1
+44,Pablo Vignone,M,3
+45,Carlos M. Reymundo Roberts,M,85
+46,Francisco Olivera,M,45
+47,Héctor M. Guyot,M,51
+48,Eduardo Fidanza,M,49
+49,Silvia Fesquet,F,109
+50,Marcelo Cantelmi,M,84
+51,Daniel Calvo,M,2
+52,María Page,F,2
+53,Gustavo Veiga,M,35
+54,Diego Trerotola,M,1
+55,Roxana Sandá,F,5
+56,Jorge Lanata,M,19
+57,Carlos De Angelis,M,22
+58,Carlos Ares,M,12
+59,Miguel Roig,M,8
+60,Rafael Spregelburd,M,24
+61,Martín Kohan,M,24
+62,Martín Lozada,M,1
+63,Irina Hauser,F,6
+64,Edgardo Mocca,M,35
+65,Eric Nepomuceno,M,59
+66,Mario Wainfeld,M,108
+67,Daniel Muchnik,M,7
+68,Sergio Sinay,M,30
+69,Carlos Gabetta,M,9
+70,Eduardo van der Kooy,M,98
+71,Alcadio Oña,M,91
+72,Ricardo Lagos,M,14
+73,Fernando Gonzalez,M,70
+74,Ana María Mustapic,F,1
+75,Osvaldo Pepe,M,2
+76,Guillermo Oliveto,M,20
+77,Alberto Armendáriz,M,5
+78,Sergio Suppo,M,81
+79,Andrea Aghazarian,F,2
+80,Nicolás Trotta,M,6
+81,Jorge Alemán,M,5
+82,Mempo Giardinelli,M,63
+83,Eduardo Aliverti,M,66
+84,Norma Morandini,F,12
+85,Manuel Gonzalo Casas,M,1
+86,Hugo Alconada Mon,M,29
+87,Valentín Muro,M,34
+88,Hernán Cappiello,M,6
+89,Dora Barrancos,F,3
+90,Atilio A. Boron,M,46
+91,Nicolás Kogan,M,1
+92,Víctor Hugo Morales,M,2
+93,Joaquín Morales Solá,M,91
+94,José Del Rio,M,19
+95,Jaime Rosemberg,M,14
+96,Claudio Jacquelin,M,96
+97,Dr. Daniel López Rosetti,M,9
+98,Gustavo Ybarra,M,3
+99,Fabiana Fondevila,F,7
+100,María Zysman,F,3
+101,Héctor Gambini,M,58
+102,Daniel Fernández Canedo,M,60
+103,Eduardo Menem,M,2
+104,Alberto Dalla Vía,M,1
+105,María Moreno,F,12
+106,Claudio Scaletta,M,38
+107,Luciana Peker,F,18
+108,Gonzalo Abascal,M,21
+109,Alieto Aldo Guadagni,M,16
+110,Miguel Angel Santos,M,1
+111,Martín Rodríguez Yebra,M,24
+112,Nicolás Balinotti,M,12
+113,Diego Angeli,M,34
+114,Carlos Sanzol,M,1
+115,Elisabetta Piqué,F,3
+116,Silvina Friera,F,1
+117,Washington Uranga,M,66
+118,Javier Lewkowicz,M,1
+119,Eduardo López * y Mariano Denegris,M,1
+120,Eduardo Febbro,M,15
+121,Martin Granovsky,M,14
+122,Pablo Mendelevich,M,9
+123,Emir Sader,M,67
+124,Daniel Gigena,M,60
+125,Rosendo Fraga,M,10
+126,Gonzalo Diéguez,M,1
+127,Ricardo Salgado,M,1
+128,Mario Goloboff,M,2
+129,Maxi Montenegro,M,4
+130,Marcos Novaro,M,5
+131,Fernando Laborda,M,66
+132,Iván Ruiz,M,2
+133,Jorge Liotti,M,40
+134,Rodrigo Lloret,M,5
+135,Vicente Palermo,M,14
+136,Rogelio Alaniz,M,19
+137,José Luis Di Lorenzo,M,1
+138,Ricardo Forster,M,3
+139,Joe Goldman,M,2
+140,Luis Bruschtein,M,64
+141,David Cufré,M,24
+142,Ángel Núñez,M,3
+143,Silvia Pisani,F,3
+144,Alejandro Borensztein,M,16
+145,Rodolfo Terragno,M,14
+146,Jorge Fernández Díaz,M,39
+147,Néstor O. Scibona,M,41
+148,Pablo Sirvén,M,74
+149,Juan Carlos de Pablo,M,42
+150,Alejandro Catterberg,M,4
+151,Andrés Malamud,M,4
+152,Orlando Ferreres,M,1
+153,Daniel Arroyo,M,2
+154,Alfredo Zaiat,M,20
+155,Comisión de Homenaje a Antonio Cafiero,X,1
+156,Federico Kucher,M,1
+157,Jairo Straccia,M,18
+158,Horacio González,M,19
+159,Beatriz Sarlo,F,7
+160,Quintín,M,13
+161,Cecilia Mosto,F,4
+162,Gloria López Lecube,F,6
+163,Diana Mondino,F,3
+164,Mabel Bianco,F,5
+165,Artemio López,M,10
+166,Ignacio Zuleta,M,65
+167,Marita Carballo,F,10
+168,Vicente Espeche Gil,M,1
+169,Luis Raffagheli (*,M,1
+170,Máximo Kank,M,1
+171,Redacción Perfil,X,2
+172,Nicolás Litvinoff,M,51
+173,Alexia Rattazzi,F,8
+174,Miguel Angel Fernández Pastor,M,1
+175,Luis A. Raffaghelli,M,1
+176,Cecilia “Checha” Merchán,F,1
+177,Juan Gabriel Tokatlian,M,22
+178,Walter Agosto,M,1
+179,Rafael Mathus Ruiz,M,7
+180,Soledad Vallejos,F,18
+181,Loris Zanatta,M,40
+182,Daniel Gallo,M,3
+183,Fernando Iglesias,M,3
+184,Mariana Arias,F,33
+185,Luis Vedoya,M,1
+186,Diana Wang,F,16
+187,Ricardo Haye,M,3
+188,Equipo PCOC-UBA,X,1
+189,Kevin Casas Zamora,M,2
+190,Magda Tagtachian,F,5
+191,Anne Hidalgo - Horacio Rodríguez Larreta,F,1
+192,Francisco Cafiero,M,3
+193,Marcelo Justo,M,5
+194,Juan José Panno,M,32
+195,Emilio Cárdenas,M,56
+196,Bernardo Stamateas,M,58
+197,Sofía Contreras,F,7
+198,Martín Redrado,M,1
+199,Ricardo Monner Sans,M,4
+200,Laura Serra,F,7
+201,Elena Llorente,F,1
+202,Miguel Hein,M,15
+203,María Matilde Ollier,F,6
+204,Mario Eduardo Cohen,M,2
+205,Miguel Wiñazki,M,30
+206,Gisela Marziotta,F,1
+207,Bet Gerber,F,1
+208,Facundo Manes,M,16
+209,Guido Risso,M,5
+210,Bernarda Llorente y Claudio Villarruel,X,5
+211,Ricardo Arriazu,M,15
+212,Francis Mallmann,M,8
+213,Iván de Pineda,M,6
+214,Diego Golombek,M,6
+215,Javier Arroyuelo,M,3
+216,Rafael Klejzer y Laura Bitto,X,1
+218,Silvia Ramírez Gelbes,F,9
+219,Agustín Salvia,M,5
+220,Selva Almada,F,7
+222,Mario Vargas Llosa,M,27
+223,Claudio Mauri,M,1
+224,Ángeles Castro,F,1
+225,Leonardo Ferri,M,7
+226,Fabiana Kramarz,F,1
+227,Mercedes López San Miguel,F,3
+228,Eduardo Jozami,M,9
+229,Mariano Borinsky,M,5
+230,Damián Nabot,M,6
+231,Alejandro Katz,M,4
+232,Andrea Churba,F,30
+233,Verónica Chiaravalli,F,7
+234,Aldo Neri,M,7
+235,Ignacio Miri,M,3
+236,Federico Despoulis Netri,M,1
+237,Nora Veiras,F,8
+238,Fabián Echegaray,M,2
+239,Roberto Borrone,M,1
+240,Gloria Casañas,F,4
+241,Andrés Osojnik,M,2
+242,Miguel Gaya,M,1
+243,Mariana Carbajal,F,64
+244,Pacho O’Donnell,M,4
+245,Silvina Marquez,F,2
+246,Santiago Farrell,M,2
+247,Jorge Ossona,M,20
+248,Jorge Lapeña,M,2
+249,Rodolfo Werner,M,2
+250,Rebeca Hillert,F,1
+251,Facundo Martínez,M,8
+252,"Alejandro López Accotto, Carlos Martínez y Martín Mangas",M,1
+253,Cristian Rodríguez,M,2
+254,Ramiro Albrieu,M,4
+255,Norberto Rodríguez,M,2
+256,Claudia Fernández Chaparro,F,3
+257,Ana Pardo,F,1
+258,Ignacio Encabo,M,1
+259,Guillermo Rozenwurcel,M,7
+260,Maximiliano Rusconi,M,6
+261,Eduardo Fabregat,M,28
+262,Raúl Dellatorre,M,16
+263,Diana Cohen Agrest,F,7
+264,Pedro Villagra Delgado,M,1
+265,Marcelo Rudaeff (Rudy),M,50
+266,Sebastián Lacunza,M,2
+267,Felipe Frydman,M,7
+268,Omar Argüello,M,3
+269,Félix Lonigro,M,3
+270,Ezequiel Spector,M,5
+271,Felipe de la Balze,M,1
+272,Javier Cercas,M,4
+273,Arturo Pérez-Reverte,M,9
+274,Víctor Hugo Ghitta,M,42
+275,Slavoj Zizek,M,2
+277,Carlos De Simone,M,3
+278,Gabriel Litwin,M,6
+279,Víctor Santa María,M,3
+280,Eduardo Sánchez,M,2
+281,Tomás Abraham,M,1
+282,Alejandro Cattaruzza,M,1
+283,Julio Maier,M,15
+284,Carlos Pérez Llana,M,10
+285,Alberto Amato,M,26
+286,Claudio Cerviño,M,2
+287,Pablo Montagna,M,57
+288,Emilio Apud,M,3
+289,Esteban Lifschitz,M,3
+290,Fernando Rodríguez,M,5
+291,Sonia Santoro,F,7
+292,Angel Cappa,M,5
+293,Ezequiel Fernández Moores,M,2
+294,Marta Dillon,F,23
+295,Sergio Zabalza,M,9
+296,Juan J. Llach,M,2
+297,Claudio Campagna,M,11
+298,Roberto García Moritán,M,5
+299,Claudio Morresi,M,9
+300,Javier Aguirre,M,1
+301,Federico Nacif,M,1
+302,David Cantero Pérez,M,1
+303,Fernando “Pino” Solanas,M,1
+304,Natalio Botana,M,16
+305,Luis Cortina,M,6
+306,Carlos Noriega,M,1
+307,Alejandro López Accotto,M,5
+308,María Eugenia Estenssoro,F,11
+309,Lucas Prieto Schorr,M,6
+310,Inés Capdevila,F,24
+311,Carolina Arenes,F,8
+313,Luis Secco,M,7
+315,Guillermo Tomoyose,M,2
+316,Sabrina Cuculiansky,F,2
+317,Claudio Zeiger,M,7
+318,Álvaro García Linera,M,1
+319,Esteban Guida,M,3
+320,Adriana Puiggrós,F,4
+321,Carlos Díaz,M,1
+322,Roberto Saba,M,6
+323,Yang Wanming,M,1
+324,Luis Alberto Romero,M,4
+325,Ariel Torres,M,27
+326,Ricardo Iacub,M,8
+327,José Bellas,M,1
+328,Martín Hilal,M,1
+329,Ernesto Sanz,M,1
+330,Federico Conditi,M,1
+331,Oscar Laborde,M,2
+332,Diego Cabot,M,8
+333,Miguel Espejo,M,6
+334,César Mayoral,M,3
+335,Adelfa Jozami,F,1
+336,Raquel Garzón,F,18
+337,Silvia Naishtat,F,12
+338,Gustavo Bazzan,M,1
+339,Javier Lindenboim,M,9
+340,Melina Masnatta,F,11
+341,Fernando D´Addario,M,12
+342,Damián Pierbattisti,M,1
+343,Cristian Mira,M,19
+344,Nicolás Gallo,M,3
+345,Joaquín Roy,M,3
+346,Juan Forn,M,8
+347,Andrés Asiain,M,5
+348,Ariel Scher,M,2
+349,Martín Vauthier y Santiago Mosquera,M,1
+350,Carlos Bianco,M,3
+351,Pablo Vaca,M,15
+352,Rubén Torres,M,3
+353,Alberto Taquini (h),M,2
+354,Maritchu Seitún,F,18
+355,Miguel Ángel Fernández Pastor,M,2
+356,Fernando R. Marengo,M,5
+357,Marcelo D'Alessio,M,4
+358,Héctor Crespo Figueras,M,1
+359,Manuel Barrientos,M,4
+360,Luciano Román,M,3
+361,Martín Kanenguiser,M,2
+362,Alejandra Perinetti,F,3
+363,Jorge Vasconcelos,M,1
+364,Jorge Álvarez,M,2
+365,Félix V. Lonigro,M,5
+366,Hugo Muleiro,M,4
+367,Walter Isaía,M,3
+368,Joaquín Hidalgo,M,1
+369,Pablo Cohen,M,1
+370,Víctor Pombinho Soares,M,3
+371,Delia Ferreira Rubio,F,1
+372,Daniel Martínez,M,3
+373,Carlos Rozanski,M,8
+374,Sergio Rodríguez,M,1
+375,Oscar Oszlak,M,1
+376,Adriana Martínez Bedini,F,1
+377,Daniel Montamat,M,7
+378,Edgardo Néstor De Vincenzi,M,2
+379,Pedro Golfarb,M,1
+380,Nora Merlin,F,5
+381,Luciano Lutereau *,M,1
+382,Fernanda Iglesias,F,1
+383,Aldo Pignanelli,M,2
+384,Patricia Pérez,F,4
+385,Rodolfo Yanzón,M,3
+386,Yael Bendel,F,3
+387,Cristian Carrillo,M,2
+388,Julio Raffo,M,1
+389,Matilde Sánchez,F,2
+391,Alejandro Vanoli,M,3
+392,Víctor Manuel Fernández,M,1
+394,Sergio Rubin,M,1
+395,Julio Montero,M,5
+396,Horacio Cecchi,M,24
+397,Carlos Raimundi,M,2
+398,Nilda Garré,F,2
+399,Rodolfo H. Gil,M,5
+400,Eugenio A. Marchiori,M,2
+401,Mariana Enriquez,F,4
+402,Eduardo De la Serna,M,1
+403,Daniel Zovatto,M,5
+404,Juan Pablo Sioffi,M,1
+405,Carlos A. Valle,M,7
+406,Cecilia Beatriz Díaz,F,2
+407,Eduardo Levy Yeyati,M,2
+408,Mariano Recalde,M,1
+409,Ariel Cohen Sabban,M,1
+410,Diego Rubinzal,M,3
+411,Diego Vernazza,M,1
+412,Monika Arredondo,F,3
+413,Daniel Filmus,M,4
+414,Marina Yasky,F,1
+415,Martín Burgos,M,1
+416,Sonia Tessa,F,8
+417,Luis Kon,M,1
+418,Micaela Urdinez,F,3
+419,Federico Finchelstein,M,12
+420,Alicia Pierini,F,1
+421,Claudia Bracchi,F,2
+422,Mariano De Vedia,M,2
+423,Gerardo Arenas,M,1
+424,Manu Ginóbili,M,1
+425,Eduardo López,M,2
+426,Andrés J. Kreiner y Roberto C. Salvarezza,M,1
+428,Eugenio Raul Zaffaroni,M,4
+429,José Pablo Feinmann,M,9
+430,Emilce Cuda,F,3
+431,Juan Manuel karg,M,5
+432,Mariana Varela,F,5
+433,Daniel Herrendorf,M,2
+434,Ezequiel Kostenwein,M,1
+435,Andrés Oppenheimer,M,33
+436,Enrique Arias Gibert,M,3
+437,Luis Lazzaro,M,4
+438,Alejandro Linares,M,1
+439,Verónica Azpiroz Cleñan,F,2
+440,Germán Moldes,M,2
+441,José Ignacio de Mendiguren,M,1
+442,Sergio Bufano,M,1
+443,Oscar Ranzani,M,4
+444,Natalia Blanc,F,8
+445,Alejandro Grimson,M,1
+446,Gonzalo Navarro Sanz,M,1
+447,Julián Schvindlerman,M,2
+448,Alieto A. Guadagni,M,1
+449,José Claudio Escribano,M,9
+450,Nora Bär,F,42
+451,Florencia Saintout,F,2
+452,Emilio Del Guercio,M,1
+453,Dolores Curia,F,2
+454,Alfredo Sainz,M,1
+455,María de los Angeles Ledesma,F,1
+456,Ian Drummond y Rogelia S. Toer,X,1
+457,Marisa Avigliano,F,2
+458,Marcos Las Heras,M,1
+459,Juan Battaleme,M,4
+460,Pablo Lada,M,1
+461,Diego Hurtado y Daniel Filmus (*,M,1
+462,Raúl Zaffaroni,M,1
+464,Sergio Kiernan,M,9
+465,Pablo Ramos,M,1
+466,Hugo Quiroga,M,3
+467,Roberto Costa,M,3
+468,Edison Lanza,M,1
+469,Paula Canelo,F,1
+470,Hugo Soriani,M,2
+471,Daniel Filmus y Diego Hurtado,M,1
+472,Santiago Giordano,M,2
+473,Julio René Sotelo,M,2
+474,Ana Laura Zavala Guillén,F,2
+475,Manuel Otero,M,3
+476,Roberto Samar,M,8
+477,Fernando Latrille,M,1
+478,Boaventura de Sousa Santos,M,11
+479,la Red de Intelectuales y Artistas en defensa de la Humanidad,X,1
+480,Esteban Bullrich,M,2
+481,Eduardo S. Barcesat,M,4
+482,Ernesto Tiffenberg,M,10
+483,Alfredo Serrano Mancilla,M,9
+484,Estela Carlotto,F,1
+485,Marcelo Miniati,M,1
+486,Leila Vecslir,F,1
+487,Federico Caeiro,M,2
+488,Diana Fernández Irusta,F,19
+489,Emanuel Respighi,M,3
+490,Mario Giannoni,M,3
+491,Flor Monfort,F,3
+492,Julio María Sanguinetti,M,6
+493,Pedro Rey,M,1
+494,Miguel Espeche,M,4
+495,Pedro B. Rey,M,1
+496,John Carlin,M,38
+497,Quim Monzó,M,4
+499,Sergio Santesteban,M,2
+500,Andrea Conde,F,1
+501,Inés Aguerrondo,F,1
+502,Roxana Kreimer,F,3
+503,Norberto Frigerio,M,7
+504,Alicia Entel,F,1
+505,Ana Jaramillo,F,1
+506,Baltasar Garzón,M,1
+507,Victor A. Beker,M,6
+508,Lucrecia Teixidó,F,11
+509,Inés M. Weinberg,F,1
+510,Pablo Carreras Mayer,M,1
+511,Roberto Agustín Follari,M,1
+512,Néstor Piccone,M,2
+513,Orlando J. Ferreres,M,29
+514,Mario Roset,M,1
+515,Tila Tuguía,F,1
+516,Mercedes Calzado,F,3
+517,Martín Balza,M,7
+518,Ricardo De Lellis,M,3
+519,Luciana de Mello,F,2
+520,Alejandra Jalof,F,2
+521,Aníbal Pérez-Liñán,M,1
+522,Luciana Vázquez,F,4
+523,Michael J. Abramowitz,M,1
+524,Mónica Graiewski,F,3
+525,Mariana Galvani,F,1
+526,Hernán Arce Zaconeta,M,1
+527,Pedro Bekinschtein,M,2
+528,Claudio Ariel Romero,M,1
+529,Ricardo Esteves,M,5
+530,Sergio Ramírez,M,2
+531,Cecilia Merchán,F,3
+532,Belén López Peirano,F,1
+533,Joana Bonet,F,11
+535,Marina Aizen,F,18
+536,Julio César Urien,M,1
+537,Andrés Kreiner,M,1
+538,Pablo Plotkin,M,2
+539,Santiago Bilinkis,M,10
+540,Roberto Gargarella,M,11
+541,José Bielicki,M,1
+542,Florencia Casamiquela,F,1
+543,Mariano A. Barrera,M,1
+544,Lucas Ferrería,M,3
+545,Lucila Larrandart,F,3
+546,Luis Palma Cané,M,4
+547,Daniel Balmaceda,M,5
+548,Julio A. Piekarz,M,1
+549,Ricardo de Titto,M,6
+550,Mariano Gallego,M,4
+551,José Andrés Repar,M,1
+552,Nicolás Tereschuk y Nicolás Freibrurn,M,1
+553,Mariana Sirimarco,F,1
+554,Ricardo Gil Lavedra,M,2
+555,Manuel Alvarez Trongé,M,4
+556,Guido Croxatto,M,9
+557,Sandra Saidman,F,1
+558,Claudio Boyé,M,1
+559,Cristian Bolado,M,1
+560,Verónica Maggio,F,1
+561,Paula Español,F,4
+562,Néstor Abramovich,M,2
+563,Victoria Freire,F,2
+564,Gastón Garriga,M,1
+565,Jaime Saavedra y Jesko Hentschel,M,1
+566,Gabriela Cabezón Cámara,F,1
+567,Héctor Pedro Recalde,M,8
+568,Jorge Urien Berri,M,2
+569,Juliana Miceli,F,1
+570,Imma Monzó,F,1
+571,Sandra Russo,F,9
+572,Francisco “Paco” Olveira,M,3
+573,Alberto Benegas Lynch (h),M,6
+574,María Lazzaro,F,1
+575,Carlos Tomada y Inés Vázquez,X,1
+576,Lucas E. Gómez,M,1
+577,Alfredo Luis Fernández,M,1
+578,Raúl Ochoa,M,5
+579,Gabriel Vommaro,M,2
+580,Ariel Goldstein,M,4
+581,Angel Berlanga,M,1
+582,Alberto Fernández,M,1
+583,Fernando Savater,M,1
+584,Juan Manuel Casella,M,2
+585,Sandra Massoni,F,1
+586,Eduardo Valdés,M,3
+587,César R. Torres,M,3
+588,Raul Estrada Oyuela,M,2
+589,Alejandro Duchini,M,1
+590,Humberto Schiavoni,M,2
+591,Guillermo Ariza,M,1
+592,Andrés Gil Domínguez,M,6
+594,José Luis Espert,M,2
+595,Rodolfo Livingston,M,1
+596,Camila Bretón,F,14
+597,Adrián De Benedictis,M,8
+598,Roberto Bosca,M,3
+599,Damián Pedemonte,M,1
+600,José Miguel Onaindia,M,1
+601,Fortunato Mallimaci,M,3
+602,Sebastian Abrevaya,M,1
+603,Carlos Heller,M,37
+604,Tatiana Gallego-Lizón,F,1
+605,Samuel Cabanchik,M,2
+606,Javier Ozollo,M,1
+607,Germán Herrera Bartis,M,2
+608,Itai Hagman y Pablo Wahren,M,1
+609,Nadia Minghetti,F,1
+610,José María Poirier Lalanne,M,2
+611,Carolina Hadad,F,1
+612,Jorge Faurie,M,3
+613,Inés Estévez,F,1
+614,Fabián Lebenglik,M,3
+615,Mariano Turzi,M,7
+616,Mariela Baladron y Ezequiel Rivero,X,1
+617,Francisco Godinez Galay,M,2
+618,Alcira Argumedo,F,1
+619,Lino Barañao,M,1
+620,Zelmira Bottini de Rey,F,1
+621,Mariela Baladron,F,1
+622,Emilce Moler,F,1
+623,Noel Alonso Murray,F,1
+624,Diana Baccaro,F,10
+625,María Pia López,F,6
+626,Jorge Gronda,M,1
+627,Eduardo Duhalde,M,7
+628,Constanza Bertolini,F,3
+629,Alejandro W. Slokar,M,1
+630,Pablo Princz,M,1
+631,Liliana Viola,F,8
+632,Karina Leguizamón,F,1
+633,Federico Pavlovsky,M,4
+634,Laura Klein,F,1
+635,Rodrigo Pena,M,1
+636,Guillermo Olivetto,M,2
+637,Claudia Romero,F,2
+638,Ana Viola,F,1
+639,Eial Moldavsky,M,2
+640,Patricia Kolesnicov,F,11
+641,Luis Hornstein,M,2
+642,Germán Palé,M,2
+643,Ignacio Silva,M,1
+644,María Eugenia Catalfamo,F,2
+645,Andrea Pochak,F,1
+646,Paz Rodríguez Niell,F,6
+647,Liliana Pascual,F,2
+648,Esteban Viú,M,1
+649,Ataúlfo Pérez Aznar,M,1
+650,Karina Cammarota,F,1
+651,Pablo Llonto,M,1
+652,Olivia Muñoz-Rojas,F,5
+653,Ignacio Katz,M,2
+654,Betina Stein,F,1
+655,Jorgelina Albano,F,2
+656,Pablo llonto,M,1
+657,Martín Granovsky,M,46
+658,Mario Serrafero,M,2
+659,Karina Banfi,F,1
+660,Juan Manuel Otero,M,1
+661,Juan Carlos Junio,M,1
+663,Nicolás Cassese,M,1
+664,"Alejandro López Accotto, Carlos Martínez, Martín Mangas y Ricardo Paparas",M,1
+665,Ivana Romero,F,1
+666,Abel Albino,M,1
+667,Mercedes Cavallo,F,1
+668,Mariano Aguas,M,3
+669,Rodrigo Álvarez Litre,M,1
+670,Adrián Foncillas,M,1
+671,Marcela I. Basterra,F,1
+672,Francisco Cabrera,M,2
+673,Graciela Guadalupe,F,21
+674,Eva Giberti,F,4
+675,Maciek Wisniewski,M,1
+676,Por Carlos Rozanski,M,1
+677,Por Leonardo Grosso,M,1
+678,Carolina Sánchez Agostini,F,1
+679,Guillermo M. Lipera,M,1
+680,Dante Sica,M,3
+681,Edgardo Zablotsky,M,1
+682,Pablo Poncini,M,1
+683,Estela Barnes de Carlotto,F,1
+684,Daniel Santoro,M,1
+685,Oscar Ojea,M,1
+686,Marta Riskin,F,5
+687,Hebe de Bonafini,F,1
+688,Taty Almeida,F,1
+689,José Antonio Viera-Gallo,M,1
+690,Marco Gallo,M,2
+691,Guillermina Tiramonti,F,1
+692,Gustavo Westerkamp,M,1
+693,Mela Bosch y Tatiana Carsen,F,1
+694,Andrés H. Reggiani,M,1
+695,Soraya Maicoño,F,1
+696,Marcelo Polakoff,M,4
+697,Jorge Luis Bernetti,M,2
+698,Maricel Etchecoin Moro,F,1
+699,Pablo Esteban,M,2
+700,Alberto Bovino,M,1
+701,Paula Jiménez España,F,4
+702,Joseph Stiglitz,M,3
+703,Agustín Romero,M,3
+704,Juan Cruz Esquivel,M,2
+705,Luis Angel D’Elía,M,1
+706,Eduardo Reina,M,1
+707,Juan Manuel Padin y Juan E. Cantarella,M,1
+708,José Cruz Campagnoli,M,1
+709,Alfredo Fragueiro,M,1
+710,Norma Cadoppi,F,4
+711,José Nun,M,2
+712,Ricardo Kohan,M,1
+713,Beatriz Busaniche,F,1
+714,Jorge Carrera,M,1
+715,Emilio Alochis y Marcos Muñoz,M,1
+716,Mariángeles Castro Sánchez,F,2
+717,Claudia Lázaro,F,1
+718,Eduardo Wolovelsky,M,1
+719,Ana María Careaga,F,4
+720,María Pía del Castillo,F,1
+721,Alejandra Cardini,F,2
+722,Beatriz Chisleanschi,F,1
+723,Gimena de León y Alejandro Biondi,X,1
+724,Gimena de León,F,1
+725,Estela Díaz,F,1
+726,Mariana Pedace,F,1
+727,Dolores Young,F,1
+728,Denise Braz,F,1
+729,Adolfo Pérez Esquivel,M,3
+730,Felipe Calderón,M,1
+731,Juan Carlos Del Bello,M,2
+732,Sacha Kun Sabó,M,1
+733,Sebastián Galiani,M,1
+734,Carolina Allievi y Victoria Freire,F,1
+735,Federico Pastrana y Juan Goldman,M,1
+736,Itai Hagman y Mariano Santana,M,1
+737,Alejandro Amor,M,1
+738,Florencia Luna,F,1
+739,Alejandro Kaufman,M,1
+740,Itai Hagman,M,4
+741,Myriam Mitrece,F,1
+742,Marina Dal Poggetto,F,3
+743,Alberto Ferrari Etcheberry,M,1
+744,Gustavo Sain,M,1
+745,Juan Manuel Karg,M,9
+746,Jorge Rivas,M,3
+747,Julio Conte Grand,M,1
+748,Gabriel Mariotto,M,1
+749,Federico Bernal,M,3
+750,Oscar Luna,M,1
+751,Eduardo de la Serna,M,3
+752,Matías Barroetaveña,M,3
+753,Marcelo Kohen,M,1
+754,Raúl Martínez Fazzalari,M,5
+755,Martha Rosenberg,F,1
+756,Ginés González García,M,3
+757,Gustavo Iaies,M,5
+758,Germán C. Garavano,M,1
+759,Carlos Tomada,M,2
+760,Katu Arkonada,M,1
+761,Edgardo Esteban y Uriel Erlich,M,1
+762,Ricardo Lorenzetti,M,1
+763,Cornelia Schmidt Liermann,F,2
+764,"Ana Oberlin, Guido Croxatto y Charly Pisoni",X,1
+765,Daniel Green y Juan Fal,M,1
+766,Marcos Rebasa,M,6
+767,Luis Paz,M,7
+768,Fernanda Sández,F,3
+769,Jorge Luis Duperré,M,1
+770,Daniel Cabrera,M,3
+771,Carolina Dome,F,1
+772,Noé Jitrik,M,4
+773,Fabrizio Maranzana,M,1
+774,María Elena Naddeo,F,4
+775,Ramiro González,M,1
+776,Francisco Jueguen,M,1
+777,Martín Etchegoyen Lynch,M,2
+778,Mauricio D'Alessandro,M,1
+779,Felipe Solá,M,2
+780,Darío Norman Martínez,M,1
+781,Guillermo Carmona,M,4
+782,Madeleine Albright,F,1
+783,Marisol Merquel,F,1
+784,Paulo Pimenta,M,2
+785,Natalia Zito,F,1
+786,Agustín Carrara,M,1
+787,Mariano Amartino,M,4
+788,Norma Cuevas,F,1
+789,Horacio Meguira,M,1
+790,Susana Toporosi,F,1
+791,Ernesto Fernández Nuñez,M,1
+792,Mariana Kappelmayer de Palacios,F,1
+793,Edi Zunino,M,1
+794,Santiago O’Donnell,M,9
+795,E. Raúl Zaffaroni,M,3
+796,Andrés Ferrari Haines,M,9
+797,Cristiana Schettini,F,1
+798,Rubén Torres Parson,M,1
+799,Pablo Fernández Blanco,M,3
+800,Esteban Rubinstein,M,1
+801,Beto Pianelli,M,1
+802,Federico Saravia,M,1
+803,Andrés J. Kreiner,M,3
+804,Julia Pomares,F,2
+805,Ricardo Beltrán,M,1
+806,Alvaro Abós,M,8
+807,Agustín Zbar,M,2
+808,Marcelo Elizondo,M,8
+809,José Luis Juresa,M,1
+810,Fernanda Laguna,F,1
+811,Mariel Carrubba Laraignée,F,1
+812,Alejandro M. Correa,M,1
+813,Julián Domínguez,M,2
+814,Martín Gauto,M,1
+815,Abelardo Franchini,M,1
+816,David Brooks,M,1
+817,"Alfredo Serrano Mancilla, Gisela Brito y Ava Gómez",X,1
+818,Andres Valenzuela,M,1
+819,Lidia Heller,F,1
+820,Agustín D’Attellis,M,1
+821,Mariano Beltrani,M,1
+822,Chantal Mouffe,F,1
+823,Agustín Colombo Sierra,M,1
+824,Nicolás Comini,M,1
+825,Alejandro Dujovne,M,2
+826,Carlos Reboratti,M,2
+827,Alejandro Drucaroff Aguiar,M,2
+828,"Valeria Mutuberría Lazarini, Gabriela Buffa y Gabriela Nacht",F,1
+829,Javier Rodríguez,M,1
+830,Andrés Repar y Marcos Rebasa,M,1
+831,Alejandro Corbacho,M,1
+832,María Florencia Casamiquela,F,3
+833,Manuel Castells,M,3
+834,Daniel R. Viola,M,1
+835,Mario Pujó,M,1
+836,Iván Petrella,M,6
+837,Alejandro Modarelli,M,1
+838,Patricio Carmody,M,2
+840,Carlos Alberto Rozanski,M,8
+841,Constanza Mazzina,F,1
+842,Elina Malamud,F,3
+843,Federico Águila,M,1
+844,Juan Pablo Álvarez,M,1
+845,Fernando Vallespín,M,4
+846,Bjørn Lomborg. The Project Syndicate / Especial para Clarín,M,1
+847,Germán Garavano,M,3
+849,Nicolás Artusi,M,4
+850,Celina Chatruc,F,4
+851,Fabio Quetglas,M,2
+852,Fernando “Chino” Navarro,M,6
+853,Mariano Molina,M,3
+854,Juan Grabois,M,1
+856,Pablo Brumovsky,M,2
+857,Marcos Aguinis,M,2
+858,Juan Cuattromo,M,1
+859,Alejandro Robba,M,1
+860,Andrés Vilella Weiss,M,1
+861,Rodrigo Fresán,M,13
+862,Alan Iud,M,1
+863,Ian Buruma,M,3
+864,Fernando J. Ruiz,M,4
+865,Claudio Figuerola,M,1
+866,Carlos Alberto Barzani,M,1
+867,Marcelo Szelagowski,M,1
+868,Martín Lousteau,M,1
+869,Alejandro Slokar,M,2
+870,Deborah Huczek,F,1
+871,Emmanuel Alvarez Agis,M,1
+872,Luis Grossman,M,1
+873,Alejandra Litterio,F,1
+874,Felix Crous,M,2
+875,Peter Singer,M,2
+876,Mariana Maggio,F,1
+877,Santiago Kovadloff,M,5
+878,Javier Sandomingo,M,2
+879,Emilio Ocampo,M,7
+880,Adrián Falco,M,1
+881,Verónica Grondona,F,1
+882,Horacio Reyser,M,1
+883,Omar Abboud,M,2
+884,Juan Pegoraro,M,1
+885,Javier Blanco,M,1
+886,Rubén M. Perina,M,4
+887,Diana Tussie,F,1
+888,Elsa Llenderrozas,F,2
+889,Raúl Montenegro,M,1
+890,Jorge Majfud,M,10
+891,​​​​​​​Iván Pablo Orbuch,M,1
+892,Alicia Hartmann,F,2
+893,Ana Castellani,F,3
+894,Patricio Garcia de Leo,M,1
+895,Noemí Ciollaro,F,2
+896,Santiago Montoya,M,1
+897,"Hernán Letcher, Germán Muiño, Magdalena Rua, Julia Strada y Leandro Ziccarelli",M,1
+899,"Hernán Letcher, Germán Muiño y otros",M,1
+900,Mariano Sardans,M,1
+901,Guillermo Calvo,M,1
+902,Gustavo Ludmer,M,1
+903,Juan Manuel Padín,M,2
+904,Ana Acosta,F,1
+905,Jorge Capitanich,M,1
+906,Fernando Henrique Cardoso,M,1
+907,César Merea,M,1
+908,Pablo Manzanelli,M,1
+909,Néstor Restivo,M,2
+910,Daniel Guiñazú,M,10
+911,Rubén Lo Vuolo,M,2
+912,Josep Puig Bóo,M,2
+913,Gustavo Bulla,M,1
+914,Vicente Battista,M,3
+915,Lucía Cirmi Obón,F,1
+916,Alberto Manuel García Lema,M,2
+917,Eduardo Macchiavelli,M,1
+918,Luciano Lutereau,M,2
+919,Joaquín Soriani,M,2
+920,Lorenza Sebesta,F,1
+921,Salvador Gil,M,1
+922,Carlos Elbert,M,1
+923,Pedro Cahn,M,2
+925,Gabriel Levinas,M,1
+926,Victor Wolf,M,6
+927,Hernán Charosky,M,2
+928,Daniel Lozano,M,2
+929,Ariel Aguilar,M,4
+930,Pablo Kornblum,M,2
+931,Betina S. Stein,F,1
+932,Lisandro Rábida,M,1
+933,José Manuel Ugarte,M,1
+934,Sergio Wisky,M,1
+935,Darío G. Martínez,M,2
+936,Fabián Ruocco,M,1
+937,"Fernando ""Pino"" Solanas",M,6
+938,Roberto “Tito” Cossa,M,1
+939,Raúl Cazal,M,1
+940,Ernesto Meccia,M,1
+941,Marina Yuszczuk,F,2
+942,Fernando Krakowiak,M,2
+943,Andrés Ibarra,M,1
+944,Marcela Mora y Araujo,F,1
+,,M,2
+945,Mario Toer,M,1
+946,Fabian Bosoer,M,36
+948,J. Matías De Lucchi,M,2
+949,Pablo Chena,M,1
+950,Aldo Isuani,M,2
+951,Daniel Mecca,M,1
+952,Diego Videla,M,1
+953,Julián Zícari,M,2
+954,Fernanda Gil Lozano,F,2
+955,Hugo Martini,M,3
+956,Juan Pablo Darioli,M,2
+957,René Oviedo,M,1
+958,Ariel Graizer,M,1
+959,Facundo Solanas,M,1
+960,Arnaldo Otegi,M,1
+961,María Cristina Oleaga,F,1
+962,José Armando Caro Figueroa,M,1
+963,Claudio Presman,M,3
+964,Iñaki Regueiro De Giacomi,M,1
+965,Rafael Velasco,M,1
+966,Marta Nebot,F,1
+967,Anabella Lucardi,F,1
+968,Mariano Lovelli,M,1
+969,Gustavo Segré,M,1
+970,Néstor Scibona,M,4
+971,Daniel Goldman,M,1
+972,Nicolás Arata,M,1
+973,Claudia Korol,F,5
+974,Magdalena Ruiz Guiñazú,F,12
+975,Gianfranco Pasquino,M,1
+976,Alejandro Melamed,M,1
+977,María Seoane,F,3
+978,Teresa Vargas,F,1
+979,Adriana Alegrett Salazar,F,1
+980,Verónica Toller,F,1
+982,Gabriel Chocron,M,1
+983,Teresita Vargas,F,1
+984,Luis Gregorich,M,7
+985,Raanan Rein,M,1
+986,Mariano Echenique,M,3
+987,",",X,1
+988,Roxana Longo,F,1
+989,Pablo Bernasconi,M,2
+990,Adriana Carrasco,F,2
+991,Romina Behrens,F,1
+992,Adrian Melo,M,1
+993,Jaime Barba,M,2
+994,Susana Decibe,F,1
+995,Magalí Etchebarne,F,1
+996,Jorge Remes Lenicov,M,2
+997,Facundo Suárez Lastra,M,1
+998,Rocco Carbone,M,1
+999,Carlos Valle,M,1
+1000,María Pía López,F,9
+1001,Laura Laski,F,1
+1002,Victoria Morales Gorleri,F,1
+1003,Verónica Gago,F,2
+1005,Mariano Obarrio,M,1
+1006,Laura F. Belli,F,1
+1007,Leticia Cerezo,F,1
+1008,Liliana De Riz,F,1
+1009,Siro De Martini,M,1
+1010,Enrique Maurtua Konstantinidis,M,2
+1011,Lucía De leone,F,1
+1013,Josefina Mendoza,F,1
+1014,Damián Toschi,M,1
+1016,Jorge Fonseca,M,1
+1017,Nicolás Hernán Zeolla,M,1
+1018,Juan Cruz,M,3
+1020,Héctor Barbotta,M,1
+1021,Nicolás Segal,M,1
+1022,Mariana L. González,F,1
+1023,Raúl Barrios,M,1
+1024,Laura Devetach,F,1
+1025,Miguel Angel Asensio,M,1
+1026,Jason Beech,M,1
+1027,Adriana Noreña,F,1
+1028,Nicole Moscovich,F,3
+1029,Miriam Boyadjian,F,1
+1030,Mariano E. Giménez,M,2
+1031,Martín Casares,M,1
+1032,Ana Oberlin,F,3
+1033,Mariela Lanza,F,3
+1034,Carlos Rozen,M,2
+1035,Guadalupe Treibel,F,3
+1036,Marcelo Mazzuca,M,1
+1037,Yumber Vera Rojas,M,1
+1038,Claudia Neira,F,3
+1039,Daniel Pelegrina,M,1
+1040,Gonzalo Arzuaga,M,1
+1041,Aida Kemelmajer de Carlucci,F,1
+1042,Gabriela Michetti,F,1
+1043,Luis Alberto Cáceres,M,1
+1044,Silvia Elizalde,F,1
+1045,Analía Más,F,1
+1046,Karina Felitti,F,1
+1047,Hugo Yasky,M,1
+1048,Sandra Cesilini,F,5
+1049,Oscar Trotta,M,1
+1050,Enrique Nardone,M,1
+1051,Juan Pablo Sorín,M,1
+1052,Manuel Sbdar,M,1
+1053,Pierre Henri Guignard,M,1
+1054,Gustavo López,M,1
+1055,Robert Fisk,M,2
+1056,Natalia Neo Poblet,F,2
+1057,Karina Galperín,F,1
+1058,Pablo Gianera,M,19
+1059,Clara Sanchis Mira,F,1
+1060,Laura Rosso,F,2
+1061,Luciano Fabbri,M,1
+1062,Lothar Matthäus,M,1
+1063,Marcelo Gantman,M,1
+1064,Arnaldo Bocco,M,3
+1065,Paul Krugman,M,1
+1066,Federico Sciurano,M,1
+1067,Javier Correa,M,1
+1068,Fernando Buen Abad Domínguez,M,2
+1069,Alberto Barrera Tyszka,M,2
+1070,Silvia Giacoppo,F,1
+1071,Pablo Díaz,M,1
+1072,Antolín Magallanes,M,2
+1073,Juan Fernando Brügge,M,1
+1074,Victoria Tolosa Paz,F,1
+1075,Tina Gardella,F,1
+1076,Juan Ignacio Issa,M,2
+1077,Sergio Wischñevsky,M,5
+1078,Fabiana Rousseaux,F,1
+1079,Violeta Gorodischer,F,2
+1080,Alejandro J. Ganimian,M,1
+1081,Miguel Angel Barrios,M,1
+1082,Horacio Tettamanti,M,2
+1083,Roberto Agosta,M,1
+1084,José Natanson,M,4
+1085,Remei Margarit,F,3
+1086,Pablo Gentili,M,6
+1087,Mario Negri,M,1
+1088,Victoria Giarrizo,F,1
+1089,Sergio Pasqualini,M,1
+1090,Miguel Ángel Pichetto,M,1
+1091,Santiago Dapelo,M,2
+1092,Norberto Consani,M,2
+1093,"Blas Bigatti, Santiago Ragno y Santiago Stura",M,1
+1094,Horacio Bernades,M,5
+1095,Eugenia Botta,F,1
+1096,Luis Tonelli,M,7
+1097,Ana María Delgado,F,1
+1098,Jorge A. Colombo,M,1
+1099,María Medrano,F,1
+1100,Héctor A. Huergo,M,2
+1101,Felipe Solá (*,M,2
+1102,Claudio Epelman,M,1
+1103,Mario D. Serrafero,M,1
+1104,Adriana Clemente,F,1
+1105,Silvia Duschatzky,F,1
+1106,Nils Castro,M,3
+1107,Alberto Kornblihtt,M,1
+1108,Alberto kornblihtt,M,1
+1109,Santiago de Estrada,M,1
+1110,Corina Alegre,F,1
+1111,Sergio Doval,M,3
+1112,Julio Bárbaro,M,2
+1113,Verónica Buchanan,F,1
+1114,Raúl Kollmann,M,7
+1115,Luis Contigiani,M,2
+1116,Federico Casal,M,1
+1117,Gala Díaz Langou,F,1
+1118,Andrea Echevarría,F,1
+1119,Eduardo F. Valdés,M,1
+1120,Eduardo Diana,M,1
+1121,Carola Martinez,F,1
+1122,Mark Kent,M,1
+1123,María Fernanda Rodríguez,F,2
+1124,Luciana Zorzoli,F,1
+1125,Marta Cichero,F,1
+1126,Gabriela Diker,F,1
+1127,Mariano Nespral,M,1
+1128,Enrique Peña Nieto,M,1
+1129,Thomas L. Friedman,M,1
+1130,Mariano Bartolomé,M,1
+1131,Juan Félix Marteau,M,1
+1132,Carta Abierta,X,1
+1133,Pedro Goldfarb,M,1
+1134,Ernesto López,M,2
+1135,Rodolfo Braceli,M,2
+1136,Daniel Barenboim,M,1
+1137,Javier Torres Molina,M,1
+1138,Mariano Holot,M,1
+1139,Raúl Muda,M,1
+1140,Carla Yumatle,F,1
+1141,Raúl Magnasco,M,1
+1142,Aldo Duzdevich,M,2
+1143,Julián Axat,M,2
+1144,Mario Alberto Juliano,M,1
+1145,Daniel H. Silva,M,1
+1146,Mariela Belski,F,2
+1147,Pablo Secchi,M,2
+1148,Marlene Wayar,F,3
+1149,Cristina Banegas,F,1
+1150,Héctor Huergo,M,2
+1151,Camila Stimbaum,F,1
+1152,Alejandro Besuschio,M,1
+1153,Hernán Patiño Mayer,M,1
+1154,Andrea Guzmán,F,1
+1155,Mario Sebastiani,M,3
+1156,Carlos Menem,M,1
+1157,Marina Lisenberg,F,1
+1158,Iván Pablo Orbuch,M,1
+1159,Carlos Pisoni,M,1
+1160,Lelio Mármora,M,3
+1161,Señorita Bimbo,F,1
+1162,Emilse Pizarro,F,1
+1163,Martín Zeballos Ayerza,M,1
+1164,Josep María Ruiz Simón,M,2
+1165,Fernán Saguier,M,2
+1166,Daniel Scarfo,M,3
+1167,Mabel Careaga,F,1
+1168,Carla Quiroga,F,2
+1169,Roberto Bacman,M,3
+1170,Mabel Zurita,F,1
+1171,Ernesto Martelli,M,1
+1172,Marco Teruggi,M,5
+1173,Enrique “Pepe” Albistur,M,1
+1174,Gregorio Badeni,M,2
+1175,Andrés Repar y Arturo Trinelli,M,1
+1176,Juan Ignacio Duarte,M,1
+1177,Ignacio Peña,M,1
+1178,Ester Szlit,F,1
+1179,Esteban Torres,M,1
+1180,María Soledad Segura y Agustín Espada,X,1
+1181,Guillermo Marcó,M,1
+1182,Jorge Streb,M,1
+1183,Horacio Viqueira,M,1
+1184,Santiago Roberto,M,2
+1185,Giselle Santana,F,1
+1186,Felipe Yapur,M,3
+1187,José Eduardo Abadi,M,1
+1188,Graciela Daleo,F,1
+1189,Pablo Shmerkin,M,1
+1190,Daniel Ulanovsky Sack,M,1
+1191,Enrique Valiente Noailles,M,1
+1192,Rut Diamint,F,1
+1193,Roberto Follari,M,2
+1194,Esteban Sánchez,M,1
+1195,Pablo Amalfitano,M,1
+1196,Walter C. Medina,M,1
+1197,Esteban Elena,M,1
+1198,Osvaldo L. Delgado,M,1
+1199,Gerardo Alzamora,M,1
+1200,Diego Luciani,M,1
+1201,Hugo Beccacece,M,9
+1202,"Federico Pastrana, Florencia Medici",M,1
+1203,Tomás Varnagy,M,1
+1204,Pablo Rovito,M,1
+1205,Laura Galarza,F,1
+1206,Pablo Martínez Carignano,M,1
+1207,Mauro Limas,M,1
+1208,Hijos La Plata,X,1
+1209,Cecilia Sciessere,F,1
+1210,Gail Scriven,F,1
+1211,Hugo Wortman Jofré,M,1
+1212,Sara Méndez,F,1
+1213,Luciana Mantero,F,2
+1214,Carol Proner,F,1
+1215,Antoni Gutiérrez-Rubí,M,1
+1216,Rafael Rojas,M,1
+1217,Leopoldo Moreau,M,1
+1218,Luis Rappoport,M,1
+1219,Juan Pablo Ordoñez,M,1
+1220,Luis Vinker,M,3
+1221,Ezequiel Brahim,M,1
+1222,Sebastián Varela del Río,M,1
+1223,"A. López Accotto, C. Martínez, M. Mangas y R. Paparas",X,1
+1224,Natalia Aruguete,F,1
+1225,Martín Unzué,M,1
+1226,Silvia E. González Ayala,F,1
+1227,Wanda Fraiman,F,1
+1228,Pablo Antonini,M,1
+1229,Pedro Wasiejko,M,1
+1230,Alberto Sileoni,M,1
+1231,Damián Brizuela,M,1
+1232,Marcela Ana Negro,F,1
+1233,Leandro Despouy,M,1
+1234,Silvio Waisbord,M,2
+1235,José Manuel Ortega Fournier,M,1
+1236,Daniela Gabor,F,1
+1237,Andrew Graham-Yooll,M,1
+1238,Francisco Yofre,M,1
+1239,Irina Moroni,F,1
+1240,Carlos Martínez y Nicolás Dinerstein,M,1
+1241,Ben Backwell,M,1
+1242,Juan Falú,M,1
+1243,Teresa Parodi,F,1
+1244,Grupo Ciencia y Técnica Argentina (CyTA),X,1
+1245,José Suárez Álvarez,M,1
+1246,Celeste Jerez,F,2
+1247,Agustín Waisman,M,1
+1248,Hernán Patiño Meyer,M,1
+1249,Marianela Scocco,F,1
+1250,Pablo Slonimsqui,M,1
+1251,Lluis Foix,M,2
+1252,María José Castells,F,1
+1253,Ariel Geandet,M,1
+1254,Daniel Funes de Rioja,M,1
+1255,Nora Lía Sormani,F,1
+1256,Camila Campodónico,F,1
+1257,María Graciela Rodríguez,F,1
+1258,Guillermo Schavelzon,M,1
+1259,Fabiana Quaini,F,1
+1260,Carlos Alvarez Teijeiro,M,2
+1261,Mario Juliano,M,3
+1262,Gabriel Puricelli,M,1
+1263,Ignacio D’Amore,M,1
+1264,Luci Cavallero,F,1
+1265,Edgardo N. De Vincenzi,M,1
+1266,María José Rodríguez Murguiondo,F,2
+1267,José María Lladós,M,1
+1268,Facundo Bocco Proietti,M,2
+1269,Carlos Gervasoni,M,1
+1270,Hernán Maurette,M,1
+1271,Marcelo Rabossi,M,1
+1272,Diego Berardo,M,1
+1273,Adriana Lauria,F,1
+1274,Mario Rapoport,M,2
+1275,Dario Pignotti,M,1
+1276,Mara Brawer,F,1
+1277,Leandro Morgenfeld,M,1
+1278,Jorgelina Loza,F,1
+1279,Roberto Cortés Conde,M,1
+1280,Oscar Cecchi,M,1
+1281,Gabriela Larralde,F,1
+1282,Alfredo Pérez Galimberti,M,1
+1283,Mariano Llinás,M,1
+1284,Victoria Donda,F,2
+1285,Silvina Romano,F,1
+1286,Estela Diaz,F,1
+1287,Sebastián Tobar,M,1
+1288,Cecilia Rikap,F,1
+1289,Ezequiel Rivero,M,1
+1290,Martín D'Alessandro,M,1
+1291,Walter Bressia,M,1
+1292,"1-Claudia Broitman, 2-Graciela Chemello, 3-Patrica Sadovsky y 4-Carmen Sessa",F,1
+1293,Jorge Halperín,M,5
+1294,Sebastián Plut,M,1
+1295,Pablo Nocera,M,1
+1296,Andrés Calamaro,M,1
+1297,Adán Jodorowsky,M,1
+1298,Silvia Saravia,F,1
+1299,Sandra Aguilar,F,1
+1300,Maximiliano Abad,M,1
+1301,Carla Carrizo,F,1
+1302,Helena Estrada,F,2
+1303,Daniel E. Novak,M,1
+1304,Guillermo Saccomanno,M,3
+1305,Jorge Sarghini,M,1
+1306,Gabriel Sánchez Zinny,M,1
+1307,Ariel Basteiro,M,1
+1308,Jorge Altamira,M,1
+1309,Marikena Monti,F,1
+1310,Cecilia Rossetto,F,1
+1311,Rita Cortese,F,1
+1312,Mario Midón,M,1
+1313,Gustavo Blutman,M,1
+1314,Dolores Caviglia,F,20
+1315,Beatriz Alem,F,1
+1316,Adrian Franco (Pati),M,1
+1317,Max Aguirre,M,1
+1318,Arnaldo “Lalo” Piñon,M,1
+1319,Eduardo Misch,M,1
+1320,Irene Meler,F,1
+1321,Emilio J. Cardenas,M,1
+1322,María Victoria Giulietti,F,1
+1323,Sebastián Halperín,M,1
+1324,Ariel Dorfman,M,5
+1325,Leopoldo Godio,M,1
+1326,Jorge Taiana,M,1
+1327,Martín Pérez,M,1
+1328,Aldo Lo Russo,M,1
+1329,Jorge Rosales,M,5
+1330,Irma Argüello,F,2
+1331,Gabriel Fuks,M,3
+1332,Julieta Waisgold,F,1
+1333,Federico Merke,M,1
+1334,Marisa Giráldez,F,1
+1335,Gustavo Ferrari,M,1
+1336,Victoria Zorraquín,F,1
+1337,Marcelo Giullitti Oliva,M,2
+1338,Arnaldo Medina,M,1
+1339,Lucas Doldan,M,1
+1340,Ana María Shua,F,2
+1341,Elena Duro,F,1
+1343,Nicolás Zeolla,M,1
+1344,Andrés Cisneros,M,2
+1345,Domingo Bresci,M,1
+1346,Marta Braschi,F,1
+1347,Magdalena Fernández Lemos,F,2
+1348,Florencia Vallone,F,2
+1349,Virgilio Gregorini,M,1
+1350,Susana Malcorra,F,1
+1351,Rodrigo Zarazaga,M,1
+1352,Lola Sasturain,F,1
+1353,Javier Bardem,M,1
+1354,Marcelo Saguier,M,1
+1355,José Ramón López-Portillo,M,1
+1356,Belén López Peiró,F,3
+1357,Shelley Park,F,1
+1358,Marie Bardet,F,1
+1359,Ricardo Pignanelli,M,1
+1360,Pablo Bereciartúa,M,2
+1361,Martin Wallach,M,1
+1362,Fausto Spotorno,M,1
+1363,Bruno Susani,M,2
+1364,Carli Bianco,F,3
+1365,Jeanet Leguas,F,1
+1366,Víctor Bronstein,M,2
+1367,Arturo Trinelli,M,2
+1368,Jorge Reinaldo Vanossi,M,1
+1369,Marcelo Langieri,M,1
+1370,Jorge Castro Rubel,M,1
+1371,Noelia Rivero,F,1
+1372,Horacio Losoviz,M,1
+1373,Fabio J. Quetglas,M,2
+1374,Francisco Quintana,M,1
+1375,Sebastián Waisgrais,M,2
+1376,Gabriel Lanfranchi,M,1
+1377,Guido Leonardo Croxatto,M,1
+1378,Herman Lew,M,1
+1379,Dalile Antúnez,F,1
+1380,Norma Vázquez,F,1
+1381,Tomás Rodríguez,M,1
+1382,Ricardo Pedace,M,1
+1383,Leonel González Postigo,M,2
+1384,Shlomo Ben-Ami,M,3
+1385,Tomás Lukin,M,2
+1386,Paola Gallo,F,1
+1387,Carlos Rodríguez,M,1
+1388,Andrés Borthagaray,M,1
+1389,Sergio Gabriel Solmesky,M,1
+1390,Jimena Noziglia,F,1
+1391,Enrique Medina,M,1
+1392,Oche Califa,M,2
+1393,Tatiana Sfiligoy (Ruarte Britos),F,1
+1394,Camilo Sánchez,M,1
+1395,Mariano Narodowski,M,1
+1396,Oscar Moscariello,M,2
+1397,Fernando Bertello,M,1
+1398,Verónica Torras,F,1
+1399,Javier Ghibaudi,M,1
+1400,Ana Gárriz,F,1
+1401,Darío Alessandro,M,1
+1402,Mijail Gorbachov,M,1
+1403,Jorge Castañeda,M,1
+1404,Diego Montes de Oca,M,2
+1405,Carlos Fara,M,2
+1406,Alexander Güvenel,M,2
+1407,Juan Pablo Varsky,M,2
+1408,Patricio Pinto,M,1
+1409,"Andrés Ferrari Haines, André Moreira Cunha",M,1
+1410,Marina Mariasch y Florencia Minici,F,2
+1411,Tania Etulain,F,1
+1412,Ricardo Romero,M,1
+1413,Ana Longoni,F,1
+1414,Lorena Retegui,F,1
+1415,Hernán Monath,M,2
+1416,Alberto Ricardo Dalla Via,M,1
+1417,Samanta Bonelli,F,1
+1418,Luisa Corradini,F,3
+1419,Adrián Stoppelman,M,1
+1420,Carolina Reati,F,1
+1421,Carolina Aguerre,F,1
+1422,"Marta Dillon, Verónica Gago",F,1
+1423,Lois Pérez Leira,F,1
+1424,Andrés Ferrari Haines y André Moreira Cunha,M,1
+1425,"Andrei Ujica, Valerie Massadian, Luis Miñarro, María Alché y María Bonsanti",X,1
+1426,Rodolfo Alonso,M,1
+1427,Carlos Balmaceda,M,1
+1428,Rodolfo Rodil,M,1
+1429,Alejandro Collia,M,1
+1430,Christian A. Dodaro y Verónica Díaz Ordoñez,X,1
+1431,Daniel H. Suárez,M,1
+1432,Agustín Porres,M,2
+1433,Hernán Guggiari,M,1
+1434,Noelia Custodio,F,1
+1435,Graciela Morgade,F,1
+1436,Rodrigo Robles Tristán,M,1
+1437,Alejandra Birgin,F,1
+1438,Mariano Elizondo,M,1
+1439,Fernando Stefani,M,1
+1440,Verónica Montúfar,F,1
+1441,Diego Tatián,M,1
+1442,Varina Suleiman,F,1
+1443,Marco Lavagna,M,1
+1444,Mario Waissbluth,M,1
+1445,Diego Latorre,M,1
+1446,José María Nelson,M,1
+1447,Patricio Giusto,M,2
+1448,Miguel Briante,M,1
+1449,Rafael Bielsa,M,2
+1450,Claudio Romero,M,1
+1451,Colectivo Ni Una Menos,X,1
+1452,Gustavo Hornos,M,1
+1453,Fernando Zingman,M,2
+1454,Pablo Castillo,M,1
+1455,Laura Sbdar,F,1
+1456,Lucía Esperoni,F,1
+1457,Daniel Larriqueta,M,2
+1458,Oscar Soria,M,1
+1459,Santiago Cantón,M,1
+1460,Lucía Speroni,F,1
+1461,Diego R. Guelar,M,1
+1462,José Muchnik,M,1
+1463,Ana De Mendoza,F,1
+1464,Mr. Kailash Satyarthi,M,1
+1465,Paula Nurit Shabel y Luciana Chait,F,1
+1466,Jorge Eines,M,1
+1467,Ezequiel Raimondo,M,1
+1468,Carolina Stanley,F,1
+1469,Laura Ventura,F,1
+1471,Jorge Tartaglione,M,3
+1472,Fernando Pedrosa,M,1
+1473,Luis Alén,M,1
+1474,Roxana Perazza,F,1
+1475,Tomás Forster,M,1
+1476,Eduardo Sguiglia,M,2
+1477,Raul Fitipaldi,M,1
+1478,Mauricio Wainrot,M,1
+1479,Marcelo Veneranda,M,1
+1480,Leandro Bruni,M,1
+1481,Ricardo Nacht,M,1
+1482,Ricardo Raúl Benedetti,M,1
+1483,Mónica Macha,F,1
+1484,Ricardo Gene,M,1
+1485,André Moreira Cunha y Andrés Ferrari Haines,M,1
+1486,Marcelo Betti,M,1
+1487,Alberto Manguel,M,1
+1488,Néstor Vicente,M,1
+1489,Norberto Alayón,M,2
+1490,Edgardo Esteban,M,3
+1491,Claudio Avruj,M,1
+1492,Daniel Tarnopolsky,M,1
+1493,Juan Archibaldo Lanús,M,1
+1494,Elva Roulet,F,1
+1495,Ralph Haiek,M,1
+1496,Sonia Roitman,F,1
+1497,Ofelia Fernández,F,1
+1498,Jorge Todesca,M,1
+1499,Gerardo Sanchis Muñoz,M,1
+1500,Santiago Otamendi,M,2
+1501,Andrés Rosler,M,1
+1502,Ivanna Petz,F,1
+1503,Javier Lorca,M,1
+1504,Manuel Guzmán-Hennessey,M,1
+1505,Martín Astarita,M,1
+1506,Germán L. Kammerath,M,1
+1507,Adriana Amado,F,1
+1508,Emilio Monzó,M,1
+1509,Diego Rossi,M,1
+1510,Pablo Challu,M,1
+1511,Florencia Gordillo,F,1
+1512,Hugo Arana,M,1
+1513,Chris Feliciano Arnold,M,1
+1514,Marcelo J. Louge Juárez,M,1
+1515,Valeria Licciardi,F,1
+1516,Silvana Edith Szmukler,F,1
+1517,Horacio Fazio,M,1
+1518,Pablo Ferreyra,M,1
+1519,Fernando Espinoza,M,1
+1520,Germán Ferrari,M,1
+1521,Carola Birgin,F,1
+1522,Guillermo Levy,M,1
+1523,Esteban Bayer,M,1
+1530,Daniel Rafecas,M,1
+1531,Juan Manuel Telechea,M,1
+1532,Carlos Hoevel,M,1
+1533,Marcelo Lafón,M,1
+1534,Alvaro Rosado,M,1
+1535,Cinthia Wanschelbaum,F,1
+1536,Julián D Angelo,M,1
+1537,Laura Quiñones Urquiza,F,1
+1538,Daniela Giorgetta,F,1
+1539,Mariano Gerván,M,1
+1540,María Laura Garrigós de Rébori,F,2
+1541,Julieta Luque,F,1
+1542,Alfredo Ángel Abuin,M,1
+1543,Maximiliano Reyes,M,1
+1544,Sonia Alesso,F,1
+1545,Nuria Giniger,F,1
+1546,Miguel A. Schiavone,M,1
+1547,"Ana Acosta, Mariano Santana y Leandro Mora Alfonsín",X,1
+1548,Raquel Chan,F,1
+1549,Rudy,M,2
+1550,Martín A. Maldonado,M,1
+1551,Abraham F. Lowenthal,M,2
+1552,Carolina Perín,F,1
+1553,Alicia Caballero,F,1
+1554,Norberto Liwski,M,1
+1555,Alejandro Fierro,M,1
+1556,Ada Augello,F,1
+1557,Gabriel Salvia,M,1
+1558,Eugenio Dimier,M,1
+1559,Ignacio Cloppet,M,2
+1560,Matías Néspolo,M,1
+1561,Viviana Núñez,F,1
+1562,José Manuel Corchuelo Blasco,M,1
+1563,Cynthia Hotton,F,1
+1564,Teresa Elizalde,F,1
+1565,Nadin Argañaraz,M,1
+1566,Blas Bigatti,M,1
+1567,Víctor De Gennaro,M,1
+1568,Lila María Feldman,F,1
+1569,Alejandra Korstanje,F,1
+1570,Katalina Vásquez Guzmán,F,1
+1571,Eduardo Capdevila,M,1
+1572,Rodolfo Rabanal,M,2
+1573,Micaela Kohen,F,1
+1574,Gabriela Borrelli Azara,F,1
+1575,María Paula Zacharías,F,1
+1576,Noelia Díaz Esquivel,F,1
+1577,Nicolás M. Olszevicki,M,1
+1578,"Mariano A. Barrera, Pablo Wahren y Alberto Rodríguez",X,1
+1579,Pablo Marmorato,M,1
+1580,Jorge Enriquez,M,2
+1581,Pablo Neira y Federico Pastrana,X,1
+1582,Verónica Pérez y Candela Hernández,X,1
+1583,Liliana Mazea,F,1
+1584,Frank Ching,M,1
+1585,Jorge Sigal,M,1
+1586,Beatriz Nofal,F,1
+1587,Daniel Gustavo Montamat,M,1
+1588,Cristian Dellocchio,M,1
+1589,Alfredo Jorge Kraut,M,1
+1590,Alejandro Rascovan,M,1
+1591,Soledad Deza,F,1
+1592,Silvina Ajmat,F,1
+1593,Mariano Pinedo,M,1
+1594,Giordana García Sojo,F,1
+1595,Nicolás Tereschuk,M,1
+1596,Jairo Lugo-Ocando,M,1
+1597,Michael J. Camilleri,M,1
+1598,Silvina Martínez,F,1
+1599,Roque Farrán,M,1
+1600,Fernando Frank,M,1
+1601,Nicolás Durrieu,M,1
+1602,Clementina Crisolitti,F,1
+1603,Milton Oddone,M,1
+1604,Eduardo Bastitta,M,1
+1605,Benjamín Uzorskis,M,1
+1606,Estela Maidac,F,1
+1607,Manuel Becerra,M,1
+1608,"Joseph S. Nye, Jr.",M,2
+1609,Catalina Briski,F,1
+1610,Juan Pablo Lichtmajer,M,1
+1611,Ignacio Ibarzábal,M,1
+1612,"Lina Anllo, Cintia González Oviedo",F,1
+1613,Mariano Fraschini,M,1
+1614,Paula Bombara,F,1
+1615,Víctor Fera,M,1
+1616,Pablo Abbatángelo,M,1
+1617,Rodrigo Daskal,M,1
+1618,Rodolfo Paverini,M,1
+1619,Colectivo Federal de Trabajadores del Campo de la Salud Mental,X,1
+1620,Genaro Grasso Cerrano,M,1
+1621,Roberto Lampa,M,1
+1622,Natalia Stoppani,F,1
+1623,"Diego Conno, Diego Singer y Roque Farrán",X,1
+1624,Ricardo Carciofi,M,1
+1625,Telma Barreiro,F,1
+1626,Marcelo Bergman,M,1
+1627,Fabián Restivo,M,1
+1628,Alberto L. Zuppi,M,1
+1629,Osvaldo Arsenio,M,1
+1630,Irina Sternik,F,1
+1631,Camila Sosa Villada,F,1
+1632,Peter Camino Cannock,M,1
+1633,Marcelo Stiletano,M,1
+1634,Rodolfo Manino Iriart,M,1
+1635,Emiliano Balbín,M,1
+1636,Héctor Recalde,M,1
+1637,Gonzalo Sánchez,M,1
+1638,Benjamin N. Gedan,M,1
+1639,Jorge Torres Zavaleta,M,1
+1640,Alfredo Casero,M,1
+1641,Leonardo Murolo,M,1
+1642,Ezequiel A. Rivero,M,1
+1643,Juan Gabriel Tokatlián,M,1
+1644,Sebastián Vigliero,M,1
+1645,Isidoro Luis Felcman,M,1
+1646,Juan Carlos Latrichano,M,1
+1647,"Juan Carlos Latrichano, Julián Blejmar",M,1
+1648,Ariel Prat,M,1
+1649,Romina Rekers,F,1
+1650,Javier González Fraga,M,1
+1651,Andrés Reggiani,M,1
+1652,Liliana Heker,F,1
+1653,Cora Gamarnik,F,1
+1654,Miguel Ángel Schiavone,M,1
+1655,Andrés Delich,M,1
+1656,Matías Segreti,M,1
+1657,Abelardo Vitale,M,1
+1658,Felipe González,M,1
+1659,Robert Reich,M,1
+1660,Luis Montes Calvet,M,1
+1661,Andrés Hatum,M,1
