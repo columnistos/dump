@@ -8582,7 +8582,7 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 8252,"Devolvamos la democracia a Venezuela",lanacion,/2223088-devolvamos-la-democracia-a-venezuela,2019-02-25T04:30:10-03:00,2019-02-26T02:30:09-03:00,1658,1658,"Felipe González",M
 8253,Miradas,lanacion,/2223109-miradas,2019-02-25T04:30:10-03:00,2019-02-26T02:30:09-03:00,274,274,"Víctor Hugo Ghitta",M
 8254,"Cambiemos cruje y se dobla, pero no se rompe",lanacion,/2223105-cambiemos-cruje-y-se-dobla-pero-no-se-rompe,2019-02-25T13:30:10-03:00,2019-02-26T02:30:09-03:00,96,96,"Claudio Jacquelin",M
-8255,"El arte de ofrecer esperanzas (por 2a vez)",clarin,/opinion/arte-ofrecer-esperanzas-2a-vez_0_1PEtHV9A3.html,2019-02-26T01:30:05-03:00,2019-02-27T17:30:05-03:00,108,108,"Gonzalo Abascal",M
+8255,"El arte de ofrecer esperanzas (por 2a vez)",clarin,/opinion/arte-ofrecer-esperanzas-2a-vez_0_1PEtHV9A3.html,2019-02-26T01:30:05-03:00,2019-02-28T09:30:04-03:00,108,108,"Gonzalo Abascal",M
 8256,"Los nuevos excluidos",clarin,/opinion/nuevos-excluidos_0_ODeixJXyS.html,2019-02-26T01:30:05-03:00,2019-02-27T02:30:04-03:00,326,326,"Ricardo Iacub",M
 8257,"UCR: los pasos perdidos",pagina12,https://www.pagina12.com.ar/177374-ucr-los-pasos-perdidos,2019-02-26T02:30:12-03:00,2019-02-27T01:30:13-03:00,1193,1193,"Roberto Follari",M
 8258,"Regiones mal diagnosticadas",pagina12,https://www.pagina12.com.ar/176769-regiones-mal-diagnosticadas,2019-02-26T02:30:12-03:00,2019-02-26T04:30:12-03:00,106,106,"Claudio Scaletta",M
@@ -8595,17 +8595,29 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 8265,"El Dr. Lacan, o la magia de lo escénico",lanacion,/2223391-el-dr-lacan-o-la-magia-de-lo-escenico,2019-02-26T03:30:10-03:00,2019-02-26T08:30:10-03:00,488,488,"Diana Fernández Irusta",F
 8266,"Jonathan Viale debutó con nuevo horario en La Red",lanacion,/2223307-jonathan-viale-debuto-nuevo-horario-la-red,2019-02-26T09:30:12-03:00,2019-02-27T02:30:10-03:00,287,287,"Pablo Montagna",M
 8267,"Sin empleador no hay empleo",lanacion,/2223465-sin-empleador-no-hay-empleo,2019-02-26T18:30:11-03:00,2019-02-27T02:30:10-03:00,1373,1373,"Fabio J. Quetglas",M
-8268,"Silent news",pagina12,https://www.pagina12.com.ar/177564-silent-news,2019-02-27T02:30:13-03:00,2019-02-27T17:30:14-03:00,567,567,"Héctor Pedro Recalde",M
-8269,"De sentido común",pagina12,https://www.pagina12.com.ar/177556-de-sentido-comun,2019-02-27T02:30:13-03:00,2019-02-27T17:30:14-03:00,686,686,"Marta Riskin",F
-8270,"El derecho a la palabra",pagina12,https://www.pagina12.com.ar/177557-el-derecho-a-la-palabra,2019-02-27T02:30:13-03:00,2019-02-27T17:30:14-03:00,405,405,"Carlos A. Valle",M
-8271,"Homo Outsider",pagina12,https://www.pagina12.com.ar/177321-homo-outsider,2019-02-27T02:30:13-03:00,2019-02-27T17:30:14-03:00,861,861,"Rodrigo Fresán",M
-8272,"Una operación más que fracasa",pagina12,https://www.pagina12.com.ar/177546-una-operacion-mas-que-fracasa,2019-02-27T02:30:13-03:00,2019-02-27T17:30:14-03:00,123,123,"Emir Sader",M
-8273,"Agenda negociada en la Corte",clarin,/opinion/agenda-negociada-corte_0_SR4ojq4ar.html,2019-02-27T03:30:04-03:00,2019-02-27T17:30:05-03:00,1,1,"Ricardo Roa",M
-8274,"Entre el salto de la carne y una banda más ...",clarin,/opinion/ente-salto-carne-banda-chica-dolar_0_s975OmmMT.html,2019-02-27T03:30:04-03:00,2019-02-27T17:30:05-03:00,102,102,"Daniel Fernández Canedo",M
-8275,"Con los chicos, no",clarin,/opinion/chicos_0_WUZzDyg49.html,2019-02-27T03:30:04-03:00,2019-02-27T17:30:05-03:00,757,757,"Gustavo Iaies",M
-8276,"El narcisismo y Cristina Kirchner como líder",lanacion,/2223692-el-narcisismo-cristina-kirchner-como-lider,2019-02-27T03:30:10-03:00,2019-02-27T17:30:11-03:00,1661,1661,"Andrés Hatum",M
-8277,"Qué difícil es delegar",lanacion,/2223670-que-dificil-es-delegar,2019-02-27T03:30:10-03:00,2019-02-27T17:30:11-03:00,232,232,"Andrea Churba",F
-8278,"Las políticas monetarias de Brasil y las diferencias con nuestro país",lanacion,/2223830-las-politicas-monetarias-brasil-diferencias-nuestro-pais,2019-02-27T03:30:10-03:00,2019-02-27T17:30:11-03:00,513,513,"Orlando J. Ferreres",M
+8268,"Silent news",pagina12,https://www.pagina12.com.ar/177564-silent-news,2019-02-27T02:30:13-03:00,2019-02-28T00:30:14-03:00,567,567,"Héctor Pedro Recalde",M
+8269,"De sentido común",pagina12,https://www.pagina12.com.ar/177556-de-sentido-comun,2019-02-27T02:30:13-03:00,2019-02-28T00:30:14-03:00,686,686,"Marta Riskin",F
+8270,"El derecho a la palabra",pagina12,https://www.pagina12.com.ar/177557-el-derecho-a-la-palabra,2019-02-27T02:30:13-03:00,2019-02-28T00:30:14-03:00,405,405,"Carlos A. Valle",M
+8271,"Homo Outsider",pagina12,https://www.pagina12.com.ar/177321-homo-outsider,2019-02-27T02:30:13-03:00,2019-02-28T00:30:14-03:00,861,861,"Rodrigo Fresán",M
+8272,"Una operación más que fracasa",pagina12,https://www.pagina12.com.ar/177546-una-operacion-mas-que-fracasa,2019-02-27T02:30:13-03:00,2019-02-28T00:30:14-03:00,123,123,"Emir Sader",M
+8273,"Agenda negociada en la Corte",clarin,/opinion/agenda-negociada-corte_0_SR4ojq4ar.html,2019-02-27T03:30:04-03:00,2019-02-28T01:30:05-03:00,1,1,"Ricardo Roa",M
+8274,"Entre el salto de la carne y una banda más ...",clarin,/opinion/ente-salto-carne-banda-chica-dolar_0_s975OmmMT.html,2019-02-27T03:30:04-03:00,2019-02-28T09:30:04-03:00,102,102,"Daniel Fernández Canedo",M
+8275,"Con los chicos, no",clarin,/opinion/chicos_0_WUZzDyg49.html,2019-02-27T03:30:04-03:00,2019-02-28T09:30:04-03:00,757,757,"Gustavo Iaies",M
+8276,"El narcisismo y Cristina Kirchner como líder",lanacion,/2223692-el-narcisismo-cristina-kirchner-como-lider,2019-02-27T03:30:10-03:00,2019-02-28T03:30:10-03:00,1661,1661,"Andrés Hatum",M
+8277,"Qué difícil es delegar",lanacion,/2223670-que-dificil-es-delegar,2019-02-27T03:30:10-03:00,2019-02-28T03:30:10-03:00,232,232,"Andrea Churba",F
+8278,"Las políticas monetarias de Brasil y las diferencias con nuestro país",lanacion,/2223830-las-politicas-monetarias-brasil-diferencias-nuestro-pais,2019-02-27T03:30:10-03:00,2019-02-28T02:30:11-03:00,513,513,"Orlando J. Ferreres",M
 8279,"La coquetería y el feminismo",lanacion,/2223586-coqueteria-feminismo-belleza-mujeres-lucha-patriarcado,2019-02-27T03:30:10-03:00,2019-02-27T10:30:11-03:00,1314,1314,"Dolores Caviglia",F
-8280,"Insultos, no",lanacion,/2223703-catalejo,2019-02-27T11:30:11-03:00,2019-02-27T17:30:11-03:00,148,148,"Pablo Sirvén",M
-8281,"La violación del arzobispo",pagina12,https://www.pagina12.com.ar/177645-la-violacion-del-arzobispo,2019-02-27T14:30:14-03:00,2019-02-27T17:30:14-03:00,237,237,"Nora Veiras",F
+8280,"Insultos, no",lanacion,/2223703-catalejo,2019-02-27T11:30:11-03:00,2019-02-28T03:30:10-03:00,148,148,"Pablo Sirvén",M
+8281,"La violación del arzobispo",pagina12,https://www.pagina12.com.ar/177645-la-violacion-del-arzobispo,2019-02-27T14:30:14-03:00,2019-02-28T09:30:14-03:00,237,237,"Nora Veiras",F
+8282,"La guerra se derrite",pagina12,https://www.pagina12.com.ar/177687-la-guerra-se-derrite,2019-02-27T23:30:13-03:00,2019-02-28T08:30:14-03:00,1662,1662,"Julián Varsavsky",M
+8283,"¡Hora de despertar!",pagina12,https://www.pagina12.com.ar/177742-hora-de-despertar,2019-02-28T01:30:15-03:00,2019-02-28T09:30:14-03:00,65,65,"Eric Nepomuceno",M
+8284,"Amar a un varón",pagina12,https://www.pagina12.com.ar/177722-amar-a-un-varon,2019-02-28T01:30:15-03:00,2019-02-28T08:30:14-03:00,1663,1663,"Marina Esborraz",F
+8285,"Todos los caminos conducen a Roma",pagina12,https://www.pagina12.com.ar/177720-todos-los-caminos-conducen-a-roma,2019-02-28T01:30:15-03:00,2019-02-28T08:30:14-03:00,250,250,"Rebeca Hillert",F
+8286,"El Estado paralelo de los celestes",pagina12,https://www.pagina12.com.ar/177802-el-estado-paralelo-de-los-celestes,2019-02-28T01:30:15-03:00,2019-02-28T09:30:14-03:00,180,180,"Soledad Vallejos",F
+8287,"Aborto legal es vida",pagina12,https://www.pagina12.com.ar/177787-aborto-legal-es-vida,2019-02-28T01:30:15-03:00,2019-02-28T09:30:14-03:00,294,294,"Marta Dillon",F
+8288,"Discutir el aborto sí; vulnerar las leyes no",clarin,/opinion/discutir-aborto-vulnerar-leyes_0_kESnd2Rk0.html,2019-02-28T02:30:05-03:00,2019-02-28T09:30:04-03:00,73,73,"Fernando Gonzalez",M
+8289,"Proteger la inversión educativa es una obligación",lanacion,/2224218-proteger-inversion-educativa-es-obligacion,2019-02-28T03:30:10-03:00,2019-02-28T09:30:10-03:00,721,721,"Alejandra Cardini",F
+8290,"Soy dependiente de los demás",lanacion,/2224214-soy-dependiente-demas,2019-02-28T04:30:12-03:00,2019-02-28T09:30:10-03:00,196,196,"Bernardo Stamateas",M
+8291,"Francia y las víctimas del terrorismo",lanacion,/2224211-francia-victimas-del-terrorismo,2019-02-28T04:30:12-03:00,2019-02-28T07:30:11-03:00,195,195,"Emilio Cárdenas",M
+8292,"Los malos jueces agravian a la Justicia y a la República",lanacion,/2224083-los-malos-jueces-agravian-justicia-republica,2019-02-28T04:30:12-03:00,2019-02-28T09:30:10-03:00,1580,1580,"Jorge Enriquez",M
+8293,"Nostalgia de la infancia (en plena infancia)",lanacion,/2224115-nostalgia-de-la-infancia-en-plena-infancia,2019-02-28T04:30:12-03:00,2019-02-28T09:30:10-03:00,628,628,"Constanza Bertolini",F
