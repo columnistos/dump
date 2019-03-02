@@ -8610,11 +8610,11 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 8280,"Insultos, no",lanacion,/2223703-catalejo,2019-02-27T11:30:11-03:00,2019-02-28T03:30:10-03:00,148,148,"Pablo Sirvén",M
 8281,"La violación del arzobispo",pagina12,https://www.pagina12.com.ar/177645-la-violacion-del-arzobispo,2019-02-27T14:30:14-03:00,2019-03-01T00:30:12-03:00,237,237,"Nora Veiras",F
 8282,"La guerra se derrite",pagina12,https://www.pagina12.com.ar/177687-la-guerra-se-derrite,2019-02-27T23:30:13-03:00,2019-02-28T08:30:14-03:00,1662,1662,"Julián Varsavsky",M
-8283,"¡Hora de despertar!",pagina12,https://www.pagina12.com.ar/177742-hora-de-despertar,2019-02-28T01:30:15-03:00,2019-03-01T09:30:12-03:00,65,65,"Eric Nepomuceno",M
+8283,"¡Hora de despertar!",pagina12,https://www.pagina12.com.ar/177742-hora-de-despertar,2019-02-28T01:30:15-03:00,2019-03-02T00:30:12-03:00,65,65,"Eric Nepomuceno",M
 8284,"Amar a un varón",pagina12,https://www.pagina12.com.ar/177722-amar-a-un-varon,2019-02-28T01:30:15-03:00,2019-02-28T08:30:14-03:00,1663,1663,"Marina Esborraz",F
 8285,"Todos los caminos conducen a Roma",pagina12,https://www.pagina12.com.ar/177720-todos-los-caminos-conducen-a-roma,2019-02-28T01:30:15-03:00,2019-02-28T08:30:14-03:00,250,250,"Rebeca Hillert",F
-8286,"El Estado paralelo de los celestes",pagina12,https://www.pagina12.com.ar/177802-el-estado-paralelo-de-los-celestes,2019-02-28T01:30:15-03:00,2019-03-01T09:30:12-03:00,180,180,"Soledad Vallejos",F
-8287,"Aborto legal es vida",pagina12,https://www.pagina12.com.ar/177787-aborto-legal-es-vida,2019-02-28T01:30:15-03:00,2019-03-01T09:30:12-03:00,294,294,"Marta Dillon",F
+8286,"El Estado paralelo de los celestes",pagina12,https://www.pagina12.com.ar/177802-el-estado-paralelo-de-los-celestes,2019-02-28T01:30:15-03:00,2019-03-02T00:30:12-03:00,180,180,"Soledad Vallejos",F
+8287,"Aborto legal es vida",pagina12,https://www.pagina12.com.ar/177787-aborto-legal-es-vida,2019-02-28T01:30:15-03:00,2019-03-02T00:30:12-03:00,294,294,"Marta Dillon",F
 8288,"Discutir el aborto sí; vulnerar las leyes no",clarin,/opinion/discutir-aborto-vulnerar-leyes_0_kESnd2Rk0.html,2019-02-28T02:30:05-03:00,2019-03-01T01:30:05-03:00,73,73,"Fernando Gonzalez",M
 8289,"Proteger la inversión educativa es una obligación",lanacion,/2224218-proteger-inversion-educativa-es-obligacion,2019-02-28T03:30:10-03:00,2019-03-01T03:30:11-03:00,721,721,"Alejandra Cardini",F
 8290,"Soy dependiente de los demás",lanacion,/2224214-soy-dependiente-demas,2019-02-28T04:30:12-03:00,2019-03-01T03:30:11-03:00,196,196,"Bernardo Stamateas",M
@@ -8623,15 +8623,37 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 8293,"Nostalgia de la infancia (en plena infancia)",lanacion,/2224115-nostalgia-de-la-infancia-en-plena-infancia,2019-02-28T04:30:12-03:00,2019-03-01T03:30:11-03:00,628,628,"Constanza Bertolini",F
 8294,"Con Cristina y con Macri fue una década ...",clarin,/economia/decada-perdida-argentina_0_88omGI2gG.html,2019-02-28T11:30:05-03:00,2019-03-01T01:30:05-03:00,1664,1664,"Ezequiel Burgo",M
 8295,"Peligra el inicio de clases: un conflicto repetido, ahora en medio de la recesión",lanacion,/2224158-un-conflicto-repetido-ahora-en-medio-de-la-campana-y-la-recesion,2019-02-28T12:30:11-03:00,2019-03-01T00:30:10-03:00,112,112,"Nicolás Balinotti",M
-8296,Encubridores,pagina12,https://www.pagina12.com.ar/177908-encubridores,2019-02-28T18:30:13-03:00,2019-03-01T09:30:12-03:00,1114,1114,"Raúl Kollmann",M
-8297,"Cristina Kirchner está obligada a ir a juicio",lanacion,/2224584-la-absolucion-menem-paro-docente-familia-kirchner,2019-03-01T01:30:10-03:00,2019-03-01T09:30:10-03:00,93,93,"Joaquín Morales Solá",M
-8298,"El pensamiento roto",pagina12,https://www.pagina12.com.ar/177784-el-pensamiento-roto,2019-03-01T01:30:13-03:00,2019-03-01T08:30:13-03:00,1572,1572,"Rodolfo Rabanal",M
-8299,"Cristina, la perseguida",clarin,/opinion/cristina-perseguida_0_0HMt8iGrS.html,2019-03-01T02:30:04-03:00,2019-03-01T09:30:04-03:00,1,1,"Ricardo Roa",M
-8300,"El FMI cuestiona la estrategia contra la ...",clarin,/opinion/fmi-cuestiona-estrategia-inflacion-banco-central_0_yQORCdeoC.html,2019-03-01T02:30:04-03:00,2019-03-01T09:30:04-03:00,38,38,"Marcelo Bonelli",M
-8301,"Para la otra devaluación",clarin,/opinion/devaluacion_0_A9UC_rJcg.html,2019-03-01T02:30:04-03:00,2019-03-01T09:30:04-03:00,199,199,"Ricardo Monner Sans",M
-8302,"Un fallo de la Corte Internacional que marca ...",clarin,/opinion/fallo-corte-internacional-marca-cambio_0_Bz2GHXcbp.html,2019-03-01T02:30:04-03:00,2019-03-01T09:30:04-03:00,298,298,"Roberto García Moritán",M
-8303,"¿Por qué citaron a indagatoria al fiscal Stornelli?",lanacion,/2224593-por-que-citaron-indagatoria-al-fiscal-stornelli,2019-03-01T04:30:11-03:00,2019-03-01T09:30:10-03:00,86,86,"Hugo Alconada Mon",M
-8304,"Disonancias entre el discurso electoral y la acción de gobierno",lanacion,/2224514-disonancias-entre-el-discurso-electoral-y-la-accion-de-gobierno,2019-03-01T04:30:11-03:00,2019-03-01T09:30:10-03:00,16,16,"Sergio Berensztein",M
+8296,Encubridores,pagina12,https://www.pagina12.com.ar/177908-encubridores,2019-02-28T18:30:13-03:00,2019-03-02T00:30:12-03:00,1114,1114,"Raúl Kollmann",M
+8297,"Cristina Kirchner está obligada a ir a juicio",lanacion,/2224584-la-absolucion-menem-paro-docente-familia-kirchner,2019-03-01T01:30:10-03:00,2019-03-02T03:30:10-03:00,93,93,"Joaquín Morales Solá",M
+8298,"El pensamiento roto",pagina12,https://www.pagina12.com.ar/177784-el-pensamiento-roto,2019-03-01T01:30:13-03:00,2019-03-02T00:30:12-03:00,1572,1572,"Rodolfo Rabanal",M
+8299,"Cristina, la perseguida",clarin,/opinion/cristina-perseguida_0_0HMt8iGrS.html,2019-03-01T02:30:04-03:00,2019-03-02T00:30:04-03:00,1,1,"Ricardo Roa",M
+8300,"El FMI cuestiona la estrategia contra la ...",clarin,/opinion/fmi-cuestiona-estrategia-inflacion-banco-central_0_yQORCdeoC.html,2019-03-01T02:30:04-03:00,2019-03-02T00:30:04-03:00,38,38,"Marcelo Bonelli",M
+8301,"Para la otra devaluación",clarin,/opinion/devaluacion_0_A9UC_rJcg.html,2019-03-01T02:30:04-03:00,2019-03-02T00:30:04-03:00,199,199,"Ricardo Monner Sans",M
+8302,"Un fallo de la Corte Internacional que marca ...",clarin,/opinion/fallo-corte-internacional-marca-cambio_0_Bz2GHXcbp.html,2019-03-01T02:30:04-03:00,2019-03-02T00:30:04-03:00,298,298,"Roberto García Moritán",M
+8303,"¿Por qué citaron a indagatoria al fiscal Stornelli?",lanacion,/2224593-por-que-citaron-indagatoria-al-fiscal-stornelli,2019-03-01T04:30:11-03:00,2019-03-01T17:30:10-03:00,86,86,"Hugo Alconada Mon",M
+8304,"Disonancias entre el discurso electoral y la acción de gobierno",lanacion,/2224514-disonancias-entre-el-discurso-electoral-y-la-accion-de-gobierno,2019-03-01T04:30:11-03:00,2019-03-02T03:30:10-03:00,16,16,"Sergio Berensztein",M
 8305,"Charlatanería ilustrada",lanacion,/2224518-charlataneria-ilustrada,2019-03-01T04:30:11-03:00,2019-03-01T08:30:10-03:00,450,450,"Nora Bär",F
-8306,"Cristina Kirchner volvió con todo y el Gobierno lo celebra",lanacion,/2224538-cristina-kirchner-volvio-todo-gobierno-lo-celebra,2019-03-01T09:30:10-03:00,2019-03-01T09:30:10-03:00,131,131,"Fernando Laborda",M
-8307,"Macri ya perdió",pagina12,https://www.pagina12.com.ar/178082-macri-ya-perdio,2019-03-01T09:30:12-03:00,2019-03-01T09:30:12-03:00,1665,1665,"María Esperanza Casullo, Sergio De Piero, Nicolás Tereschuk, Abelardo Vitale",F
+8306,"Cristina Kirchner volvió con todo y el Gobierno lo celebra",lanacion,/2224538-cristina-kirchner-volvio-todo-gobierno-lo-celebra,2019-03-01T09:30:10-03:00,2019-03-02T03:30:10-03:00,131,131,"Fernando Laborda",M
+8307,"Macri ya perdió",pagina12,https://www.pagina12.com.ar/178082-macri-ya-perdio,2019-03-01T09:30:12-03:00,2019-03-02T09:30:12-03:00,1665,1665,"María Esperanza Casullo, Sergio De Piero, Nicolás Tereschuk, Abelardo Vitale",F
+8308,"Mauricio Macri, desencajado, solo gritó",pagina12,https://www.pagina12.com.ar/178119-mauricio-macri-desencajado-solo-grito,2019-03-01T13:30:12-03:00,2019-03-01T23:30:13-03:00,657,657,"Martín Granovsky",M
+8309,"Un vacío imposible de llenar",pagina12,https://www.pagina12.com.ar/178113-un-vacio-imposible-de-llenar,2019-03-01T13:30:12-03:00,2019-03-02T09:30:12-03:00,83,83,"Eduardo Aliverti",M
+8310,"Mauricio Macri usa a las mujeres",pagina12,https://www.pagina12.com.ar/178116-mauricio-macri-usa-a-las-mujeres,2019-03-01T13:30:12-03:00,2019-03-02T09:30:12-03:00,180,180,"Soledad Vallejos",F
+8311,"Los desvaríos económicos de Mauricio Macri",pagina12,https://www.pagina12.com.ar/178123-los-desvarios-economicos-de-mauricio-macri,2019-03-01T14:30:14-03:00,2019-03-01T23:30:13-03:00,154,154,"Alfredo Zaiat",M
+8312,"Tormentas, mentiras y futuro",pagina12,https://www.pagina12.com.ar/178124-tormentas-mentiras-y-futuro,2019-03-01T14:30:14-03:00,2019-03-02T09:30:12-03:00,117,117,"Washington Uranga",M
+8313,"Estamos mal, eso prueba que vamos bien",pagina12,https://www.pagina12.com.ar/178122-estamos-mal-eso-prueba-que-vamos-bien,2019-03-01T16:30:13-03:00,2019-03-02T09:30:12-03:00,66,66,"Mario Wainfeld",M
+8314,"La justificación kirchnerista para un futuro indulto",lanacion,/2224558-la-justificacion-kirchnerista-para-un-futuro-indulto,2019-03-01T18:30:11-03:00,2019-03-02T03:30:10-03:00,5,5,"Carlos Pagni",M
+8315,"Cambiamos educación por evaluación",pagina12,https://www.pagina12.com.ar/178165-cambiamos-educacion-por-evaluacion,2019-03-01T19:30:14-03:00,2019-03-02T09:30:12-03:00,1666,1666,"Miguel Duhalde",M
+8316,"El país, según los discursos del cuarto año",clarin,/opinion/pais-discursos-cuarto-ano_0_eEgnquRo7.html,2019-03-01T23:30:04-03:00,2019-03-02T09:30:04-03:00,101,101,"Héctor Gambini",M
+8317,"Los desvaríos económicos de Macri",pagina12,https://www.pagina12.com.ar/178123-los-desvarios-economicos-de-macri,2019-03-02T00:30:12-03:00,2019-03-02T09:30:12-03:00,154,154,"Alfredo Zaiat",M
+8318,"Macri, desencajado, solo gritó",pagina12,https://www.pagina12.com.ar/178119-macri-solo-grito,2019-03-02T00:30:12-03:00,2019-03-02T09:30:12-03:00,657,657,"Martín Granovsky",M
+8319,"El presente es el pasado",clarin,/opinion/presente-pasado_0_t6in2e0Qq.html,2019-03-02T01:30:03-03:00,2019-03-02T09:30:04-03:00,205,205,"Miguel Wiñazki",M
+8320,"Trump entre desventuras coreanas, traiciones y ...",clarin,/opinion/trump-desventuras-coreanas-traiciones-espectro-maquiavelo_0_7w5JIGe_A.html,2019-03-02T01:30:03-03:00,2019-03-02T09:30:04-03:00,50,50,"Marcelo Cantelmi",M
+8321,"Necesitamos salir del encierro",clarin,/opinion/necesitamos-salir-encierro_0_V6uAreWM5.html,2019-03-02T01:30:03-03:00,2019-03-02T09:30:04-03:00,584,584,"Juan Manuel Casella",M
+8322,"EE.UU., China y la Cortina de Gigabytes",clarin,/opinion/ee-uu-china-cortina-gigabytes_0_OnooTj_EZ.html,2019-03-02T01:30:03-03:00,2019-03-02T09:30:04-03:00,1667,1667,"Esteban Actis",M
+8323,"Un concierto por Colombia",pagina12,https://www.pagina12.com.ar/178237-un-concierto-por-colombia,2019-03-02T01:30:12-03:00,2019-03-02T09:30:12-03:00,483,483,"Alfredo Serrano Mancilla",M
+8324,"Inventamos o erramos",pagina12,https://www.pagina12.com.ar/177733-inventamos-o-erramos,2019-03-02T01:30:12-03:00,2019-03-02T09:30:12-03:00,625,625,"María Pia López",F
+8325,"El cambio uno por uno",pagina12,https://www.pagina12.com.ar/178264-el-cambio-uno-por-uno,2019-03-02T01:30:12-03:00,2019-03-02T09:30:12-03:00,294,294,"Marta Dillon",F
+8326,"La anestesia moral de un país dormido",lanacion,/2224831-la-anestesia-moral-de-un-pais-dormido,2019-03-02T04:30:10-03:00,2019-03-02T09:30:09-03:00,47,47,"Héctor M. Guyot",M
+8327,"Los prejuicios apocalípticos de un consultor",lanacion,/2224865-los-prejuicios-apocalipticos-de-un-consultor,2019-03-02T04:30:10-03:00,2019-03-02T09:30:09-03:00,48,48,"Eduardo Fidanza",M
+8328,"Despedida y debut de un Macri más candidato que Presidente",lanacion,/2224929-despedida-y-debut-de-un-macri-mas-candidato-que-presidente,2019-03-02T04:30:10-03:00,2019-03-02T09:30:09-03:00,96,96,"Claudio Jacquelin",M
+8329,"A mi hijo le cuesta dormirse",lanacion,/2224814-a-mi-hijo-le-cuesta-dormirse,2019-03-02T04:30:10-03:00,2019-03-02T09:30:09-03:00,354,354,"Maritchu Seitún",F
