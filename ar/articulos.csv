@@ -8642,8 +8642,8 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 8312,"Tormentas, mentiras y futuro",pagina12,https://www.pagina12.com.ar/178124-tormentas-mentiras-y-futuro,2019-03-01T14:30:14-03:00,2019-03-02T11:30:15-03:00,117,117,"Washington Uranga",M
 8313,"Estamos mal, eso prueba que vamos bien",pagina12,https://www.pagina12.com.ar/178122-estamos-mal-eso-prueba-que-vamos-bien,2019-03-01T16:30:13-03:00,2019-03-03T02:30:12-03:00,66,66,"Mario Wainfeld",M
 8314,"La justificación kirchnerista para un futuro indulto",lanacion,/2224558-la-justificacion-kirchnerista-para-un-futuro-indulto,2019-03-01T18:30:11-03:00,2019-03-02T03:30:10-03:00,5,5,"Carlos Pagni",M
-8315,"Cambiamos educación por evaluación",pagina12,https://www.pagina12.com.ar/178165-cambiamos-educacion-por-evaluacion,2019-03-01T19:30:14-03:00,2019-03-02T21:30:15-03:00,1666,1666,"Miguel Duhalde",M
-8316,"El país, según los discursos del cuarto año",clarin,/opinion/pais-discursos-cuarto-ano_0_eEgnquRo7.html,2019-03-01T23:30:04-03:00,2019-03-03T09:30:05-03:00,101,101,"Héctor Gambini",M
+8315,"Cambiamos educación por evaluación",pagina12,https://www.pagina12.com.ar/178165-cambiamos-educacion-por-evaluacion,2019-03-01T19:30:14-03:00,2019-03-04T09:30:13-03:00,1666,1666,"Miguel Duhalde",M
+8316,"El país, según los discursos del cuarto año",clarin,/opinion/pais-discursos-cuarto-ano_0_eEgnquRo7.html,2019-03-01T23:30:04-03:00,2019-03-04T02:30:04-03:00,101,101,"Héctor Gambini",M
 8317,"Los desvaríos económicos de Macri",pagina12,https://www.pagina12.com.ar/178123-los-desvarios-economicos-de-macri,2019-03-02T00:30:12-03:00,2019-03-03T02:30:12-03:00,154,154,"Alfredo Zaiat",M
 8318,"Macri, desencajado, solo gritó",pagina12,https://www.pagina12.com.ar/178119-macri-solo-grito,2019-03-02T00:30:12-03:00,2019-03-02T23:30:13-03:00,657,657,"Martín Granovsky",M
 8319,"El presente es el pasado",clarin,/opinion/presente-pasado_0_t6in2e0Qq.html,2019-03-02T01:30:03-03:00,2019-03-03T03:30:04-03:00,205,205,"Miguel Wiñazki",M
@@ -8651,24 +8651,41 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 8321,"Necesitamos salir del encierro",clarin,/opinion/necesitamos-salir-encierro_0_V6uAreWM5.html,2019-03-02T01:30:03-03:00,2019-03-03T03:30:04-03:00,584,584,"Juan Manuel Casella",M
 8322,"EE.UU., China y la Cortina de Gigabytes",clarin,/opinion/ee-uu-china-cortina-gigabytes_0_OnooTj_EZ.html,2019-03-02T01:30:03-03:00,2019-03-03T03:30:04-03:00,1667,1667,"Esteban Actis",M
 8323,"Un concierto por Colombia",pagina12,https://www.pagina12.com.ar/178237-un-concierto-por-colombia,2019-03-02T01:30:12-03:00,2019-03-03T01:30:12-03:00,483,483,"Alfredo Serrano Mancilla",M
-8324,"Inventamos o erramos",pagina12,https://www.pagina12.com.ar/177733-inventamos-o-erramos,2019-03-02T01:30:12-03:00,2019-03-03T09:30:13-03:00,625,625,"María Pia López",F
+8324,"Inventamos o erramos",pagina12,https://www.pagina12.com.ar/177733-inventamos-o-erramos,2019-03-02T01:30:12-03:00,2019-03-04T01:30:13-03:00,625,625,"María Pia López",F
 8325,"El cambio uno por uno",pagina12,https://www.pagina12.com.ar/178264-el-cambio-uno-por-uno,2019-03-02T01:30:12-03:00,2019-03-03T02:30:12-03:00,294,294,"Marta Dillon",F
 8326,"La anestesia moral de un país dormido",lanacion,/2224831-la-anestesia-moral-de-un-pais-dormido,2019-03-02T04:30:10-03:00,2019-03-03T04:30:10-03:00,47,47,"Héctor M. Guyot",M
 8327,"Los prejuicios apocalípticos de un consultor",lanacion,/2224865-los-prejuicios-apocalipticos-de-un-consultor,2019-03-02T04:30:10-03:00,2019-03-03T04:30:10-03:00,48,48,"Eduardo Fidanza",M
 8328,"Despedida y debut de un Macri más candidato que Presidente",lanacion,/2224929-despedida-y-debut-de-un-macri-mas-candidato-que-presidente,2019-03-02T04:30:10-03:00,2019-03-03T04:30:10-03:00,96,96,"Claudio Jacquelin",M
 8329,"A mi hijo le cuesta dormirse",lanacion,/2224814-a-mi-hijo-le-cuesta-dormirse,2019-03-02T04:30:10-03:00,2019-03-03T04:30:10-03:00,354,354,"Maritchu Seitún",F
 8330,"¿Y vos de que te disfrazás?",pagina12,https://www.pagina12.com.ar/178216-y-vos-de-que-te-disfrazas,2019-03-02T12:30:13-03:00,2019-03-02T19:30:13-03:00,265,265,"Marcelo Rudaeff (Rudy)",M
-8331,"Salvador Allende: “No en mi nombre”",pagina12,https://www.pagina12.com.ar/178364-salvador-allende-no-en-mi-nombre,2019-03-02T20:30:12-03:00,2019-03-03T09:30:13-03:00,90,90,"Atilio A. Boron",M
-8332,"Dormir el dólar",pagina12,https://www.pagina12.com.ar/178433-dormir-el-dolar,2019-03-03T02:30:12-03:00,2019-03-03T09:30:13-03:00,154,154,"Alfredo Zaiat",M
-8333,"Terraplanismo macrista",pagina12,https://www.pagina12.com.ar/178306-terraplanismo-macrista,2019-03-03T02:30:12-03:00,2019-03-03T09:30:13-03:00,106,106,"Claudio Scaletta",M
-8334,"El tamaño del dolor",pagina12,https://www.pagina12.com.ar/178416-el-tamano-del-dolor,2019-03-03T02:30:12-03:00,2019-03-03T09:30:13-03:00,65,65,"Eric Nepomuceno",M
-8335,"La servilleta sí se mancha",pagina12,https://www.pagina12.com.ar/178426-la-servilleta-si-se-mancha,2019-03-03T03:30:13-03:00,2019-03-03T09:30:13-03:00,66,66,"Mario Wainfeld",M
+8331,"Salvador Allende: “No en mi nombre”",pagina12,https://www.pagina12.com.ar/178364-salvador-allende-no-en-mi-nombre,2019-03-02T20:30:12-03:00,2019-03-04T01:30:13-03:00,90,90,"Atilio A. Boron",M
+8332,"Dormir el dólar",pagina12,https://www.pagina12.com.ar/178433-dormir-el-dolar,2019-03-03T02:30:12-03:00,2019-03-04T09:30:13-03:00,154,154,"Alfredo Zaiat",M
+8333,"Terraplanismo macrista",pagina12,https://www.pagina12.com.ar/178306-terraplanismo-macrista,2019-03-03T02:30:12-03:00,2019-03-04T01:30:13-03:00,106,106,"Claudio Scaletta",M
+8334,"El tamaño del dolor",pagina12,https://www.pagina12.com.ar/178416-el-tamano-del-dolor,2019-03-03T02:30:12-03:00,2019-03-04T09:30:13-03:00,65,65,"Eric Nepomuceno",M
+8335,"La servilleta sí se mancha",pagina12,https://www.pagina12.com.ar/178426-la-servilleta-si-se-mancha,2019-03-03T03:30:13-03:00,2019-03-04T09:30:13-03:00,66,66,"Mario Wainfeld",M
 8336,"Para entender el presente",pagina12,https://www.pagina12.com.ar/178311-para-entender-el-presente,2019-03-03T03:30:13-03:00,2019-03-03T03:30:13-03:00,1668,1668,"Roberto Briscioli",M
-8337,"Nace una estrella",clarin,/politica/nace-estrella_0_fyUS-gtkw.html,2019-03-03T04:30:04-03:00,2019-03-03T09:30:05-03:00,144,144,"Alejandro Borensztein",M
-8338,"El documental al que más le teme Cristina",clarin,/opinion/documental-teme-cristina_0_53uwbBI5A.html,2019-03-03T04:30:04-03:00,2019-03-03T09:30:05-03:00,1,1,"Ricardo Roa",M
-8339,"""La legión invisible"": los hijos de curas y ...",clarin,/mundo/legion-invisible-hijos-curas-nuevo-escandalo-asedia-iglesia_0_SOwhV7SAy.html,2019-03-03T04:30:04-03:00,2019-03-03T09:30:05-03:00,1669,1669,"Julio Algañaraz",M
-8340,"¿Nace un nuevo Macri en cuna hostil?",lanacion,/2225134-nace-un-nuevo-macri-en-cuna-hostil,2019-03-03T05:30:09-03:00,2019-03-03T09:30:10-03:00,148,148,"Pablo Sirvén",M
-8341,"Las dos grandes obsesiones de Macri",lanacion,/2225120-las-dos-grandes-obsesiones-de-macri,2019-03-03T05:30:09-03:00,2019-03-03T09:30:10-03:00,111,111,"Martín Rodríguez Yebra",M
-8342,"Evaluación presidencial: la economía no es todo",lanacion,/2224879-evaluacion-presidencial-la-economia-no-es-todo,2019-03-03T05:30:09-03:00,2019-03-03T09:30:10-03:00,149,149,"Juan Carlos de Pablo",M
-8343,"¡Vote a Serendipia!",lanacion,/2225092-vote-a-serendipia,2019-03-03T05:30:09-03:00,2019-03-03T09:30:10-03:00,673,673,"Graciela Guadalupe",F
-8344,"El Presidente va con lo que tiene: ¿y Vidal?",clarin,/opinion/macri-va-vidal_0_EKzLt1bF8.html,2019-03-03T08:30:04-03:00,2019-03-03T09:30:05-03:00,73,73,"Fernando Gonzalez",M
+8337,"Nace una estrella",clarin,/politica/nace-estrella_0_fyUS-gtkw.html,2019-03-03T04:30:04-03:00,2019-03-04T02:30:04-03:00,144,144,"Alejandro Borensztein",M
+8338,"El documental al que más le teme Cristina",clarin,/opinion/documental-teme-cristina_0_53uwbBI5A.html,2019-03-03T04:30:04-03:00,2019-03-04T02:30:04-03:00,1,1,"Ricardo Roa",M
+8339,"""La legión invisible"": los hijos de curas y ...",clarin,/mundo/legion-invisible-hijos-curas-nuevo-escandalo-asedia-iglesia_0_SOwhV7SAy.html,2019-03-03T04:30:04-03:00,2019-03-04T02:30:04-03:00,1669,1669,"Julio Algañaraz",M
+8340,"¿Nace un nuevo Macri en cuna hostil?",lanacion,/2225134-nace-un-nuevo-macri-en-cuna-hostil,2019-03-03T05:30:09-03:00,2019-03-04T03:30:09-03:00,148,148,"Pablo Sirvén",M
+8341,"Las dos grandes obsesiones de Macri",lanacion,/2225120-las-dos-grandes-obsesiones-de-macri,2019-03-03T05:30:09-03:00,2019-03-04T03:30:09-03:00,111,111,"Martín Rodríguez Yebra",M
+8342,"Evaluación presidencial: la economía no es todo",lanacion,/2224879-evaluacion-presidencial-la-economia-no-es-todo,2019-03-03T05:30:09-03:00,2019-03-04T03:30:09-03:00,149,149,"Juan Carlos de Pablo",M
+8343,"¡Vote a Serendipia!",lanacion,/2225092-vote-a-serendipia,2019-03-03T05:30:09-03:00,2019-03-03T16:30:11-03:00,673,673,"Graciela Guadalupe",F
+8344,"El Presidente va con lo que tiene: ¿y Vidal?",clarin,/opinion/macri-va-vidal_0_EKzLt1bF8.html,2019-03-03T08:30:04-03:00,2019-03-03T15:30:05-03:00,73,73,"Fernando Gonzalez",M
+8345,"Estanflación, el costoso aprendizaje de Macri",lanacion,/2224880-estanflacion-el-costoso-aprendizaje-de-macri174x130mm,2019-03-03T10:30:10-03:00,2019-03-03T15:30:11-03:00,147,147,"Néstor O. Scibona",M
+8346,"Perón sigue escribiendo nuestras vidas",lanacion,/2225093-peron-sigue-escribiendo-nuestras-vidas,2019-03-03T17:30:10-03:00,2019-03-04T03:30:09-03:00,146,146,"Jorge Fernández Díaz",M
+8347,"Sindicalismo feminista hacia el paro del 8M",pagina12,https://www.pagina12.com.ar/178529-sindicalismo-feminista-hacia-el-paro-del-8-m,2019-03-03T17:30:13-03:00,2019-03-04T01:30:13-03:00,1286,1286,"Estela Diaz",F
+8348,"El peligro es si los políticos están locos",clarin,/opinion/peligro-politicos-locos_0_-NJI6Q-nz.html,2019-03-03T21:30:04-03:00,2019-03-04T09:30:05-03:00,496,496,"John Carlin",M
+8349,"El problema estructural más serio",pagina12,https://www.pagina12.com.ar/178604-el-problema-estructural-mas-serio,2019-03-04T01:30:13-03:00,2019-03-04T09:30:13-03:00,1064,1064,"Arnaldo Bocco",M
+8350,"Confesión de la debilidad",pagina12,https://www.pagina12.com.ar/178601-confesion-de-la-debilidad,2019-03-04T02:30:12-03:00,2019-03-04T03:30:12-03:00,83,83,"Eduardo Aliverti",M
+8351,"Parques, historia y psicopatía",pagina12,https://www.pagina12.com.ar/178593-parques-historia-y-psicopatia,2019-03-04T02:30:12-03:00,2019-03-04T09:30:13-03:00,82,82,"Mempo Giardinelli",M
+8352,"Apenas una compensación",pagina12,https://www.pagina12.com.ar/178598-apenas-una-compensacion,2019-03-04T02:30:12-03:00,2019-03-04T09:30:13-03:00,1670,1670,"Claudio Lozano",M
+8353,"La (mala) racha que celebra sus 15 años",clarin,/opinion/mala-racha-celebra-15-anos_0_RRatyBlyF.html,2019-03-04T03:30:04-03:00,2019-03-04T09:30:05-03:00,351,351,"Pablo Vaca",M
+8354,"Cristina en versión Maduro y el puente entre ...",clarin,/politica/cristina-version-maduro-puente-carrio-duran-barba_0_h5Qu3ULqN.html,2019-03-04T03:30:04-03:00,2019-03-04T09:30:05-03:00,166,166,"Ignacio Zuleta",M
+8355,"Nuestro desafío es superar el retroceso",clarin,/opinion/desafio-superar-retroceso_0_cE_Quyh52.html,2019-03-04T03:30:04-03:00,2019-03-04T09:30:05-03:00,109,109,"Alieto Aldo Guadagni",M
+8356,"La Corte de La Haya y Malvinas",clarin,/opinion/corte-malvinas_0_Cxl5gacP2.html,2019-03-04T03:30:04-03:00,2019-03-04T09:30:05-03:00,753,753,"Marcelo Kohen",M
+8357,"Participación ciudadana es transparencia ...",clarin,/opinion/participacion-ciudadana-transparencia-institucional_0_Ts9WpV1PJ.html,2019-03-04T03:30:04-03:00,2019-03-04T09:30:05-03:00,1671,1671,"Juan Bautista Mahiques",M
+8358,"Amargos ecos actuales de la histórica hambruna en Ucrania",lanacion,/2225263-amargos-ecos-actuales-de-la-historica-hambruna-en-ucrania,2019-03-04T04:30:12-03:00,2019-03-04T09:30:11-03:00,222,222,"Mario Vargas Llosa",M
+8359,"Naturaleza muerta con bichos canasto",lanacion,/2225065-naturaleza-muerta-con-bichos-canasto,2019-03-04T04:30:12-03:00,2019-03-04T09:30:11-03:00,768,768,"Fernanda Sández",F
+8360,"¿El fin del roaming?",lanacion,/2224107-el-fin-del-roaming,2019-03-04T04:30:12-03:00,2019-03-04T09:30:11-03:00,315,315,"Guillermo Tomoyose",M
+8361,"Gabriel Chaile: crear desde los márgenes",lanacion,/2224082-gabriel-chaile-crear-margenes,2019-03-04T04:30:12-03:00,2019-03-04T09:30:11-03:00,850,850,"Celina Chatruc",F
