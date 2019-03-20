@@ -8902,7 +8902,7 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 8572,"La volatilidad cambiaria podría continuar",lanacion,/economia/la-volatilidad-cambiaria-podria-continuar-nid2229212,2019-03-16T03:30:10-03:00,2019-03-17T02:30:11-03:00,1700,1700,"Daniel Artana",M
 8573,"Historia de mi tarjeta de débito",pagina12,https://www.pagina12.com.ar/181030-historia-de-mi-tarjeta-de-debito,2019-03-16T03:30:13-03:00,2019-03-17T01:30:13-03:00,401,401,"Mariana Enriquez",F
 8574,"Yo también me defendería",pagina12,https://www.pagina12.com.ar/180686-yo-tambien-me-defenderia,2019-03-16T03:30:13-03:00,2019-03-16T10:30:14-03:00,491,491,"Flor Monfort",F
-8575,Inseguridad,pagina12,https://www.pagina12.com.ar/181269-inseguridad,2019-03-16T03:30:13-03:00,2019-03-19T09:30:15-03:00,571,571,"Sandra Russo",F
+8575,Inseguridad,pagina12,https://www.pagina12.com.ar/181269-inseguridad,2019-03-16T03:30:13-03:00,2019-03-20T02:30:13-03:00,571,571,"Sandra Russo",F
 8576,"¿Copar la Corte Suprema?",clarin,/opinion/copar-corte-suprema_0_4WM6DRaph.html,2019-03-16T11:30:04-03:00,2019-03-17T07:30:05-03:00,946,946,"Fabian Bosoer",M
 8577,"Desmiente, desmiente que algo queda",pagina12,https://www.pagina12.com.ar/181408-desmiente-desmiente-que-algo-queda,2019-03-16T11:30:12-03:00,2019-03-17T01:30:13-03:00,265,265,"Marcelo Rudaeff (Rudy)",M
 8578,"Verdad, investigación e inteligencia",pagina12,https://www.pagina12.com.ar/181402-verdad-investigacion-e-inteligencia,2019-03-16T11:30:12-03:00,2019-03-17T13:30:14-03:00,283,283,"Julio Maier",M
@@ -8938,23 +8938,41 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 8608,"Los derechos no son privilegios",lanacion,/opinion/columnistas/los-derechos-no-son-privilegios-nid2229575,2019-03-18T04:30:13-03:00,2019-03-18T11:30:11-03:00,84,84,"Norma Morandini",F
 8609,"En el empleo se juega la suerte de 2019",lanacion,/economia/empleos/en-el-empleo-se-juega-la-suerte-de-2019-nid2229594,2019-03-18T04:30:13-03:00,2019-03-19T02:30:13-03:00,636,636,"Guillermo Olivetto",M
 8610,"Negocio inmobiliario",pagina12,https://www.pagina12.com.ar/181705-negocio-inmobiliario,2019-03-18T04:30:17-03:00,2019-03-19T02:30:16-03:00,1702,1702,"Aira González y Germán O. García",+
-8611,"Concesiones del Gobierno",pagina12,https://www.pagina12.com.ar/181707-concesiones-del-gobierno,2019-03-18T04:30:17-03:00,2019-03-19T09:30:15-03:00,1703,1703,"Pablo Berrozpe",M
+8611,"Concesiones del Gobierno",pagina12,https://www.pagina12.com.ar/181707-concesiones-del-gobierno,2019-03-18T04:30:17-03:00,2019-03-20T02:30:13-03:00,1703,1703,"Pablo Berrozpe",M
 8612,"Profundizando el ajuste nuclear",pagina12,https://www.pagina12.com.ar/181719-profundizando-el-ajuste-nuclear,2019-03-18T04:30:17-03:00,2019-03-18T18:30:18-03:00,1704,1704,"Comisión de Tecnología Nuclear del Instituto Patria",X
 8613,"Escuchar un jilguero",pagina12,https://www.pagina12.com.ar/181499-escuchar-un-jilguero,2019-03-18T04:30:17-03:00,2019-03-18T08:30:16-03:00,1304,1304,"Guillermo Saccomanno",M
 8614,"Con Macri la clase media no va al paraíso",pagina12,https://www.pagina12.com.ar/181746-con-macri-la-clase-media-no-va-al-paraiso,2019-03-18T04:30:17-03:00,2019-03-18T16:30:14-03:00,752,752,"Matías Barroetaveña",M
-8615,"La realidad de lo increíble",pagina12,https://www.pagina12.com.ar/181716-la-realidad-de-lo-increible,2019-03-18T04:30:17-03:00,2019-03-19T09:30:15-03:00,83,83,"Eduardo Aliverti",M
+8615,"La realidad de lo increíble",pagina12,https://www.pagina12.com.ar/181716-la-realidad-de-lo-increible,2019-03-18T04:30:17-03:00,2019-03-20T02:30:13-03:00,83,83,"Eduardo Aliverti",M
 8616,"La teoría de la relatividad judicial",pagina12,https://www.pagina12.com.ar/181711-la-teoria-de-la-relatividad-judicial,2019-03-18T04:30:17-03:00,2019-03-19T02:30:16-03:00,1705,1705,"Miguel Rodríguez Villafañe",M
 8617,"Cloaca judicial: nunca antes, nunca más",pagina12,https://www.pagina12.com.ar/181712-cloaca-judicial-nunca-antes-nunca-mas,2019-03-18T04:30:17-03:00,2019-03-18T18:30:18-03:00,82,82,"Mempo Giardinelli",M
 8618,"De visita en el San Mamés, catedral del Athletic Club",pagina12,https://www.pagina12.com.ar/181758-de-visita-en-el-san-mames-catedral-del-athletic-club,2019-03-18T05:30:14-03:00,2019-03-18T13:30:14-03:00,194,194,"Juan José Panno",M
 8619,"Las últimas balas",pagina12,https://www.pagina12.com.ar/181481-las-ultimas-balas,2019-03-18T10:30:14-03:00,2019-03-18T11:30:14-03:00,154,154,"Alfredo Zaiat",M
 8620,"Los tres pilares de la fe que sostienen la apuesta electoral de Macri",lanacion,/politica/los-tres-pilares-de-la-fe-que-sostienen-la-apuesta-electoral-de-macri-nid2229632,2019-03-18T12:30:11-03:00,2019-03-19T02:30:13-03:00,96,96,"Claudio Jacquelin",M
 8621,"Me duelen las mezquitas",lanacion,/opinion/me-duelen-mezquitas-nid2229836,2019-03-18T19:30:13-03:00,2019-03-18T21:30:12-03:00,696,696,"Marcelo Polakoff",M
-8622,"El incierto futuro de la transición democrática venezolana",lanacion,/opinion/columnistas/el-incierto-futuro-de-la-transicion-democratica-venezolana-nid2229859,2019-03-19T03:30:12-03:00,2019-03-19T09:30:12-03:00,1706,1706,"María Victoria Murillo",F
-8623,"10 tips para ahorrar unos pesos en el súper",lanacion,/economia/10-tips-ahorrar-pesos-super-nid2229676,2019-03-19T03:30:12-03:00,2019-03-19T09:30:12-03:00,172,172,"Nicolás Litvinoff",M
-8624,"Antonio Laje podría conducir Intratables",lanacion,/espectaculos/television/antonio-laje-podria-conducir-intratables-nid2229813,2019-03-19T03:30:12-03:00,2019-03-19T09:30:12-03:00,287,287,"Pablo Montagna",M
-8625,"Por un pedazo de pan",pagina12,https://www.pagina12.com.ar/181729-por-un-pedazo-de-pan,2019-03-19T03:30:15-03:00,2019-03-19T09:30:15-03:00,772,772,"Noé Jitrik",M
-8626,"El hombre que entendía a la muerte",clarin,/opinion/hombre-entendia-muerte_0_V7zO6Biux.html,2019-03-19T04:30:04-03:00,2019-03-19T09:30:04-03:00,101,101,"Héctor Gambini",M
-8627,"Explicaciones sobran, pero nada frena el ...",clarin,/opinion/explicaciones-sobran-frena-avance-precios_0_Oac6uRpbt.html,2019-03-19T04:30:04-03:00,2019-03-19T09:30:04-03:00,71,71,"Alcadio Oña",M
-8628,"Leves mejoras en la escuela primaria",clarin,/opinion/leves-mejoras-escuela-primaria_0_WfBlAj4n3.html,2019-03-19T04:30:04-03:00,2019-03-19T09:30:04-03:00,1707,1707,"Juan José Llach",M
-8629,"Amor 2.0: efectos colaterales",clarin,/opinion/amor-efectos-colaterales_0_740b1U9-D.html,2019-03-19T04:30:04-03:00,2019-03-19T09:30:04-03:00,1260,1260,"Carlos Alvarez Teijeiro",M
-8630,"Un encuentro más allá de las distancias",lanacion,/opinion/columnistas/un-encuentro-mas-alla-de-las-distancias-nid2229844,2019-03-19T05:30:11-03:00,2019-03-19T09:30:12-03:00,488,488,"Diana Fernández Irusta",F
+8622,"El incierto futuro de la transición democrática venezolana",lanacion,/opinion/columnistas/el-incierto-futuro-de-la-transicion-democratica-venezolana-nid2229859,2019-03-19T03:30:12-03:00,2019-03-20T00:30:11-03:00,1706,1706,"María Victoria Murillo",F
+8623,"10 tips para ahorrar unos pesos en el súper",lanacion,/economia/10-tips-ahorrar-pesos-super-nid2229676,2019-03-19T03:30:12-03:00,2019-03-20T02:30:10-03:00,172,172,"Nicolás Litvinoff",M
+8624,"Antonio Laje podría conducir Intratables",lanacion,/espectaculos/television/antonio-laje-podria-conducir-intratables-nid2229813,2019-03-19T03:30:12-03:00,2019-03-19T13:30:11-03:00,287,287,"Pablo Montagna",M
+8625,"Por un pedazo de pan",pagina12,https://www.pagina12.com.ar/181729-por-un-pedazo-de-pan,2019-03-19T03:30:15-03:00,2019-03-20T02:30:13-03:00,772,772,"Noé Jitrik",M
+8626,"El hombre que entendía a la muerte",clarin,/opinion/hombre-entendia-muerte_0_V7zO6Biux.html,2019-03-19T04:30:04-03:00,2019-03-20T03:30:04-03:00,101,101,"Héctor Gambini",M
+8627,"Explicaciones sobran, pero nada frena el ...",clarin,/opinion/explicaciones-sobran-frena-avance-precios_0_Oac6uRpbt.html,2019-03-19T04:30:04-03:00,2019-03-20T03:30:04-03:00,71,71,"Alcadio Oña",M
+8628,"Leves mejoras en la escuela primaria",clarin,/opinion/leves-mejoras-escuela-primaria_0_WfBlAj4n3.html,2019-03-19T04:30:04-03:00,2019-03-20T03:30:04-03:00,1707,1707,"Juan José Llach",M
+8629,"Amor 2.0: efectos colaterales",clarin,/opinion/amor-efectos-colaterales_0_740b1U9-D.html,2019-03-19T04:30:04-03:00,2019-03-20T03:30:04-03:00,1260,1260,"Carlos Alvarez Teijeiro",M
+8630,"Un encuentro más allá de las distancias",lanacion,/opinion/columnistas/un-encuentro-mas-alla-de-las-distancias-nid2229844,2019-03-19T05:30:11-03:00,2019-03-19T10:30:13-03:00,488,488,"Diana Fernández Irusta",F
+8631,"El feedback indispensable en un equipo",lanacion,/economia/el-feedback-indispensable-equipo-nid2229814,2019-03-19T11:30:12-03:00,2019-03-20T02:30:10-03:00,232,232,"Andrea Churba",F
+8632,"Un submundo sin grieta",lanacion,/politica/un-submundo-sin-grieta-nid2229910,2019-03-19T14:30:11-03:00,2019-03-20T02:30:10-03:00,5,5,"Carlos Pagni",M
+8633,"Carlos Rosenkrantz, el Emperador de la Corte",pagina12,https://www.pagina12.com.ar/182060-carlos-rosenkrantz-el-emperador-de-la-corte,2019-03-19T22:30:14-03:00,2019-03-20T09:30:15-03:00,63,63,"Irina Hauser",F
+8634,"Danza de dólares y una pregunta clave: ¿alcanzan?",clarin,/opinion/danza-dolares-fmi-campo-pregunta-clave-alcanzan_0_ZBQrONjPD.html,2019-03-20T00:30:05-03:00,2019-03-20T09:30:04-03:00,102,102,"Daniel Fernández Canedo",M
+8635,"Cómo puede incidir la interna judicial en un año electoral",lanacion,/politica/como-puede-incidir-interna-judicial-ano-electoral-nid2230216,2019-03-20T01:30:11-03:00,2019-03-20T02:30:10-03:00,133,133,"Jorge Liotti",M
+8636,"Ofensiva de Trump contra México",lanacion,/opinion/columnistas/ofensiva-de-trump-contra-mexico-nid2230201,2019-03-20T03:30:11-03:00,2019-03-20T09:30:12-03:00,435,435,"Andrés Oppenheimer",M
+8637,"La usura y la tasa de interés en 5000 años de la humanidad",lanacion,/opinion/la-usura-tasa-interes-5000-anos-humanidad-nid2230316,2019-03-20T03:30:11-03:00,2019-03-20T09:30:12-03:00,513,513,"Orlando J. Ferreres",M
+8638,"El chupete y la pantalla como chupete",lanacion,/lifestyle/el-chupete-pantalla-como-chupete-nid2230100,2019-03-20T03:30:11-03:00,2019-03-20T07:30:11-03:00,354,354,"Maritchu Seitún",F
+8639,"Fin del verano",lanacion,/opinion/fin-del-verano-nid2230035,2019-03-20T03:30:11-03:00,2019-03-20T09:30:12-03:00,1314,1314,"Dolores Caviglia",F
+8640,"Fake news, ¿el Plan B?",pagina12,https://www.pagina12.com.ar/182135-fake-news-el-plan-b,2019-03-20T03:30:13-03:00,2019-03-20T09:30:15-03:00,1708,1708,"Maite Alvado",F
+8641,"La resistencia mediática",pagina12,https://www.pagina12.com.ar/182136-la-resistencia-mediatica,2019-03-20T03:30:13-03:00,2019-03-20T09:30:15-03:00,1709,1709,"Eliana Verón",F
+8642,"La moda del ""socialismo millennial""",pagina12,https://www.pagina12.com.ar/181315-la-moda-del-socialismo-millennial,2019-03-20T03:30:13-03:00,2019-03-20T09:30:15-03:00,796,796,"Andrés Ferrari Haines",M
+8643,"La masividad desde la sencillez",pagina12,https://www.pagina12.com.ar/182096-la-masividad-desde-la-sencillez,2019-03-20T03:30:13-03:00,2019-03-20T09:30:15-03:00,12,12,"Karina Micheletto",F
+8644,"Macri les apunta a los abdominales de Lavagna",clarin,/opinion/macri-apunta-abdominales-lavagna_0_qUVtYVM0q.html,2019-03-20T04:30:04-03:00,2019-03-20T09:30:04-03:00,73,73,"Fernando Gonzalez",M
+8645,"Otra piña de la Corte Suprema contra Mauricio ...",clarin,/opinion/pina-corte-suprema-mauricio-macri_0_vF9L5SCPV.html,2019-03-20T04:30:04-03:00,2019-03-20T09:30:04-03:00,70,70,"Eduardo van der Kooy",M
+8646,"La grieta más profunda",clarin,/opinion/grieta-profunda_0_hUQYmoV8u.html,2019-03-20T04:30:04-03:00,2019-03-20T09:30:04-03:00,322,322,"Roberto Saba",M
+8647,"Defensa: ¿cambios que fortalecen la democracia?",clarin,/opinion/defensa-cambios-fortalecen-democracia_0_8lMnK6GsW.html,2019-03-20T04:30:04-03:00,2019-03-20T09:30:04-03:00,1192,1192,"Rut Diamint",F
+8648,"Entretelones del poder detrás de la Constitución peronista de 1949",lanacion,/opinion/entretelones-del-poder-detras-de-la-constitucion-peronista-de-1949-nid2230174,2019-03-20T08:30:11-03:00,2019-03-20T09:30:12-03:00,122,122,"Pablo Mendelevich",M
