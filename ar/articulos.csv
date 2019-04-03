@@ -9176,8 +9176,8 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 8846,"El cuadrado virtuoso de la inserción internacional",clarin,/opinion/cuadrado-virtuoso-insercion-internacional_0_1ncWxbv5N.html,2019-04-01T02:30:04-03:00,2019-04-02T06:30:04-03:00,808,808,"Marcelo Elizondo",M
 8847,"El conflicto irresuelto de la Argentina",clarin,/opinion/conflicto-irresuelto-argentina_0_J-0I9faOR.html,2019-04-01T02:30:04-03:00,2019-04-02T06:30:04-03:00,529,529,"Ricardo Esteves",M
 8848,"El monumento inconcluso de Eva Perón",clarin,/opinion/monumento-inconcluso-eva-peron_0_qvA-avtbw.html,2019-04-01T02:30:04-03:00,2019-04-02T06:30:04-03:00,1559,1559,"Ignacio Cloppet",M
-8849,"El default que ya está",pagina12,https://www.pagina12.com.ar/184517-el-default-que-ya-esta,2019-04-01T02:30:13-03:00,2019-04-02T09:30:14-03:00,83,83,"Eduardo Aliverti",M
-8850,"Lengua que se las trae",pagina12,https://www.pagina12.com.ar/184509-lengua-que-se-las-trae,2019-04-01T02:30:13-03:00,2019-04-02T09:30:14-03:00,82,82,"Mempo Giardinelli",M
+8849,"El default que ya está",pagina12,https://www.pagina12.com.ar/184517-el-default-que-ya-esta,2019-04-01T02:30:13-03:00,2019-04-03T00:30:14-03:00,83,83,"Eduardo Aliverti",M
+8850,"Lengua que se las trae",pagina12,https://www.pagina12.com.ar/184509-lengua-que-se-las-trae,2019-04-01T02:30:13-03:00,2019-04-03T00:30:14-03:00,82,82,"Mempo Giardinelli",M
 8851,"D’Alessio bajo la lupa del Parlasur",pagina12,https://www.pagina12.com.ar/184521-d-alessio-bajo-la-lupa-del-parlasur,2019-04-01T02:30:13-03:00,2019-04-02T01:30:15-03:00,657,657,"Martín Granovsky",M
 8852,"¿Sigue siendo la Argentina un país de clase media?",lanacion,/economia/sigue-siendo-la-argentina-un-pais-de-clase-media-nid2233971,2019-04-01T04:30:10-03:00,2019-04-01T08:30:11-03:00,76,76,"Guillermo Oliveto",M
 8853,"Villanos de película",lanacion,/lifestyle/villanos-pelicula-nid2231985,2019-04-01T04:30:10-03:00,2019-04-02T03:30:12-03:00,273,273,"Arturo Pérez-Reverte",M
@@ -9186,14 +9186,32 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 8856,"Lo viejo amenaza con regresar a la Justicia",lanacion,/politica/lo-viejo-amenaza-con-regresar-a-la-justicia-nid2233989,2019-04-01T05:30:11-03:00,2019-04-02T03:30:12-03:00,96,96,"Claudio Jacquelin",M
 8857,"Una discusión saludable sobre el futuro y las tensiones del lenguaje",lanacion,/cultura/una-discusion-saludable-sobre-el-futuro-y-las-tensiones-del-lenguaje-nid2233824,2019-04-01T09:30:12-03:00,2019-04-01T23:30:11-03:00,274,274,"Víctor Hugo Ghitta",M
 8858,"Alfonsín, en el recuerdo en primera persona de un militante radical",lanacion,/opinion/raul-alfonsin-recuerdo-primera-persona-militante-radical-nid2234368,2019-04-02T00:30:12-03:00,2019-04-02T03:30:12-03:00,1715,1715,"Jorge Augusto Cuello",M
-8859,"¿Quién se robó el PBI?",pagina12,https://www.pagina12.com.ar/184495-quien-se-robo-el-pbi,2019-04-02T02:30:15-03:00,2019-04-02T09:30:14-03:00,193,193,"Marcelo Justo",M
-8860,"Agitar la grieta en la debacle",pagina12,https://www.pagina12.com.ar/184253-agitar-la-grieta-en-la-debacle,2019-04-02T02:30:15-03:00,2019-04-02T09:30:14-03:00,106,106,"Claudio Scaletta",M
-8861,"Planes de autoahorro: del sueño del 0 km a la pesadilla financiera",lanacion,/opinion/columnistas/planes-autoahorro-del-sueno-del-0-km-nid2234477,2019-04-02T04:30:11-03:00,2019-04-02T09:30:11-03:00,172,172,"Nicolás Litvinoff",M
+8859,"¿Quién se robó el PBI?",pagina12,https://www.pagina12.com.ar/184495-quien-se-robo-el-pbi,2019-04-02T02:30:15-03:00,2019-04-03T00:30:14-03:00,193,193,"Marcelo Justo",M
+8860,"Agitar la grieta en la debacle",pagina12,https://www.pagina12.com.ar/184253-agitar-la-grieta-en-la-debacle,2019-04-02T02:30:15-03:00,2019-04-03T00:30:14-03:00,106,106,"Claudio Scaletta",M
+8861,"Planes de autoahorro: del sueño del 0 km a la pesadilla financiera",lanacion,/opinion/columnistas/planes-autoahorro-del-sueno-del-0-km-nid2234477,2019-04-02T04:30:11-03:00,2019-04-03T02:30:11-03:00,172,172,"Nicolás Litvinoff",M
 8862,"Preservar y compartir los conocimientos de la compañía",lanacion,/economia/preservar-compartir-conocimientos-compania-nid2234175,2019-04-02T04:30:11-03:00,2019-04-02T07:30:11-03:00,232,232,"Andrea Churba",F
-8863,"La escuela pública, extraviada en su laberinto",lanacion,/opinion/columnistas/la-escuela-publica-extraviada-en-su-laberinto-nid2234315,2019-04-02T04:30:11-03:00,2019-04-02T09:30:11-03:00,360,360,"Luciano Román",M
-8864,"Canela se despide de su histórico ciclo cultural",lanacion,/espectaculos/canela-se-despide-su-historico-ciclo-cultural-nid2234265,2019-04-02T04:30:11-03:00,2019-04-02T09:30:11-03:00,287,287,"Pablo Montagna",M
-8865,"Malvinas, la cara oculta de la Luna",clarin,/opinion/malvinas-cara-oculta-luna_0_E-6SfGHVI.html,2019-04-02T07:30:04-03:00,2019-04-02T09:30:04-03:00,101,101,"Héctor Gambini",M
-8866,"Exportaciones quietas versus importaciones que ...",clarin,/opinion/exportaciones-quietas-versus-importaciones-desploman_0_LyldCl1P7.html,2019-04-02T07:30:04-03:00,2019-04-02T09:30:04-03:00,71,71,"Alcadio Oña",M
-8867,"Los sutiles circuitos de la trata en el GBA",clarin,/opinion/sutiles-circuitos-trata-gba_0_thBLcJi6X.html,2019-04-02T07:30:04-03:00,2019-04-02T09:30:04-03:00,247,247,"Jorge Ossona",M
-8868,"La tecnología no destruye puestos de trabajo: ...",clarin,/opinion/tecnologia-destruye-puestos-trabajo-cambia-naturaleza_0_wieX2GluI.html,2019-04-02T07:30:04-03:00,2019-04-02T09:30:04-03:00,1736,1736,"Javier Minsky",M
-8869,"Desafíos para la salud universal",lanacion,/opinion/columnistas/desafios-para-la-salud-universal-nid2234359,2019-04-02T08:30:12-03:00,2019-04-02T09:30:11-03:00,1737,1737,"Maureen Birmingham",F
+8863,"La escuela pública, extraviada en su laberinto",lanacion,/opinion/columnistas/la-escuela-publica-extraviada-en-su-laberinto-nid2234315,2019-04-02T04:30:11-03:00,2019-04-03T02:30:11-03:00,360,360,"Luciano Román",M
+8864,"Canela se despide de su histórico ciclo cultural",lanacion,/espectaculos/canela-se-despide-su-historico-ciclo-cultural-nid2234265,2019-04-02T04:30:11-03:00,2019-04-02T16:30:11-03:00,287,287,"Pablo Montagna",M
+8865,"Malvinas, la cara oculta de la Luna",clarin,/opinion/malvinas-cara-oculta-luna_0_E-6SfGHVI.html,2019-04-02T07:30:04-03:00,2019-04-03T01:30:04-03:00,101,101,"Héctor Gambini",M
+8866,"Exportaciones quietas versus importaciones que ...",clarin,/opinion/exportaciones-quietas-versus-importaciones-desploman_0_LyldCl1P7.html,2019-04-02T07:30:04-03:00,2019-04-03T01:30:04-03:00,71,71,"Alcadio Oña",M
+8867,"Los sutiles circuitos de la trata en el GBA",clarin,/opinion/sutiles-circuitos-trata-gba_0_thBLcJi6X.html,2019-04-02T07:30:04-03:00,2019-04-03T01:30:04-03:00,247,247,"Jorge Ossona",M
+8868,"La tecnología no destruye puestos de trabajo: ...",clarin,/opinion/tecnologia-destruye-puestos-trabajo-cambia-naturaleza_0_wieX2GluI.html,2019-04-02T07:30:04-03:00,2019-04-03T01:30:04-03:00,1736,1736,"Javier Minsky",M
+8869,"Desafíos para la salud universal",lanacion,/opinion/columnistas/desafios-para-la-salud-universal-nid2234359,2019-04-02T08:30:12-03:00,2019-04-03T02:30:11-03:00,1737,1737,"Maureen Birmingham",F
+8870,"""El proyecto de Macri es peor que la ley de Videla""",pagina12,https://www.pagina12.com.ar/184782-el-proyecto-de-macri-es-peor-que-la-ley-de-videla,2019-04-02T13:30:15-03:00,2019-04-02T16:30:15-03:00,1738,1738,"Claudia Cesaroni",F
+8871,"Dólar, espías y un país en juego",lanacion,/politica/dolar-espias-pais-juego-nid2234451,2019-04-02T17:30:12-03:00,2019-04-03T02:30:11-03:00,5,5,"Carlos Pagni",M
+8872,"El desastre volador",pagina12,https://www.pagina12.com.ar/184819-el-desastre-volador,2019-04-02T20:30:16-03:00,2019-04-03T09:30:16-03:00,65,65,"Eric Nepomuceno",M
+8873,"A 37 años de la Guerra de las Malvinas, lo que ...",clarin,/opinion/37-anos-guerra-malvinas-debemos-olvidar_0_JP-8YtI5q.html,2019-04-02T21:30:04-03:00,2019-04-03T01:30:04-03:00,517,517,"Martín Balza",M
+8874,"Control sobre el uso de opioides",pagina12,https://www.pagina12.com.ar/184851-control-sobre-el-uso-de-opioides,2019-04-03T01:30:14-03:00,2019-04-03T09:30:16-03:00,1739,1739,"Jorge Dureaume",M
+8875,"Malvinas, una ráfaga de viento",pagina12,https://www.pagina12.com.ar/184696-malvinas-una-rafaga-de-viento,2019-04-03T01:30:14-03:00,2019-04-03T09:30:16-03:00,1490,1490,"Edgardo Esteban",M
+8876,"Estigma y medios de comunicación",pagina12,https://www.pagina12.com.ar/184900-estigma-y-medios-de-comunicacion,2019-04-03T01:30:14-03:00,2019-04-03T09:30:16-03:00,1740,1740,"Juan Pedro Gallardo",M
+8877,"A lo Toy Story, en Cambiemos se toman de las manos",clarin,/opinion/toy-story-cambiemos-toman-manos_0_F4r2CJXuv.html,2019-04-03T02:30:04-03:00,2019-04-03T09:30:05-03:00,73,73,"Fernando Gonzalez",M
+8878,"Nafta, aceite, harina, arroz  y fideos, llegó ...",clarin,/opinion/nafta-aceite-harina-arroz-fideos-llego-dolar_0_58R1Zr-k-.html,2019-04-03T02:30:04-03:00,2019-04-03T09:30:05-03:00,102,102,"Daniel Fernández Canedo",M
+8879,"Raíces provinciales del subdesarrollo",clarin,/opinion/raices-provinciales-subdesarrollo_0_tI9V8Ys9V.html,2019-04-03T02:30:04-03:00,2019-04-03T09:30:05-03:00,1269,1269,"Carlos Gervasoni",M
+8880,"Seguridad global: actuemos antes de que sea ...",clarin,/opinion/seguridad-global-actuemos-tarde_0_3x4OQbY7i.html,2019-04-03T02:30:04-03:00,2019-04-03T09:30:05-03:00,1741,1741,"Dmitry Feoktistov",M
+8881,"""¿Hay acuerdo? vamos a la huelga""",clarin,/opinion/acuerdo-vamos-huelga_0_Yd3pJcpWn.html,2019-04-03T02:30:04-03:00,2019-04-03T09:30:05-03:00,285,285,"Alberto Amato",M
+8882,"La reforma penal juvenil y los discursos electorales",pagina12,https://www.pagina12.com.ar/184856-la-reforma-penal-juvenil-y-los-discursos-electorales,2019-04-03T02:30:14-03:00,2019-04-03T09:30:16-03:00,1742,1742,"Serpaj y otras organizaciones",+
+8883,"Peligrosa obsesión con el pasado",lanacion,/opinion/columnistas/peligrosa-obsesion-con-el-pasado-nid2234607,2019-04-03T03:30:11-03:00,2019-04-03T09:30:12-03:00,435,435,"Andrés Oppenheimer",M
+8884,"La exportación de conocimientos de la Argentina",lanacion,/economia/la-exportacion-conocimientos-argentina-nid2234731,2019-04-03T03:30:11-03:00,2019-04-03T08:30:11-03:00,513,513,"Orlando J. Ferreres",M
+8885,"Los caídos duelen para siempre",lanacion,/opinion/los-caidos-duelen-para-siempre-nid2234596,2019-04-03T03:30:11-03:00,2019-04-03T09:30:12-03:00,325,325,"Ariel Torres",M
+8886,"arteBA, superdólar y la multiplicación de las ferias",lanacion,/economia/arteba-superdolar-y-la-multiplicacion-de-las-ferias-nid2234325,2019-04-03T03:30:11-03:00,2019-04-03T09:30:12-03:00,1743,1743,"Alicia de Arteaga",F
+8887,"Las tensiones entre Cambiemos y el radicalismo por la vicepresidencia",lanacion,/politica/las-tensiones-cambiemos-radicalismo-vicepresidencia-nid2234645,2019-04-03T09:30:12-03:00,2019-04-03T09:30:12-03:00,133,133,"Jorge Liotti",M
