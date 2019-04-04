@@ -9189,7 +9189,7 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 8859,"¿Quién se robó el PBI?",pagina12,https://www.pagina12.com.ar/184495-quien-se-robo-el-pbi,2019-04-02T02:30:15-03:00,2019-04-03T00:30:14-03:00,193,193,"Marcelo Justo",M
 8860,"Agitar la grieta en la debacle",pagina12,https://www.pagina12.com.ar/184253-agitar-la-grieta-en-la-debacle,2019-04-02T02:30:15-03:00,2019-04-03T00:30:14-03:00,106,106,"Claudio Scaletta",M
 8861,"Planes de autoahorro: del sueño del 0 km a la pesadilla financiera",lanacion,/opinion/columnistas/planes-autoahorro-del-sueno-del-0-km-nid2234477,2019-04-02T04:30:11-03:00,2019-04-03T02:30:11-03:00,172,172,"Nicolás Litvinoff",M
-8862,"Preservar y compartir los conocimientos de la compañía",lanacion,/economia/preservar-compartir-conocimientos-compania-nid2234175,2019-04-02T04:30:11-03:00,2019-04-02T07:30:11-03:00,232,232,"Andrea Churba",F
+8862,"Preservar y compartir los conocimientos de la compañía",lanacion,/economia/preservar-compartir-conocimientos-compania-nid2234175,2019-04-02T04:30:11-03:00,2019-04-04T07:30:11-03:00,232,232,"Andrea Churba",F
 8863,"La escuela pública, extraviada en su laberinto",lanacion,/opinion/columnistas/la-escuela-publica-extraviada-en-su-laberinto-nid2234315,2019-04-02T04:30:11-03:00,2019-04-03T02:30:11-03:00,360,360,"Luciano Román",M
 8864,"Canela se despide de su histórico ciclo cultural",lanacion,/espectaculos/canela-se-despide-su-historico-ciclo-cultural-nid2234265,2019-04-02T04:30:11-03:00,2019-04-02T16:30:11-03:00,287,287,"Pablo Montagna",M
 8865,"Malvinas, la cara oculta de la Luna",clarin,/opinion/malvinas-cara-oculta-luna_0_E-6SfGHVI.html,2019-04-02T07:30:04-03:00,2019-04-03T01:30:04-03:00,101,101,"Héctor Gambini",M
@@ -9201,17 +9201,30 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 8871,"Dólar, espías y un país en juego",lanacion,/politica/dolar-espias-pais-juego-nid2234451,2019-04-02T17:30:12-03:00,2019-04-03T02:30:11-03:00,5,5,"Carlos Pagni",M
 8872,"El desastre volador",pagina12,https://www.pagina12.com.ar/184819-el-desastre-volador,2019-04-02T20:30:16-03:00,2019-04-03T09:30:16-03:00,65,65,"Eric Nepomuceno",M
 8873,"A 37 años de la Guerra de las Malvinas, lo que ...",clarin,/opinion/37-anos-guerra-malvinas-debemos-olvidar_0_JP-8YtI5q.html,2019-04-02T21:30:04-03:00,2019-04-03T01:30:04-03:00,517,517,"Martín Balza",M
-8874,"Control sobre el uso de opioides",pagina12,https://www.pagina12.com.ar/184851-control-sobre-el-uso-de-opioides,2019-04-03T01:30:14-03:00,2019-04-03T09:30:16-03:00,1739,1739,"Jorge Dureaume",M
-8875,"Malvinas, una ráfaga de viento",pagina12,https://www.pagina12.com.ar/184696-malvinas-una-rafaga-de-viento,2019-04-03T01:30:14-03:00,2019-04-03T09:30:16-03:00,1490,1490,"Edgardo Esteban",M
-8876,"Estigma y medios de comunicación",pagina12,https://www.pagina12.com.ar/184900-estigma-y-medios-de-comunicacion,2019-04-03T01:30:14-03:00,2019-04-03T09:30:16-03:00,1740,1740,"Juan Pedro Gallardo",M
-8877,"A lo Toy Story, en Cambiemos se toman de las manos",clarin,/opinion/toy-story-cambiemos-toman-manos_0_F4r2CJXuv.html,2019-04-03T02:30:04-03:00,2019-04-03T09:30:05-03:00,73,73,"Fernando Gonzalez",M
-8878,"Nafta, aceite, harina, arroz  y fideos, llegó ...",clarin,/opinion/nafta-aceite-harina-arroz-fideos-llego-dolar_0_58R1Zr-k-.html,2019-04-03T02:30:04-03:00,2019-04-03T09:30:05-03:00,102,102,"Daniel Fernández Canedo",M
-8879,"Raíces provinciales del subdesarrollo",clarin,/opinion/raices-provinciales-subdesarrollo_0_tI9V8Ys9V.html,2019-04-03T02:30:04-03:00,2019-04-03T09:30:05-03:00,1269,1269,"Carlos Gervasoni",M
-8880,"Seguridad global: actuemos antes de que sea ...",clarin,/opinion/seguridad-global-actuemos-tarde_0_3x4OQbY7i.html,2019-04-03T02:30:04-03:00,2019-04-03T09:30:05-03:00,1741,1741,"Dmitry Feoktistov",M
-8881,"""¿Hay acuerdo? vamos a la huelga""",clarin,/opinion/acuerdo-vamos-huelga_0_Yd3pJcpWn.html,2019-04-03T02:30:04-03:00,2019-04-03T09:30:05-03:00,285,285,"Alberto Amato",M
-8882,"La reforma penal juvenil y los discursos electorales",pagina12,https://www.pagina12.com.ar/184856-la-reforma-penal-juvenil-y-los-discursos-electorales,2019-04-03T02:30:14-03:00,2019-04-03T09:30:16-03:00,1742,1742,"Serpaj y otras organizaciones",+
-8883,"Peligrosa obsesión con el pasado",lanacion,/opinion/columnistas/peligrosa-obsesion-con-el-pasado-nid2234607,2019-04-03T03:30:11-03:00,2019-04-03T09:30:12-03:00,435,435,"Andrés Oppenheimer",M
+8874,"Control sobre el uso de opioides",pagina12,https://www.pagina12.com.ar/184851-control-sobre-el-uso-de-opioides,2019-04-03T01:30:14-03:00,2019-04-04T00:30:15-03:00,1739,1739,"Jorge Dureaume",M
+8875,"Malvinas, una ráfaga de viento",pagina12,https://www.pagina12.com.ar/184696-malvinas-una-rafaga-de-viento,2019-04-03T01:30:14-03:00,2019-04-04T00:30:15-03:00,1490,1490,"Edgardo Esteban",M
+8876,"Estigma y medios de comunicación",pagina12,https://www.pagina12.com.ar/184900-estigma-y-medios-de-comunicacion,2019-04-03T01:30:14-03:00,2019-04-04T00:30:15-03:00,1740,1740,"Juan Pedro Gallardo",M
+8877,"A lo Toy Story, en Cambiemos se toman de las manos",clarin,/opinion/toy-story-cambiemos-toman-manos_0_F4r2CJXuv.html,2019-04-03T02:30:04-03:00,2019-04-04T02:30:04-03:00,73,73,"Fernando Gonzalez",M
+8878,"Nafta, aceite, harina, arroz  y fideos, llegó ...",clarin,/opinion/nafta-aceite-harina-arroz-fideos-llego-dolar_0_58R1Zr-k-.html,2019-04-03T02:30:04-03:00,2019-04-04T02:30:04-03:00,102,102,"Daniel Fernández Canedo",M
+8879,"Raíces provinciales del subdesarrollo",clarin,/opinion/raices-provinciales-subdesarrollo_0_tI9V8Ys9V.html,2019-04-03T02:30:04-03:00,2019-04-04T02:30:04-03:00,1269,1269,"Carlos Gervasoni",M
+8880,"Seguridad global: actuemos antes de que sea ...",clarin,/opinion/seguridad-global-actuemos-tarde_0_3x4OQbY7i.html,2019-04-03T02:30:04-03:00,2019-04-04T02:30:04-03:00,1741,1741,"Dmitry Feoktistov",M
+8881,"""¿Hay acuerdo? vamos a la huelga""",clarin,/opinion/acuerdo-vamos-huelga_0_Yd3pJcpWn.html,2019-04-03T02:30:04-03:00,2019-04-04T02:30:04-03:00,285,285,"Alberto Amato",M
+8882,"La reforma penal juvenil y los discursos electorales",pagina12,https://www.pagina12.com.ar/184856-la-reforma-penal-juvenil-y-los-discursos-electorales,2019-04-03T02:30:14-03:00,2019-04-04T00:30:15-03:00,1742,1742,"Serpaj y otras organizaciones",+
+8883,"Peligrosa obsesión con el pasado",lanacion,/opinion/columnistas/peligrosa-obsesion-con-el-pasado-nid2234607,2019-04-03T03:30:11-03:00,2019-04-04T02:30:11-03:00,435,435,"Andrés Oppenheimer",M
 8884,"La exportación de conocimientos de la Argentina",lanacion,/economia/la-exportacion-conocimientos-argentina-nid2234731,2019-04-03T03:30:11-03:00,2019-04-03T08:30:11-03:00,513,513,"Orlando J. Ferreres",M
-8885,"Los caídos duelen para siempre",lanacion,/opinion/los-caidos-duelen-para-siempre-nid2234596,2019-04-03T03:30:11-03:00,2019-04-03T09:30:12-03:00,325,325,"Ariel Torres",M
-8886,"arteBA, superdólar y la multiplicación de las ferias",lanacion,/economia/arteba-superdolar-y-la-multiplicacion-de-las-ferias-nid2234325,2019-04-03T03:30:11-03:00,2019-04-03T09:30:12-03:00,1743,1743,"Alicia de Arteaga",F
-8887,"Las tensiones entre Cambiemos y el radicalismo por la vicepresidencia",lanacion,/politica/las-tensiones-cambiemos-radicalismo-vicepresidencia-nid2234645,2019-04-03T09:30:12-03:00,2019-04-03T09:30:12-03:00,133,133,"Jorge Liotti",M
+8885,"Los caídos duelen para siempre",lanacion,/opinion/los-caidos-duelen-para-siempre-nid2234596,2019-04-03T03:30:11-03:00,2019-04-04T02:30:11-03:00,325,325,"Ariel Torres",M
+8886,"arteBA, superdólar y la multiplicación de las ferias",lanacion,/economia/arteba-superdolar-y-la-multiplicacion-de-las-ferias-nid2234325,2019-04-03T03:30:11-03:00,2019-04-04T02:30:11-03:00,1743,1743,"Alicia de Arteaga",F
+8887,"Las tensiones entre Cambiemos y el radicalismo por la vicepresidencia",lanacion,/politica/las-tensiones-cambiemos-radicalismo-vicepresidencia-nid2234645,2019-04-03T09:30:12-03:00,2019-04-04T02:30:11-03:00,133,133,"Jorge Liotti",M
+8888,"El desastre volador",pagina12,https://www.pagina12.com.ar/184819-bolsonaro-el-desastre-volador,2019-04-03T10:30:16-03:00,2019-04-04T09:30:16-03:00,65,65,"Eric Nepomuceno",M
+8889,"Elogio de Taty Almeida",pagina12,https://www.pagina12.com.ar/184830-elogio-de-taty-almeida,2019-04-04T01:30:14-03:00,2019-04-04T09:30:16-03:00,228,228,"Eduardo Jozami",M
+8890,"La lengua, identidad y aflicción",pagina12,https://www.pagina12.com.ar/185025-la-lengua-identidad-y-afliccion,2019-04-04T01:30:14-03:00,2019-04-04T08:30:14-03:00,1481,1481,"Ricardo Nacht",M
+8891,"Cuidar la política (y la democracia)",pagina12,https://www.pagina12.com.ar/184901-cuidar-la-politica-y-la-democracia,2019-04-04T01:30:14-03:00,2019-04-04T09:30:16-03:00,1744,1744,"Pablo Hernández y Diego Vesciunas",+
+8892,"Chispazos de Patricia Bullrich con María ...",clarin,/opinion/chispazos-patricia-bullrich-maria-eugenia-vidal_0__tD5xdPKi.html,2019-04-04T03:30:04-03:00,2019-04-04T09:30:05-03:00,1,1,"Ricardo Roa",M
+8893,"El próximo gobierno recibirá no una, sino ...",clarin,/opinion/proximo-gobierno-recibira-pesadas-herencias_0_p4Njyns95.html,2019-04-04T03:30:04-03:00,2019-04-04T09:30:05-03:00,259,259,"Guillermo  Rozenwurcel",M
+8894,"Los subsidios y el futuro de Vaca Muerta",clarin,/opinion/subsidios-futuro-vaca-muerta_0_MNNqu65YL.html,2019-04-04T03:30:04-03:00,2019-04-04T09:30:05-03:00,377,377,"Daniel Montamat",M
+8895,"Narcotráfico: el valor de las acciones frente ...",clarin,/opinion/narcotrafico-valor-acciones-frente-palabras_0_tD3kkMdbP.html,2019-04-04T03:30:04-03:00,2019-04-04T09:30:05-03:00,1745,1745,"Eugenio Burzaco",M
+8896,"Cambiemos, unido para ganar las elecciones",lanacion,/politica/cambiemos-se-muestra-unido-ganar-elecciones-ojo-nid2234966,2019-04-04T03:30:12-03:00,2019-04-04T09:30:13-03:00,96,96,"Claudio Jacquelin",M
+8897,"Una sentencia ejemplar por genocidio",lanacion,/opinion/columnistas/una-sentencia-ejemplar-genocidio-crimenes-guerra-nid2235067,2019-04-04T03:30:12-03:00,2019-04-04T09:30:13-03:00,195,195,"Emilio Cárdenas",M
+8898,"Cómo responder a una agresión verbal",lanacion,/opinion/como-responder-agresion-verbal-nid2235068,2019-04-04T03:30:12-03:00,2019-04-04T09:30:13-03:00,196,196,"Bernardo Stamateas",M
+8899,"El desafío de enseñar a pensar",lanacion,/opinion/el-desafio-de-ensenar-a-pensar-nid2234940,2019-04-04T08:30:11-03:00,2019-04-04T09:30:13-03:00,757,757,"Gustavo Iaies",M
+8900,"Ramón Carrillo y la guerra psicológica",pagina12,https://www.pagina12.com.ar/184853-ramon-carrillo-y-la-guerra-psicologica,2019-04-04T09:30:16-03:00,2019-04-04T09:30:16-03:00,1746,1746,"Renata Padín",F
