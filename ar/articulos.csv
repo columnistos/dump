@@ -9234,7 +9234,7 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 8904,"El Gobierno, entre ""comprar paz"" o ir a fondo contra los sindicatos",lanacion,/politica/el-gobierno-comprar-paz-ir-fondo-sindicatos-nid2235273,2019-04-05T00:30:11-03:00,2019-04-05T02:30:10-03:00,112,112,"Nicolás Balinotti",M
 8905,"Dodecálogo del éxito",pagina12,https://www.pagina12.com.ar/185283-dodecalogo-del-exito,2019-04-05T01:30:14-03:00,2019-04-06T01:30:14-03:00,890,890,"Jorge Majfud",M
 8906,"La politización del paro",pagina12,https://www.pagina12.com.ar/185331-la-politizacion-del-paro,2019-04-05T01:30:14-03:00,2019-04-06T01:30:14-03:00,140,140,"Luis Bruschtein",M
-8907,"¡Hay que verlo!",pagina12,https://www.pagina12.com.ar/184995-hay-que-verlo,2019-04-05T01:30:14-03:00,2019-04-06T09:30:15-03:00,631,631,"Liliana Viola",F
+8907,"¡Hay que verlo!",pagina12,https://www.pagina12.com.ar/184995-hay-que-verlo,2019-04-05T01:30:14-03:00,2019-04-07T00:30:15-03:00,631,631,"Liliana Viola",F
 8908,"Las más pobres de los pobres",pagina12,https://www.pagina12.com.ar/185208-las-mas-pobres-de-los-pobres,2019-04-05T01:30:14-03:00,2019-04-05T13:30:15-03:00,1747,1747,"Josefina Rosales, Mafalda Sánchez",F
 8909,"Un decreto a la medida de las sociedades anónimas",pagina12,https://www.pagina12.com.ar/185273-un-decreto-a-la-medida-de-las-sociedades-anonimas,2019-04-05T01:30:14-03:00,2019-04-05T07:30:15-03:00,53,53,"Gustavo Veiga",M
 8910,"Las tres condiciones que necesita Macri para su reelección",lanacion,/opinion/las-tres-condiciones-necesita-macri-su-reeleccion-nid2235470,2019-04-05T03:30:12-03:00,2019-04-06T02:30:11-03:00,131,131,"Fernando Laborda",M
@@ -9246,16 +9246,35 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 8916,"La actuación internacional frente a los genocidios",clarin,/opinion/actuacion-internacional-frente-genocidios_0_f_A2hgHt5.html,2019-04-05T04:30:05-03:00,2019-04-06T03:30:05-03:00,1748,1748,"Silvia Perazzo",F
 8917,"Un thriller de intrigas entre Bullrich y Vidal",lanacion,/opinion/un-thriller-de-intrigas-entre-bullrich-y-vidal-nid2235391,2019-04-05T12:30:12-03:00,2019-04-06T02:30:11-03:00,6,6,"Laura Di Marco",F
 8918,"",lanacion,/politica/caso-dalessio-titulares-afi-tuvieron-dar-explicaciones-nid2235431,2019-04-05T12:30:12-03:00,2019-04-06T02:30:11-03:00,86,86,"Hugo Alconada Mon",M
-8919,"La inteligencia artificial y la seguridad",pagina12,https://www.pagina12.com.ar/185586-la-inteligencia-artificial-y-la-seguridad,2019-04-06T02:30:14-03:00,2019-04-06T09:30:15-03:00,1331,1331,"Gabriel Fuks",M
-8920,"Un fantoche que decepciona",pagina12,https://www.pagina12.com.ar/185569-un-fantoche-que-decepciona,2019-04-06T02:30:14-03:00,2019-04-06T09:30:15-03:00,123,123,"Emir Sader",M
-8921,"Buscar chongo en Tinder y lógicas del consumo",pagina12,https://www.pagina12.com.ar/185237-buscar-chongo-en-tinder-y-logicas-del-consumo,2019-04-06T02:30:14-03:00,2019-04-06T09:30:15-03:00,1749,1749,"Mariela Gurevich, Noelia Stetie",F
-8922,"La falacia de los dos modelos de país",lanacion,/opinion/la-falacia-de-los-dos-modelos-de-pais-nid2235861,2019-04-06T03:30:12-03:00,2019-04-06T09:30:12-03:00,48,48,"Eduardo Fidanza",M
-8923,"A los otarios, ni cabida",lanacion,/opinion/miradas/a-los-otarios-ni-cabida-nid2235827,2019-04-06T03:30:12-03:00,2019-04-06T09:30:12-03:00,673,673,"Graciela Guadalupe",F
-8924,"Viajeros en el vértigo de la conectividad",lanacion,/opinion/viajeros-en-el-vertigo-de-la-conectividad-nid2235774,2019-04-06T03:30:12-03:00,2019-04-06T09:30:12-03:00,47,47,"Héctor M. Guyot",M
-8925,"El ranking de los países más divididos",lanacion,/politica/la-grieta-no-esta-solo-argentina-ranking-nid2235824,2019-04-06T03:30:12-03:00,2019-04-06T09:30:12-03:00,310,310,"Inés Capdevila",F
-8926,"Espías de la SIDE K y de la AFI de Macri",clarin,/opinion/espias-side-afi-macri_0_xiv45MmmP.html,2019-04-06T04:30:04-03:00,2019-04-06T09:30:05-03:00,1,1,"Ricardo Roa",M
-8927,"La marcha, la crisis y el carnicero ajedrecista",clarin,/opinion/marcha-crisis-carnicero-ajedrecista_0_ychc4bQyF.html,2019-04-06T04:30:04-03:00,2019-04-06T09:30:05-03:00,205,205,"Miguel Wiñazki",M
-8928,"""Doctor, quiero seguir igual a mi selfie retocada""",clarin,/opinion/doctor-quiero-seguir-igual-selfie-retocada_0_-t2DctXEk.html,2019-04-06T04:30:04-03:00,2019-04-06T09:30:05-03:00,49,49,"Silvia Fesquet",F
-8929,"Entre culpables y víctimas del viento de ...",clarin,/mundo/culpables-victimas-viento-frente-carpe-diem_0_XOcSn99kq.html,2019-04-06T04:30:04-03:00,2019-04-06T09:30:05-03:00,50,50,"Marcelo Cantelmi",M
-8930,"Corazones en crisis",clarin,/opinion/corazones-crisis_0__NvOEQc2-.html,2019-04-06T04:30:04-03:00,2019-04-06T09:30:05-03:00,1471,1471,"Jorge Tartaglione",M
-8931,"Ciber-seguridad: el desafío de los padres y ...",clarin,/opinion/ciber-seguridad-desafio-padres-madres-hoy_0_Ed3LQpqxU.html,2019-04-06T04:30:04-03:00,2019-04-06T09:30:05-03:00,1750,1750,"Francisca Rojas",F
+8919,"La inteligencia artificial y la seguridad",pagina12,https://www.pagina12.com.ar/185586-la-inteligencia-artificial-y-la-seguridad,2019-04-06T02:30:14-03:00,2019-04-07T00:30:15-03:00,1331,1331,"Gabriel Fuks",M
+8920,"Un fantoche que decepciona",pagina12,https://www.pagina12.com.ar/185569-un-fantoche-que-decepciona,2019-04-06T02:30:14-03:00,2019-04-07T00:30:15-03:00,123,123,"Emir Sader",M
+8921,"Buscar chongo en Tinder y lógicas del consumo",pagina12,https://www.pagina12.com.ar/185237-buscar-chongo-en-tinder-y-logicas-del-consumo,2019-04-06T02:30:14-03:00,2019-04-07T00:30:15-03:00,1749,1749,"Mariela Gurevich, Noelia Stetie",F
+8922,"La falacia de los dos modelos de país",lanacion,/opinion/la-falacia-de-los-dos-modelos-de-pais-nid2235861,2019-04-06T03:30:12-03:00,2019-04-07T01:30:11-03:00,48,48,"Eduardo Fidanza",M
+8923,"A los otarios, ni cabida",lanacion,/opinion/miradas/a-los-otarios-ni-cabida-nid2235827,2019-04-06T03:30:12-03:00,2019-04-07T01:30:11-03:00,673,673,"Graciela Guadalupe",F
+8924,"Viajeros en el vértigo de la conectividad",lanacion,/opinion/viajeros-en-el-vertigo-de-la-conectividad-nid2235774,2019-04-06T03:30:12-03:00,2019-04-06T10:30:12-03:00,47,47,"Héctor M. Guyot",M
+8925,"El ranking de los países más divididos",lanacion,/politica/la-grieta-no-esta-solo-argentina-ranking-nid2235824,2019-04-06T03:30:12-03:00,2019-04-07T01:30:11-03:00,310,310,"Inés Capdevila",F
+8926,"Espías de la SIDE K y de la AFI de Macri",clarin,/opinion/espias-side-afi-macri_0_xiv45MmmP.html,2019-04-06T04:30:04-03:00,2019-04-07T00:30:05-03:00,1,1,"Ricardo Roa",M
+8927,"La marcha, la crisis y el carnicero ajedrecista",clarin,/opinion/marcha-crisis-carnicero-ajedrecista_0_ychc4bQyF.html,2019-04-06T04:30:04-03:00,2019-04-07T00:30:05-03:00,205,205,"Miguel Wiñazki",M
+8928,"""Doctor, quiero seguir igual a mi selfie retocada""",clarin,/opinion/doctor-quiero-seguir-igual-selfie-retocada_0_-t2DctXEk.html,2019-04-06T04:30:04-03:00,2019-04-07T00:30:05-03:00,49,49,"Silvia Fesquet",F
+8929,"Entre culpables y víctimas del viento de ...",clarin,/mundo/culpables-victimas-viento-frente-carpe-diem_0_XOcSn99kq.html,2019-04-06T04:30:04-03:00,2019-04-07T00:30:05-03:00,50,50,"Marcelo Cantelmi",M
+8930,"Corazones en crisis",clarin,/opinion/corazones-crisis_0__NvOEQc2-.html,2019-04-06T04:30:04-03:00,2019-04-07T00:30:05-03:00,1471,1471,"Jorge Tartaglione",M
+8931,"Ciber-seguridad: el desafío de los padres y ...",clarin,/opinion/ciber-seguridad-desafio-padres-madres-hoy_0_Ed3LQpqxU.html,2019-04-06T04:30:04-03:00,2019-04-07T00:30:05-03:00,1750,1750,"Francisca Rojas",F
+8932,"Elecciones de Netflix",clarin,/opinion/elecciones-netflix_0_qE2qMR_Cf.html,2019-04-06T11:30:05-03:00,2019-04-07T00:30:05-03:00,946,946,"Fabian Bosoer",M
+8933,"Una recurrente frustración colectiva",lanacion,/economia/una-recurrente-frustracion-colectiva-nid2235862,2019-04-06T11:30:12-03:00,2019-04-07T01:30:11-03:00,46,46,"Francisco Olivera",M
+8934,"Macri y el virus gallego de Trump",pagina12,https://www.pagina12.com.ar/185730-macri-y-el-virus-gallego-de-trump,2019-04-06T20:30:13-03:00,2019-04-07T09:30:16-03:00,796,796,"Andrés Ferrari Haines",M
+8935,"Macri entra en campaña con final incierto",clarin,/opinion/macri-entra-campana-final-incierto_0_zb1nGyGYp.html,2019-04-07T01:30:05-03:00,2019-04-07T09:30:05-03:00,37,37,"Ricardo Kirschbaum",M
+8936,"Un beso en la cabeza",clarin,/opinion/beso-cabeza_0_e8xXovkyC.html,2019-04-07T01:30:05-03:00,2019-04-07T09:30:05-03:00,496,496,"John Carlin",M
+8937,"Ensayos para la impunidad K",clarin,/opinion/ensayos-impunidad_0_UagaDoKDM.html,2019-04-07T01:30:05-03:00,2019-04-07T09:30:05-03:00,70,70,"Eduardo van der Kooy",M
+8938,"Ministro Dujovne, no aclare que oscurece",clarin,/opinion/ministro-dujovne-aclare-oscurece_0_HBGdpspU6.html,2019-04-07T01:30:05-03:00,2019-04-07T09:30:05-03:00,71,71,"Alcadio Oña",M
+8939,"La irrupción de las nuevas derechas",clarin,/opinion/irrupcion-nuevas-derechas_0_e5gcUo5j4.html,2019-04-07T01:30:05-03:00,2019-04-07T09:30:05-03:00,125,125,"Rosendo Fraga",M
+8940,"Francisco, sin móvil ni papamóvil",clarin,/opinion/francisco-movil-papamovil_0_UzHmMje8A.html,2019-04-07T01:30:05-03:00,2019-04-07T09:30:05-03:00,533,533,"Joana Bonet",F
+8941,"Bailar, como si nadie te mirara",clarin,/opinion/bailar-nadie-mirara_0_RzOLZiqWo.html,2019-04-07T01:30:05-03:00,2019-04-07T09:30:05-03:00,49,49,"Silvia Fesquet",F
+8942,"La rosca delictiva y su contexto político",pagina12,https://www.pagina12.com.ar/185776-la-rosca-delictiva-y-su-contexto-politico,2019-04-07T01:30:14-03:00,2019-04-07T09:30:16-03:00,64,64,"Edgardo Mocca",M
+8943,"Todo está guardado en la memoria",pagina12,https://www.pagina12.com.ar/185788-todo-esta-guardado-en-la-memoria,2019-04-07T01:30:14-03:00,2019-04-07T09:30:16-03:00,603,603,"Carlos Heller",M
+8944,"Lula libre, Lula Nobel",pagina12,https://www.pagina12.com.ar/185757-lula-libre-lula-nobel,2019-04-07T01:30:14-03:00,2019-04-07T09:30:16-03:00,1751,1751,"Celso Amorim",M
+8945,"Peripecias en provincias",pagina12,https://www.pagina12.com.ar/185762-peripecias-en-provincias,2019-04-07T01:30:14-03:00,2019-04-07T04:30:13-03:00,66,66,"Mario Wainfeld",M
+8946,"Cien días de tormenta, un año de injusticia",pagina12,https://www.pagina12.com.ar/185755-cien-dias-de-tormenta-un-ano-de-injusticia,2019-04-07T01:30:14-03:00,2019-04-07T09:30:16-03:00,65,65,"Eric Nepomuceno",M
+8947,"Las guerras virtuales de Cambiemos",lanacion,/opinion/las-guerras-virtuales-de-cambiemos-nid2235999,2019-04-07T02:30:11-03:00,2019-04-07T09:30:12-03:00,148,148,"Pablo Sirvén",M
+8948,"Una sola flecha para más de un flanco económico",lanacion,/economia/dolar/una-sola-flecha-para-mas-de-un-flanco-economico174x130mm-nid2235725,2019-04-07T02:30:11-03:00,2019-04-07T09:30:12-03:00,147,147,"Néstor O. Scibona",M
+8949,"Ganancias, un buen impuesto mal nombrado",lanacion,/economia/ganancias-un-buen-impuesto-mal-nombrado-nid2235724,2019-04-07T02:30:11-03:00,2019-04-07T09:30:12-03:00,149,149,"Juan Carlos de Pablo",M
+8950,"No hay cerveza gratis",lanacion,/opinion/columnistas/las-palabrasno-hay-cerveza-gratis-nid2235946,2019-04-07T02:30:11-03:00,2019-04-07T09:30:12-03:00,673,673,"Graciela Guadalupe",F
