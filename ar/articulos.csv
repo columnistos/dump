@@ -9327,8 +9327,8 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 8997,"El subte y el derecho social al transporte público de calidad",pagina12,https://www.pagina12.com.ar/186487-el-subte-y-el-derecho-social-al-transporte-publico-de-calida,2019-04-10T13:30:15-03:00,2019-04-11T00:30:15-03:00,330,330,"Federico Conditi",M
 8998,"",lanacion,/sociedad/agujero-negro-otra-vez-einstein-tenia-razon-nid2236935,2019-04-10T17:30:13-03:00,2019-04-11T02:30:11-03:00,450,450,"Nora Bär",F
 8999,"La cárcel de Assange",pagina12,https://www.pagina12.com.ar/186588-la-carcel-de-assange,2019-04-11T01:30:15-03:00,2019-04-11T09:30:15-03:00,794,794,"Santiago O’Donnell",M
-9000,Ejemplos,pagina12,https://www.pagina12.com.ar/186512-ejemplos,2019-04-11T01:30:15-03:00,2019-04-12T09:30:15-03:00,117,117,"Washington Uranga",M
-9001,"El capitalismo y las posibilidades de cambiarlo",pagina12,https://www.pagina12.com.ar/186570-el-capitalismo-y-las-posibilidades-de-cambiarlo,2019-04-11T01:30:15-03:00,2019-04-12T09:30:15-03:00,81,81,"Jorge Alemán",M
+9000,Ejemplos,pagina12,https://www.pagina12.com.ar/186512-ejemplos,2019-04-11T01:30:15-03:00,2019-04-13T01:30:14-03:00,117,117,"Washington Uranga",M
+9001,"El capitalismo y las posibilidades de cambiarlo",pagina12,https://www.pagina12.com.ar/186570-el-capitalismo-y-las-posibilidades-de-cambiarlo,2019-04-11T01:30:15-03:00,2019-04-13T01:30:14-03:00,81,81,"Jorge Alemán",M
 9002,"Un gurú que hubiera inspirado a Borges",clarin,/opinion/guru-inspirado-borges_0_A0dKiYu0O.html,2019-04-11T02:30:04-03:00,2019-04-11T22:30:04-03:00,1,1,"Ricardo Roa",M
 9003,"Estrategias exitosas para revertir la pobreza: ...",clarin,/opinion/estrategias-exitosas-revertir-pobreza-caso-canada_0_RwMl5Q0D-.html,2019-04-11T02:30:04-03:00,2019-04-12T01:30:04-03:00,816,816,"David Brooks",M
 9004,"La economía política de un Estado débil",clarin,/opinion/economia-politica-debil_0_4c1h-IVUT.html,2019-04-11T02:30:04-03:00,2019-04-12T01:30:04-03:00,135,135,"Vicente Palermo",M
@@ -9344,14 +9344,32 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 9014,"El futuro de Julian Assange",pagina12,https://www.pagina12.com.ar/186736-el-futuro-de-julian-assange,2019-04-11T12:30:14-03:00,2019-04-11T23:30:14-03:00,794,794,"Santiago O’Donnell",M
 9015,"Por qué Trump fue determinante para cambiar la suerte de Assange",lanacion,/el-mundo/por-que-trump-fue-determinante-cambiar-suerte-nid2237294,2019-04-11T14:30:12-03:00,2019-04-12T02:30:11-03:00,179,179,"Rafael Mathus Ruiz",M
 9016,"La economía altera los axiomas de la contienda electoral",lanacion,/politica/la-economia-altera-los-axiomas-de-la-contienda-electoral-nid2237176,2019-04-11T15:30:12-03:00,2019-04-12T02:30:11-03:00,5,5,"Carlos Pagni",M
-9017,"Miedo a perder, el mejor afrodisíaco político",clarin,/opinion/miedo-perder-mejor-afrodisiaco-politico_0_dSM-T-pLf.html,2019-04-11T23:30:05-03:00,2019-04-12T09:30:05-03:00,73,73,"Fernando Gonzalez",M
-9018,"Mauricio Macri jugó a favor de Nicolás Dujovne ...",clarin,/opinion/macri-laudo-favor-dujovne-pelea-sica_0_5GOaAfJeW.html,2019-04-11T23:30:05-03:00,2019-04-12T09:30:05-03:00,38,38,"Marcelo Bonelli",M
-9019,"La armonía",pagina12,https://www.pagina12.com.ar/186569-la-armonia,2019-04-12T00:30:14-03:00,2019-04-12T09:30:15-03:00,261,261,"Eduardo Fabregat",M
-9020,"Tejiendo redes",pagina12,https://www.pagina12.com.ar/132545-tejiendo-redes,2019-04-12T00:30:14-03:00,2019-04-12T09:30:15-03:00,665,665,"Ivana Romero",F
-9021,"El voto, entre sensatez y sentimientos",clarin,/opinion/voto-sensatez-sentimientos_0_sCZsQUBDU.html,2019-04-12T02:30:04-03:00,2019-04-12T09:30:05-03:00,549,549,"Ricardo de Titto",M
-9022,"El auténtico progresismo, a bordo",clarin,/opinion/autentico-progresismo-bordo_0_FJDTvcHmD.html,2019-04-12T02:30:04-03:00,2019-04-12T09:30:05-03:00,1759,1759,"Manuel Cuesta Morúa",M
-9023,"Los gobernadores recuperan poder en el año electoral",lanacion,/opinion/columnistas/los-gobernadores-recuperan-poder-y-protagonismo-en-el-ano-electoral-nid2237530,2019-04-12T03:30:11-03:00,2019-04-12T09:30:12-03:00,16,16,"Sergio Berensztein",M
-9024,"Un baño de realidad para los pedidos al Gobierno",lanacion,/politica/un-bano-de-realidad-para-los-pedidos-nid2237611,2019-04-12T03:30:11-03:00,2019-04-12T09:30:12-03:00,1091,1091,"Santiago Dapelo",M
+9017,"Miedo a perder, el mejor afrodisíaco político",clarin,/opinion/miedo-perder-mejor-afrodisiaco-politico_0_dSM-T-pLf.html,2019-04-11T23:30:05-03:00,2019-04-13T03:30:04-03:00,73,73,"Fernando Gonzalez",M
+9018,"Mauricio Macri jugó a favor de Nicolás Dujovne ...",clarin,/opinion/macri-laudo-favor-dujovne-pelea-sica_0_5GOaAfJeW.html,2019-04-11T23:30:05-03:00,2019-04-13T03:30:04-03:00,38,38,"Marcelo Bonelli",M
+9019,"La armonía",pagina12,https://www.pagina12.com.ar/186569-la-armonia,2019-04-12T00:30:14-03:00,2019-04-13T01:30:14-03:00,261,261,"Eduardo Fabregat",M
+9020,"Tejiendo redes",pagina12,https://www.pagina12.com.ar/132545-tejiendo-redes,2019-04-12T00:30:14-03:00,2019-04-13T01:30:14-03:00,665,665,"Ivana Romero",F
+9021,"El voto, entre sensatez y sentimientos",clarin,/opinion/voto-sensatez-sentimientos_0_sCZsQUBDU.html,2019-04-12T02:30:04-03:00,2019-04-13T03:30:04-03:00,549,549,"Ricardo de Titto",M
+9022,"El auténtico progresismo, a bordo",clarin,/opinion/autentico-progresismo-bordo_0_FJDTvcHmD.html,2019-04-12T02:30:04-03:00,2019-04-13T03:30:04-03:00,1759,1759,"Manuel Cuesta Morúa",M
+9023,"Los gobernadores recuperan poder en el año electoral",lanacion,/opinion/columnistas/los-gobernadores-recuperan-poder-y-protagonismo-en-el-ano-electoral-nid2237530,2019-04-12T03:30:11-03:00,2019-04-13T02:30:11-03:00,16,16,"Sergio Berensztein",M
+9024,"Un baño de realidad para los pedidos al Gobierno",lanacion,/politica/un-bano-de-realidad-para-los-pedidos-nid2237611,2019-04-12T03:30:11-03:00,2019-04-12T11:30:12-03:00,1091,1091,"Santiago Dapelo",M
 9025,"Impunidad y fueros parlamentarios",lanacion,/opinion/columnistas/impunidad-y-fueros-parlamentarios-nid2237550,2019-04-12T03:30:11-03:00,2019-04-12T09:30:12-03:00,1760,1760,"Julio Rajneri",M
 9026,"Historia de una hazaña",lanacion,/opinion/columnistas/historia-de-una-hazana-nid2237573,2019-04-12T03:30:11-03:00,2019-04-12T08:30:12-03:00,450,450,"Nora Bär",F
-9027,"Macri, Lousteau y la urgencia electoral",lanacion,/opinion/macri-lousteau-urgencia-electoral-nid2237620,2019-04-12T09:30:12-03:00,2019-04-12T09:30:12-03:00,131,131,"Fernando Laborda",M
+9027,"Macri, Lousteau y la urgencia electoral",lanacion,/opinion/macri-lousteau-urgencia-electoral-nid2237620,2019-04-12T09:30:12-03:00,2019-04-13T02:30:11-03:00,131,131,"Fernando Laborda",M
+9028,"Los pormenores de la detención de Julian Assange",lanacion,/politica/los-pormenores-detencion-julian-assange-nid2237529,2019-04-12T10:30:11-03:00,2019-04-13T02:30:11-03:00,86,86,"Hugo Alconada Mon",M
+9029,"El Gobierno asumió que puede perder las elecciones",lanacion,/politica/el-gobierno-asumio-puede-perder-elecciones-nid2237602,2019-04-12T12:30:12-03:00,2019-04-12T22:30:12-03:00,96,96,"Claudio Jacquelin",M
+9030,Blanqueo,pagina12,https://www.pagina12.com.ar/187048-blanqueo,2019-04-12T19:30:14-03:00,2019-04-12T23:30:14-03:00,1636,1636,"Héctor Recalde",M
+9031,"¿Cuál es el futuro de Venezuela?",lanacion,/politica/cual-es-futuro-venezuela-nid2237971,2019-04-12T23:30:12-03:00,2019-04-13T09:30:11-03:00,310,310,"Inés Capdevila",F
+9032,Blanqueo,pagina12,https://www.pagina12.com.ar/187147-blanqueo,2019-04-13T02:30:14-03:00,2019-04-13T09:30:13-03:00,567,567,"Héctor Pedro Recalde",M
+9033,"Good Bye Lenín",pagina12,https://www.pagina12.com.ar/187117-good-bye-lenin,2019-04-13T02:30:14-03:00,2019-04-13T09:30:13-03:00,483,483,"Alfredo Serrano Mancilla",M
+9034,"Réquiem por un emprendedor",pagina12,https://www.pagina12.com.ar/186850-requiem-por-un-emprendedor,2019-04-13T02:30:14-03:00,2019-04-13T09:30:13-03:00,317,317,"Claudio Zeiger",M
+9035,"La novelera",pagina12,https://www.pagina12.com.ar/186515-la-novelera,2019-04-13T02:30:14-03:00,2019-04-13T09:30:13-03:00,1574,1574,"Gabriela Borrelli Azara",F
+9036,"La angustiante elección de un país mal administrado",lanacion,/opinion/columnistas/la-angustiante-eleccion-de-un-pais-mal-administrado-nid2237909,2019-04-13T03:30:10-03:00,2019-04-13T08:30:13-03:00,48,48,"Eduardo Fidanza",M
+9037,"Nuestra irrelevancia de Estado",lanacion,/opinion/columnistas/nuestra-irrelevancia-de-estado-nid2237911,2019-04-13T03:30:10-03:00,2019-04-13T03:30:10-03:00,1761,1761,"Abel Posse",M
+9038,"Wikileaks y el efecto mariposa",clarin,/opinion/wikileaks-efecto-mariposa_0_xMZkaqS-Z.html,2019-04-13T04:30:04-03:00,2019-04-13T09:30:04-03:00,101,101,"Héctor Gambini",M
+9039,"La restauración populista y el agujero negro",clarin,/opinion/restauracion-populista-agujero-negro_0_QS73TsgcO.html,2019-04-13T04:30:04-03:00,2019-04-13T09:30:04-03:00,205,205,"Miguel Wiñazki",M
+9040,"Elecciones en Israel, mucho más de lo que ...",clarin,/mundo/elecciones-israel-parece-parecera_0_XdcpsLHnX.html,2019-04-13T04:30:04-03:00,2019-04-13T09:30:04-03:00,50,50,"Marcelo Cantelmi",M
+9041,"El peso de la humanidad",clarin,/opinion/peso-humanidad_0_rc3YfilT8.html,2019-04-13T04:30:04-03:00,2019-04-13T09:30:04-03:00,297,297,"Claudio Campagna",M
+9042,"La reforma cultural que sigue postergada",clarin,/opinion/reforma-cultural-sigue-postergada_0_xChb9Yvh1.html,2019-04-13T04:30:04-03:00,2019-04-13T09:30:04-03:00,1166,1166,"Daniel Scarfo",M
+9043,"Macri camina sobre un alambre, entre la crisis y las elecciones",lanacion,/politica/macri-camina-alambre-crisis-elecciones-nid2237950,2019-04-13T04:30:11-03:00,2019-04-13T09:30:11-03:00,78,78,"Sergio Suppo",M
+9044,"La soportable levedad del ser",lanacion,/opinion/la-soportable-levedad-del-ser-nid2237949,2019-04-13T04:30:11-03:00,2019-04-13T09:30:11-03:00,47,47,"Héctor M. Guyot",M
+9045,"La reforma laboral de Macri que nunca pudo despegar",lanacion,/politica/la-reforma-laboral-de-macri-que-nunca-pudo-despegar-nid2237920,2019-04-13T09:30:11-03:00,2019-04-13T09:30:11-03:00,112,112,"Nicolás Balinotti",M
