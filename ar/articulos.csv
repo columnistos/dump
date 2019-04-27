@@ -9580,7 +9580,7 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 9250,"Casi semilibre",pagina12,https://www.pagina12.com.ar/189439-lula-casi-semilibre,2019-04-24T11:30:16-03:00,2019-04-24T16:30:15-03:00,123,123,"Emir Sader",M
 9251,"",lanacion,/economia/para-establishment-vidal-todavia-no-es-piantavotos-nid2240923,2019-04-24T13:30:11-03:00,2019-04-25T02:30:11-03:00,46,46,"Francisco Olivera",M
 9252,"Di Zeo habla pero no habla",pagina12,https://www.pagina12.com.ar/189593-di-zeo-habla-pero-no-habla,2019-04-24T22:30:13-03:00,2019-04-25T15:30:14-03:00,53,53,"Gustavo Veiga",M
-9253,"El verdadero riesgo es Macri",pagina12,https://www.pagina12.com.ar/189589-el-riesgo-macri,2019-04-24T23:30:14-03:00,2019-04-26T09:30:13-03:00,154,154,"Alfredo Zaiat",M
+9253,"El verdadero riesgo es Macri",pagina12,https://www.pagina12.com.ar/189589-el-riesgo-macri,2019-04-24T23:30:14-03:00,2019-04-27T09:30:15-03:00,154,154,"Alfredo Zaiat",M
 9254,"La Argentina se tambalea al compás de los mercados",pagina12,https://www.pagina12.com.ar/189579-a-un-ano-de-la-megafuga,2019-04-24T23:30:14-03:00,2019-04-25T12:30:15-03:00,262,262,"Raúl Dellatorre",M
 9255,"El Día contra el Maltrato Infantil",pagina12,https://www.pagina12.com.ar/189581-el-dia-contra-el-maltrato-infantil,2019-04-25T00:30:14-03:00,2019-04-26T00:30:14-03:00,386,386,"Yael Bendel",F
 9256,"La locura del PRO: ataquemos el Borda",pagina12,https://www.pagina12.com.ar/189683-la-locura-del-pro-ataquemos-el-borda,2019-04-25T01:30:13-03:00,2019-04-26T00:30:14-03:00,295,295,"Sergio Zabalza",M
@@ -9598,19 +9598,34 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 9268,"Carta a Lula",pagina12,https://www.pagina12.com.ar/189790-carta-a-lula,2019-04-25T13:30:13-03:00,2019-04-26T00:30:14-03:00,65,65,"Eric Nepomuceno",M
 9269,"Viva la finta",pagina12,https://www.pagina12.com.ar/189792-viva-la-finta,2019-04-25T13:30:13-03:00,2019-04-26T00:30:14-03:00,1794,1794,"Francisco Durañona",M
 9270,"Cristina va a ser candidata y tiene dos registros: el electoral y el de poder",lanacion,/politica/cristina-va-ser-candidata-tiene-dos-registros-nid2241312,2019-04-25T14:30:12-03:00,2019-04-26T02:30:10-03:00,93,93,"Joaquín Morales Solá",M
-9271,"Olor a huevo",pagina12,https://www.pagina12.com.ar/189749-olor-a-huevo,2019-04-26T01:30:16-03:00,2019-04-26T09:30:13-03:00,107,107,"Luciana Peker",F
-9272,"Contra la crueldad",pagina12,https://www.pagina12.com.ar/189928-contra-la-crueldad,2019-04-26T01:30:16-03:00,2019-04-26T09:30:13-03:00,657,657,"Martín Granovsky",M
-9273,"El fax, una “nueva tecnología”",pagina12,https://www.pagina12.com.ar/189910-el-fax-una-nueva-tecnologia,2019-04-26T01:30:16-03:00,2019-04-26T09:30:13-03:00,1795,1795,"Diego de Charras",M
+9271,"Olor a huevo",pagina12,https://www.pagina12.com.ar/189749-olor-a-huevo,2019-04-26T01:30:16-03:00,2019-04-27T02:30:13-03:00,107,107,"Luciana Peker",F
+9272,"Contra la crueldad",pagina12,https://www.pagina12.com.ar/189928-contra-la-crueldad,2019-04-26T01:30:16-03:00,2019-04-27T09:30:15-03:00,657,657,"Martín Granovsky",M
+9273,"El fax, una “nueva tecnología”",pagina12,https://www.pagina12.com.ar/189910-el-fax-una-nueva-tecnologia,2019-04-26T01:30:16-03:00,2019-04-27T02:30:13-03:00,1795,1795,"Diego de Charras",M
 9274,"Diferencias a la hora de barrer, limpiar y cocinar",pagina12,https://www.pagina12.com.ar/189751-ropa-sucia-adentro,2019-04-26T02:30:12-03:00,2019-04-26T07:30:14-03:00,107,107,"Luciana Peker",F
-9275,"Inflación, un mal endémico, histórico y estructural del país",lanacion,/opinion/inflacion-un-mal-endemico-historico-y-estructural-del-pais-nid2241760,2019-04-26T03:30:14-03:00,2019-04-26T09:30:10-03:00,16,16,"Sergio Berensztein",M
-9276,"El canal que hizo un país",lanacion,/opinion/miradas/el-canal-que-hizo-un-pais-nid2241798,2019-04-26T03:30:14-03:00,2019-04-26T09:30:10-03:00,450,450,"Nora Bär",F
-9277,"Trasplantes: alturismo vs recursos y comunicación",lanacion,/comunidad/trasplantes-alturismo-vs-recursos-comunicacion-nid2240870,2019-04-26T03:30:14-03:00,2019-04-26T09:30:10-03:00,1796,1796,"Gabriel Gondolesi",M
+9275,"Inflación, un mal endémico, histórico y estructural del país",lanacion,/opinion/inflacion-un-mal-endemico-historico-y-estructural-del-pais-nid2241760,2019-04-26T03:30:14-03:00,2019-04-27T02:30:11-03:00,16,16,"Sergio Berensztein",M
+9276,"El canal que hizo un país",lanacion,/opinion/miradas/el-canal-que-hizo-un-pais-nid2241798,2019-04-26T03:30:14-03:00,2019-04-27T02:30:11-03:00,450,450,"Nora Bär",F
+9277,"Trasplantes: alturismo vs recursos y comunicación",lanacion,/comunidad/trasplantes-alturismo-vs-recursos-comunicacion-nid2240870,2019-04-26T03:30:14-03:00,2019-04-26T10:30:11-03:00,1796,1796,"Gabriel Gondolesi",M
 9278,"¿Compro o vendo? Los escenarios para no entrar en pánico",lanacion,/economia/compro-o-vendo-los-escenarios-para-no-entrar-en-panico-nid2241855,2019-04-26T03:30:14-03:00,2019-04-26T03:30:14-03:00,1797,1797,"Claudio Zuchovicki",M
-9279,"En qué piensa Marcelo Tinelli mientras prepara su regreso a la TV",lanacion,/espectaculos/television/en-que-piensa-tinelli-mientras-prepara-su-nid2241735,2019-04-26T04:30:10-03:00,2019-04-26T09:30:10-03:00,1633,1633,"Marcelo Stiletano",M
-9280,"Crisis de confianza y apuesta riesgosa",clarin,/opinion/crisis-confianza-apuesta-riesgosa_0_ilkU8Ikxu.html,2019-04-26T05:30:05-03:00,2019-04-26T09:30:04-03:00,37,37,"Ricardo Kirschbaum",M
-9281,"Confesiones íntimas de Mauricio Macri frente ...",clarin,/opinion/confesiones-intimas-mauricio-macri-frente-crisis-financiera_0_7DHgkKZnA.html,2019-04-26T05:30:05-03:00,2019-04-26T09:30:04-03:00,38,38,"Marcelo Bonelli",M
-9282,"Alan García, el poder y la muerte",clarin,/opinion/alan-garcia-poder-muerte_0_Dr6bbqQI5.html,2019-04-26T05:30:05-03:00,2019-04-26T09:30:04-03:00,136,136,"Rogelio Alaniz",M
-9283,"Tensiones argentinas y tareas pendientes",clarin,/opinion/tensiones-argentinas-tareas-pendientes_0_9qHFIVm4F.html,2019-04-26T05:30:05-03:00,2019-04-26T09:30:04-03:00,950,950,"Aldo Isuani",M
+9279,"En qué piensa Marcelo Tinelli mientras prepara su regreso a la TV",lanacion,/espectaculos/television/en-que-piensa-tinelli-mientras-prepara-su-nid2241735,2019-04-26T04:30:10-03:00,2019-04-26T19:30:11-03:00,1633,1633,"Marcelo Stiletano",M
+9280,"Crisis de confianza y apuesta riesgosa",clarin,/opinion/crisis-confianza-apuesta-riesgosa_0_ilkU8Ikxu.html,2019-04-26T05:30:05-03:00,2019-04-27T00:30:05-03:00,37,37,"Ricardo Kirschbaum",M
+9281,"Confesiones íntimas de Mauricio Macri frente ...",clarin,/opinion/confesiones-intimas-mauricio-macri-frente-crisis-financiera_0_7DHgkKZnA.html,2019-04-26T05:30:05-03:00,2019-04-27T00:30:05-03:00,38,38,"Marcelo Bonelli",M
+9282,"Alan García, el poder y la muerte",clarin,/opinion/alan-garcia-poder-muerte_0_Dr6bbqQI5.html,2019-04-26T05:30:05-03:00,2019-04-27T00:30:05-03:00,136,136,"Rogelio Alaniz",M
+9283,"Tensiones argentinas y tareas pendientes",clarin,/opinion/tensiones-argentinas-tareas-pendientes_0_9qHFIVm4F.html,2019-04-26T05:30:05-03:00,2019-04-27T00:30:05-03:00,950,950,"Aldo Isuani",M
 9284,"Reiteración de la coyuntura y ausencia del debate de ideas",lanacion,/opinion/columnistas/reiteracion-de-la-coyuntura-y-ausencia-del-debate-de-ideas-nid2241761,2019-04-26T08:30:11-03:00,2019-04-26T08:30:11-03:00,573,573,"Alberto Benegas Lynch (h)",M
 9285,"Diferencias a la hora de barrer, limpiar y cocinar",pagina12,https://www.pagina12.com.ar/189751-diferencias-de-genero-a-la-hora-de-barrer-limpiar-y-cocinar,2019-04-26T08:30:13-03:00,2019-04-26T08:30:13-03:00,107,107,"Luciana Peker",F
-9286,"Sindicato de millonarios, huelga de capitales",pagina12,https://www.pagina12.com.ar/189691-sindicato-de-millonarios-huelga-de-capitales,2019-04-26T09:30:13-03:00,2019-04-26T09:30:13-03:00,890,890,"Jorge Majfud",M
+9286,"Sindicato de millonarios, huelga de capitales",pagina12,https://www.pagina12.com.ar/189691-sindicato-de-millonarios-huelga-de-capitales,2019-04-26T09:30:13-03:00,2019-04-27T02:30:13-03:00,890,890,"Jorge Majfud",M
+9287,"",lanacion,/politica/la-respuesta-del-gobierno-al-circulo-rojo-la-candidatura-no-se-toca-nid2241845,2019-04-26T10:30:11-03:00,2019-04-27T02:30:11-03:00,1091,1091,"Santiago Dapelo",M
+9288,"El otro “riesgo país”: el regreso de la intolerancia y el autoritarismo",lanacion,/cultura/el-otro-riesgo-pais-regreso-intolerancia-autoritarismo-nid2242084,2019-04-26T20:30:11-03:00,2019-04-27T02:30:11-03:00,1798,1798,"Pablo Avelluto",M
+9289,"Sri Lanka, Salgari y las neblinas detrás de ...",clarin,/mundo/sri-lanka-salgari-neblinas-detras-atentados_0_mRqwVas5g.html,2019-04-26T21:30:04-03:00,2019-04-27T09:30:04-03:00,50,50,"Marcelo Cantelmi",M
+9290,"Cristina no se sincera como Moreno y Lilita",clarin,/opinion/cristina-sincera-moreno-lilita_0_KEe48m9fM.html,2019-04-27T01:30:05-03:00,2019-04-27T09:30:04-03:00,1,1,"Ricardo Roa",M
+9291,"La alegría, la tragedia y el libro de Cristina",clarin,/opinion/alegria-tragedia-libro-cristina_0_3tn45KFAx.html,2019-04-27T01:30:05-03:00,2019-04-27T09:30:04-03:00,205,205,"Miguel Wiñazki",M
+9292,"Idea, y la pasión que atravesó una vida",clarin,/opinion/idea-pasion-atraveso-vida_0_F5C5YwxZq.html,2019-04-27T01:30:05-03:00,2019-04-27T09:30:04-03:00,49,49,"Silvia Fesquet",F
+9293,"¿Notre Dame o la naturaleza?",clarin,/opinion/notre-dame-naturaleza_0_TMF090qfN.html,2019-04-27T01:30:05-03:00,2019-04-27T09:30:04-03:00,297,297,"Claudio Campagna",M
+9294,"Una mayor cooperación entre China y Argentina",clarin,/opinion/mayor-cooperacion-china-argentina_0_pZBn8HqDI.html,2019-04-27T01:30:05-03:00,2019-04-27T09:30:04-03:00,1799,1799,"Zou Xiaoli",M
+9295,"La apuesta de Macri: frenar la ola inflacionaria",lanacion,/politica/la-apuesta-macri-frenar-ola-inflacionaria-nid2242224,2019-04-27T03:30:10-03:00,2019-04-27T09:30:12-03:00,78,78,"Sergio Suppo",M
+9296,"La crisis de confianza empieza en casa",lanacion,/opinion/miradas/la-crisis-de-confianza-empieza-en-casa-nid2242268,2019-04-27T03:30:10-03:00,2019-04-27T09:30:12-03:00,47,47,"Héctor M. Guyot",M
+9297,"Moyano le marca los tiempos a la CGT",lanacion,/politica/moyano-le-marca-los-tiempos-a-la-cgt-nid2242165,2019-04-27T03:30:10-03:00,2019-04-27T09:30:12-03:00,112,112,"Nicolás Balinotti",M
+9298,"Riesgos del trabajo: avances, metas y nuevos desafíos",lanacion,/opinion/riesgos-del-trabajo-avances-metas-nuevos-desafios-nid2242266,2019-04-27T03:30:10-03:00,2019-04-27T08:30:11-03:00,1800,1800,"Gustavo Morón",M
+9299,"Carta a Lula",pagina12,https://www.pagina12.com.ar/190149-carta-a-lula,2019-04-27T03:30:13-03:00,2019-04-27T09:30:15-03:00,65,65,"Eric Nepomuceno",M
+9300,"La sensibilidad macrista",pagina12,https://www.pagina12.com.ar/189906-la-sensibilidad-macrista,2019-04-27T03:30:13-03:00,2019-04-27T09:30:15-03:00,341,341,"Fernando D´Addario",M
+9301,"La Feria del Libro rompió la palabra y fue tribuna política",lanacion,/cultura/la-feria-del-libro-rompio-la-palabra-y-fue-tribuna-politica-nid2242227,2019-04-27T09:30:12-03:00,2019-04-27T09:30:12-03:00,1058,1058,"Pablo Gianera",M
