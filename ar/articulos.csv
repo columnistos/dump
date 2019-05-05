@@ -9720,7 +9720,7 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 9390,"Por qué las elecciones argentinas importan para Venezuela",lanacion,/politica/por-que-elecciones-argentinas-importan-venezuela-nid2243965,2019-05-03T01:30:10-03:00,2019-05-04T02:30:11-03:00,96,96,"Claudio Jacquelin",M
 9391,"Carne y confesión",pagina12,https://www.pagina12.com.ar/190771-carne-y-confesion,2019-05-03T02:30:13-03:00,2019-05-04T01:30:14-03:00,36,36,"Daniel Link",M
 9392,"Manos oscuras de sangre ajena",pagina12,https://www.pagina12.com.ar/191308-manos-oscuras-de-sangre-ajena,2019-05-03T02:30:13-03:00,2019-05-04T01:30:14-03:00,53,53,"Gustavo Veiga",M
-9393,"El contrato social",pagina12,https://www.pagina12.com.ar/191236-el-contrato-social,2019-05-03T02:30:13-03:00,2019-05-04T09:30:14-03:00,625,625,"María Pia López",F
+9393,"El contrato social",pagina12,https://www.pagina12.com.ar/191236-el-contrato-social,2019-05-03T02:30:13-03:00,2019-05-05T00:30:13-03:00,625,625,"María Pia López",F
 9394,"Macri y Cristina Kirchner, en un combate de aikido",lanacion,/opinion/macri-cristina-kirchner-combate-aikido-nid2243939,2019-05-03T04:30:11-03:00,2019-05-04T02:30:11-03:00,131,131,"Fernando Laborda",M
 9395,"Newton, en la Feria del Libro",lanacion,/opinion/miradas/newton-en-la-feria-del-libro-nid2243904,2019-05-03T04:30:11-03:00,2019-05-03T11:30:11-03:00,450,450,"Nora Bär",F
 9396,"La política del acuerdo renace",clarin,/opinion/politica-acuerdo-renace_0_KFpErqXDT.html,2019-05-03T05:30:04-03:00,2019-05-03T23:30:04-03:00,37,37,"Ricardo Kirschbaum",M
@@ -9728,18 +9728,46 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 9398,"La libertad y las alambradas emocionales",clarin,/opinion/libertad-alambradas-emocionales_0_kjAY56lvU.html,2019-05-03T05:30:04-03:00,2019-05-03T23:30:04-03:00,864,864,"Fernando J. Ruiz",M
 9399,"Abusos sexuales: de la duda al apoyo",clarin,/opinion/abusos-sexuales-duda-apoyo_0_xRqtt0Qvh.html,2019-05-03T05:30:04-03:00,2019-05-03T23:30:04-03:00,1729,1729,"Mariana Iglesias",F
 9400,"",lanacion,/politica/una-jugada-a-tres-bandas-forjada-en-el-pragmatismo-nid2243952,2019-05-03T12:30:11-03:00,2019-05-04T02:30:11-03:00,1091,1091,"Santiago Dapelo",M
-9401,"Los chavistas de lejos y las monerías",clarin,/opinion/chavistas-lejos-monerias_0_tb2vdHXzN.html,2019-05-04T00:30:05-03:00,2019-05-04T09:30:04-03:00,205,205,"Miguel Wiñazki",M
-9402,"Cosas que se leen viajando desde Ezeiza",clarin,/opinion/cosas-leen-viajando-ezeiza_0_ccBl4mzbK.html,2019-05-04T00:30:05-03:00,2019-05-04T09:30:04-03:00,101,101,"Héctor Gambini",M
-9403,"Por aquel abuelo que un día fue a la guerra",clarin,/opinion/abuelo-dia-guerra_0_H_aAVXZZ2.html,2019-05-04T00:30:05-03:00,2019-05-04T09:30:04-03:00,49,49,"Silvia Fesquet",F
-9404,"Rusia, Estados Unidos y la baraja venezolana",clarin,/mundo/rusia-unidos-baraja-venezolana_0_kROJtqUC7.html,2019-05-04T00:30:05-03:00,2019-05-04T09:30:04-03:00,50,50,"Marcelo Cantelmi",M
-9405,"Banalizar el mal",clarin,/opinion/banalizar-mal_0_likutRvIx.html,2019-05-04T00:30:05-03:00,2019-05-04T09:30:04-03:00,946,946,"Fabian Bosoer",M
-9406,"La Argentina imprevisible",clarin,/opinion/argentina-imprevisible_0_NOfMdNdYS.html,2019-05-04T00:30:05-03:00,2019-05-04T09:30:04-03:00,762,762,"Ricardo Lorenzetti",M
-9407,"Hay algo antes de la economía",clarin,/opinion/economia_0_wh4VGQSbZ.html,2019-05-04T00:30:05-03:00,2019-05-04T09:30:04-03:00,955,955,"Hugo Martini",M
-9408,"Lula y la izquierda del siglo XXI",pagina12,https://www.pagina12.com.ar/191516-lula-y-la-izquierda-del-siglo-xxi,2019-05-04T02:30:14-03:00,2019-05-04T09:30:14-03:00,123,123,"Emir Sader",M
-9409,"Assange, la causa perdida",pagina12,https://www.pagina12.com.ar/191474-assange-la-causa-perdida,2019-05-04T02:30:14-03:00,2019-05-04T09:30:14-03:00,1813,1813,"Jorge Vicente Paladines",M
+9401,"Los chavistas de lejos y las monerías",clarin,/opinion/chavistas-lejos-monerias_0_tb2vdHXzN.html,2019-05-04T00:30:05-03:00,2019-05-05T01:30:04-03:00,205,205,"Miguel Wiñazki",M
+9402,"Cosas que se leen viajando desde Ezeiza",clarin,/opinion/cosas-leen-viajando-ezeiza_0_ccBl4mzbK.html,2019-05-04T00:30:05-03:00,2019-05-05T01:30:04-03:00,101,101,"Héctor Gambini",M
+9403,"Por aquel abuelo que un día fue a la guerra",clarin,/opinion/abuelo-dia-guerra_0_H_aAVXZZ2.html,2019-05-04T00:30:05-03:00,2019-05-05T01:30:04-03:00,49,49,"Silvia Fesquet",F
+9404,"Rusia, Estados Unidos y la baraja venezolana",clarin,/mundo/rusia-unidos-baraja-venezolana_0_kROJtqUC7.html,2019-05-04T00:30:05-03:00,2019-05-05T01:30:04-03:00,50,50,"Marcelo Cantelmi",M
+9405,"Banalizar el mal",clarin,/opinion/banalizar-mal_0_likutRvIx.html,2019-05-04T00:30:05-03:00,2019-05-05T01:30:04-03:00,946,946,"Fabian Bosoer",M
+9406,"La Argentina imprevisible",clarin,/opinion/argentina-imprevisible_0_NOfMdNdYS.html,2019-05-04T00:30:05-03:00,2019-05-05T01:30:04-03:00,762,762,"Ricardo Lorenzetti",M
+9407,"Hay algo antes de la economía",clarin,/opinion/economia_0_wh4VGQSbZ.html,2019-05-04T00:30:05-03:00,2019-05-05T01:30:04-03:00,955,955,"Hugo Martini",M
+9408,"Lula y la izquierda del siglo XXI",pagina12,https://www.pagina12.com.ar/191516-lula-y-la-izquierda-del-siglo-xxi,2019-05-04T02:30:14-03:00,2019-05-05T00:30:13-03:00,123,123,"Emir Sader",M
+9409,"Assange, la causa perdida",pagina12,https://www.pagina12.com.ar/191474-assange-la-causa-perdida,2019-05-04T02:30:14-03:00,2019-05-04T11:30:14-03:00,1813,1813,"Jorge Vicente Paladines",M
 9410,"Momento de propuestas",pagina12,https://www.pagina12.com.ar/191545-momento-de-propuestas,2019-05-04T02:30:14-03:00,2019-05-04T03:30:13-03:00,1814,1814,"Juan Manuel Pignocco y Silvina Batakis",+
-9411,"Tiempos de banalidad e incertidumbre",lanacion,/opinion/columnistas/tiempos-de-banalidad-e-incertidumbre-nid2244300,2019-05-04T03:30:10-03:00,2019-05-04T09:30:11-03:00,48,48,"Eduardo Fidanza",M
-9412,"A correr, que la vida está en otra parte",lanacion,/opinion/a-correr-que-la-vida-esta-en-otra-parte-nid2244296,2019-05-04T03:30:10-03:00,2019-05-04T09:30:11-03:00,47,47,"Héctor M. Guyot",M
-9413,"El tren que no hay que dejar pasar",lanacion,/economia/campo/el-tren-que-no-hay-que-dejar-pasar-nid2243800,2019-05-04T03:30:10-03:00,2019-05-04T09:30:11-03:00,343,343,"Cristian Mira",M
-9414,"El juicio por jurados vino para quedarse",lanacion,/politica/el-juicio-jurados-vino-quedarse-nid2244173,2019-05-04T03:30:10-03:00,2019-05-04T09:30:11-03:00,1261,1261,"Mario Juliano",M
-9415,"Del Poder Judicial a una verdadera Justicia",pagina12,https://www.pagina12.com.ar/191189-del-poder-judicial-a-una-verdadera-justicia,2019-05-04T04:30:12-03:00,2019-05-04T09:30:14-03:00,82,82,"Mempo Giardinelli",M
+9411,"Tiempos de banalidad e incertidumbre",lanacion,/opinion/columnistas/tiempos-de-banalidad-e-incertidumbre-nid2244300,2019-05-04T03:30:10-03:00,2019-05-04T11:30:12-03:00,48,48,"Eduardo Fidanza",M
+9412,"A correr, que la vida está en otra parte",lanacion,/opinion/a-correr-que-la-vida-esta-en-otra-parte-nid2244296,2019-05-04T03:30:10-03:00,2019-05-04T15:30:11-03:00,47,47,"Héctor M. Guyot",M
+9413,"El tren que no hay que dejar pasar",lanacion,/economia/campo/el-tren-que-no-hay-que-dejar-pasar-nid2243800,2019-05-04T03:30:10-03:00,2019-05-04T11:30:12-03:00,343,343,"Cristian Mira",M
+9414,"El juicio por jurados vino para quedarse",lanacion,/politica/el-juicio-jurados-vino-quedarse-nid2244173,2019-05-04T03:30:10-03:00,2019-05-04T16:30:10-03:00,1261,1261,"Mario Juliano",M
+9415,"Del Poder Judicial a una verdadera Justicia",pagina12,https://www.pagina12.com.ar/191189-del-poder-judicial-a-una-verdadera-justicia,2019-05-04T04:30:12-03:00,2019-05-05T00:30:13-03:00,82,82,"Mempo Giardinelli",M
+9416,"De pactos y pactitos, de Cristina y su librito",lanacion,/opinion/de-pactos-y-pactitos-de-cristina-y-su-librito-nid2244337,2019-05-04T12:30:10-03:00,2019-05-05T01:30:11-03:00,45,45,"Carlos M. Reymundo Roberts",M
+9417,"Trump necesita un favor de Macri",lanacion,/economia/trump-necesita-un-favor-de-macri-nid2244301,2019-05-04T12:30:10-03:00,2019-05-05T01:30:11-03:00,46,46,"Francisco Olivera",M
+9418,"¡Somos la segunda marca!",pagina12,https://www.pagina12.com.ar/191641-somos-la-segunda-marca,2019-05-04T12:30:13-03:00,2019-05-05T00:30:13-03:00,265,265,"Marcelo Rudaeff (Rudy)",M
+9419,"Los diez puntos de Macri: Una advertencia para las próximas elecciones",pagina12,https://www.pagina12.com.ar/191639-los-diez-puntos-de-macri-una-advertencia-para-las-proximas-e,2019-05-04T12:30:13-03:00,2019-05-05T09:30:14-03:00,1107,1107,"Alberto Kornblihtt",M
+9420,"Todos los cuentos de la entrañable Hebe Uhart",lanacion,/opinion/todos-los-cuentos-de-la-entranable-hebe-uhart-nid2244338,2019-05-04T13:30:11-03:00,2019-05-04T15:30:11-03:00,274,274,"Víctor Hugo Ghitta",M
+9421,"La frase insostenible del libro de Cristina Kirchner",lanacion,/economia/chequeado-la-frase-insostenible-del-libro-cristina-nid2244343,2019-05-04T16:30:10-03:00,2019-05-05T01:30:11-03:00,1815,1815,"Laura Zommer",F
+9422,"¿Por qué Rusia y EE.UU. pelean tanto por Venezuela?",lanacion,/el-mundo/por-que-rusia-eeuu-pelean-tanto-venezuela-nid2244341,2019-05-04T16:30:10-03:00,2019-05-05T01:30:11-03:00,310,310,"Inés Capdevila",F
+9423,"La Gloriosa",pagina12,https://www.pagina12.com.ar/191664-la-gloriosa,2019-05-04T18:30:14-03:00,2019-05-05T00:30:13-03:00,140,140,"Luis Bruschtein",M
+9424,"Hombre por millares",pagina12,https://www.pagina12.com.ar/191675-hombre-por-millares,2019-05-04T20:30:14-03:00,2019-05-05T00:30:13-03:00,1816,1816,"Martín Rodríguez",M
+9425,"¿Compromiso programático o jugada publicitaria?",pagina12,https://www.pagina12.com.ar/191751-compromiso-programatico-o-jugada-publicitaria,2019-05-05T01:30:13-03:00,2019-05-05T09:30:14-03:00,64,64,"Edgardo Mocca",M
+9426,"La musa de la memoria",pagina12,https://www.pagina12.com.ar/191408-la-musa-de-la-memoria,2019-05-05T01:30:13-03:00,2019-05-05T09:30:14-03:00,464,464,"Sergio Kiernan",M
+9427,"La gloriosa",pagina12,https://www.pagina12.com.ar/191735-la-gloriosa,2019-05-05T01:30:13-03:00,2019-05-05T09:30:14-03:00,140,140,"Luis Bruschtein",M
+9428,"Hombre por millares",pagina12,https://www.pagina12.com.ar/191737-hombre-por-millares,2019-05-05T01:30:13-03:00,2019-05-05T02:30:15-03:00,1816,1816,"Martín Rodríguez",M
+9429,"Ramos Padilla, otra buena",pagina12,https://www.pagina12.com.ar/191723-ramos-padilla-otra-buena,2019-05-05T01:30:13-03:00,2019-05-05T09:30:14-03:00,657,657,"Martín Granovsky",M
+9430,"Es la política…",pagina12,https://www.pagina12.com.ar/191621-es-la-politica,2019-05-05T01:30:13-03:00,2019-05-05T09:30:14-03:00,603,603,"Carlos Heller",M
+9431,"Lionel Messi, el que hace normal lo que no lo es",clarin,/opinion/lionel-messi-hace-normal_0_JuGRsOzp0.html,2019-05-05T02:30:05-03:00,2019-05-05T09:30:05-03:00,1,1,"Ricardo Roa",M
+9432,"Messi, arma política",clarin,/opinion/messi-arma-politica_0_gx0Kbg2Xt.html,2019-05-05T02:30:05-03:00,2019-05-05T09:30:05-03:00,496,496,"John Carlin",M
+9433,"Cláusula dólar en los Productos Esenciales",clarin,/opinion/clausula-dolar-productos-esenciales_0_Z7ooI6voY.html,2019-05-05T02:30:05-03:00,2019-05-05T09:30:05-03:00,71,71,"Alcadio Oña",M
+9434,"El naranjo que fue limonero",clarin,/opinion/naranjo-limonero_0_KiOu803nD.html,2019-05-05T02:30:05-03:00,2019-05-05T09:30:05-03:00,49,49,"Silvia Fesquet",F
+9435,"Europa: una incertidumbre paralizante",clarin,/opinion/europa-incertidumbre-paralizante_0_CZ--Jn8X6.html,2019-05-05T02:30:05-03:00,2019-05-05T09:30:05-03:00,284,284,"Carlos Pérez Llana",M
+9436,"A cien años del movimiento que cambió a ...",clarin,/opinion/cien-anos-movimiento-cambio-china-siempre_0_-gDLG8ZKi.html,2019-05-05T02:30:05-03:00,2019-05-05T09:30:05-03:00,1447,1447,"Patricio Giusto",M
+9437,"La escritora que se creyó su propia novela",lanacion,/opinion/columnistas/la-escritora-que-se-creyo-su-propia-novela-nid2244530,2019-05-05T02:30:12-03:00,2019-05-05T08:30:10-03:00,146,146,"Jorge Fernández Díaz",M
+9438,"Un acuerdo de último momento",lanacion,/opinion/columnistas/un-acuerdo-de-ultimo-momento-nid2244559,2019-05-05T02:30:12-03:00,2019-05-05T09:30:11-03:00,148,148,"Pablo Sirvén",M
+9439,"Gobierno de ocupación",lanacion,/opinion/columnistas/gobierno-de-ocupacion-nid2244531,2019-05-05T02:30:12-03:00,2019-05-05T09:30:11-03:00,1329,1329,"Jorge Rosales",M
+9440,"Drama venezolano, festejo argentino",lanacion,/opinion/drama-venezolano-festejo-argentinola-parte-y-el-todo-nid2243829,2019-05-05T02:30:12-03:00,2019-05-05T09:30:11-03:00,78,78,"Sergio Suppo",M
+9441,"El miedo al Presidente rengo",clarin,/opinion/presidente_0_46rcErq0_.html,2019-05-05T03:30:04-03:00,2019-05-05T09:30:05-03:00,70,70,"Eduardo van der Kooy",M
+9442,"Una campaña sin ideas",lanacion,/opinion/una-campana-sin-ideas-nid2243828,2019-05-05T09:30:11-03:00,2019-05-05T09:30:11-03:00,111,111,"Martín Rodríguez Yebra",M
+9443,"El Plan Fuga y la Moncloa berreta",pagina12,https://www.pagina12.com.ar/191722-el-plan-fuga-y-la-moncloa-berreta,2019-05-05T09:30:14-03:00,2019-05-05T09:30:14-03:00,66,66,"Mario Wainfeld",M
