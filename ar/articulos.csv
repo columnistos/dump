@@ -9964,7 +9964,7 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 9634,"Las encuestas te muestran tanto como te ocultan",lanacion,/opinion/las-encuestas-te-muestran-tanto-como-te-nid2248628,2019-05-16T21:30:11-03:00,2019-05-18T03:30:10-03:00,1111,1111,"Sergio Doval",M
 9635,"Incorporar la voz de los niños",pagina12,https://www.pagina12.com.ar/194324-incorporar-la-voz-de-los-ninos,2019-05-17T01:30:13-03:00,2019-05-18T00:30:12-03:00,632,632,"Karina Leguizamón",F
 9636,"Tecnologías de vigilancia: los debates que no damos",pagina12,https://www.pagina12.com.ar/194342-tecnologias-de-vigilancia-los-debates-que-no-damos,2019-05-17T01:30:13-03:00,2019-05-18T00:30:12-03:00,1841,1841,"María Eugenia Carrasco",F
-9637,"Política antes, política ahora",pagina12,https://www.pagina12.com.ar/194380-politica-antes-politica-ahora,2019-05-17T01:30:13-03:00,2019-05-18T09:30:12-03:00,63,63,"Irina Hauser",F
+9637,"Política antes, política ahora",pagina12,https://www.pagina12.com.ar/194380-politica-antes-politica-ahora,2019-05-17T01:30:13-03:00,2019-05-18T15:30:13-03:00,63,63,"Irina Hauser",F
 9638,"Los días dorados de Doris Day",pagina12,https://www.pagina12.com.ar/194264-los-dias-dorados-de-doris-day,2019-05-17T01:30:13-03:00,2019-05-18T00:30:12-03:00,631,631,"Liliana Viola",F
 9639,"Predominan los votantes moderados en este ciclo electoral",lanacion,/opinion/columnistas/lore-con-verit-ip-ercippredominan-los-votantes-moderados-en-este-ciclo-electoral-nid2248688,2019-05-17T03:30:10-03:00,2019-05-18T03:30:10-03:00,16,16,"Sergio Berensztein",M
 9640,"El verdadero riesgo en Vaca Muerta",lanacion,/opinion/el-verdadero-riesgo-vaca-muerta-nid2248782,2019-05-17T03:30:10-03:00,2019-05-17T12:30:11-03:00,1373,1373,"Fabio J. Quetglas",M
@@ -9977,18 +9977,44 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 9647,"El efecto Cristina reanima al Gobierno, pese a las encuestas negativas",lanacion,/opinion/el-efecto-cristina-reanima-al-gobierno-pese-nid2248739,2019-05-17T10:30:10-03:00,2019-05-18T03:30:10-03:00,131,131,"Fernando Laborda",M
 9648,"El alterado y ventajero fútbol argentino: un signo de decadencia",lanacion,/deportes/los-pequenitos-dirigentes-del-paraavalancha-nid2248849,2019-05-17T13:30:09-03:00,2019-05-17T17:30:11-03:00,42,42,"Cristian Grosso",M
 9649,"La ""lapidación"" que ordenó Cristina",lanacion,/opinion/columnistas/la-lapidacion-que-ordeno-cristina-nid2248636,2019-05-17T18:30:10-03:00,2019-05-18T03:30:10-03:00,6,6,"Laura Di Marco",F
-9650,"Marguerite, y esa vela en la oscuridad",clarin,/espectaculos/marguerite-vela-oscuridad_0_KoXSmG63e.html,2019-05-17T22:30:05-03:00,2019-05-18T09:30:04-03:00,49,49,"Silvia Fesquet",F
-9651,"Todas y ninguna de las guerras de Donald Trump",clarin,/mundo/todas-guerras-donald-trump_0_F9o88Vb_d.html,2019-05-17T22:30:05-03:00,2019-05-18T09:30:04-03:00,50,50,"Marcelo Cantelmi",M
-9652,"Kafka, Cristina y la Corte",clarin,/opinion/kafka-cristina-corte_0_tnIy_dLg_.html,2019-05-17T23:30:04-03:00,2019-05-18T09:30:04-03:00,205,205,"Miguel Wiñazki",M
-9653,"Comunidad gitana y castigo colectivo",pagina12,https://www.pagina12.com.ar/194625-comunidad-gitana-y-castigo-colectivo,2019-05-18T01:30:13-03:00,2019-05-18T09:30:12-03:00,1842,1842,"Jorge Bernal",M
-9654,"La máquina de odiar no para",pagina12,https://www.pagina12.com.ar/194599-la-maquina-de-odiar-no-para,2019-05-18T01:30:13-03:00,2019-05-18T09:30:12-03:00,194,194,"Juan José Panno",M
-9655,"El debido proceso te lo debo",pagina12,https://www.pagina12.com.ar/194335-el-debido-proceso-te-lo-debo,2019-05-18T01:30:13-03:00,2019-05-18T09:30:12-03:00,657,657,"Martín Granovsky",M
-9656,"La obsesiva apuesta de Mauricio Macri por la ...",clarin,/opinion/sinuosa-apuesta-macri-reeleccion_0_zaR3_qw1M.html,2019-05-18T02:30:04-03:00,2019-05-18T09:30:04-03:00,73,73,"Fernando Gonzalez",M
-9657,"El derecho básico a aprender",clarin,/opinion/derecho-basico-aprender_0_BTSiyXgoX.html,2019-05-18T02:30:04-03:00,2019-05-18T09:30:04-03:00,208,208,"Facundo Manes",M
-9658,"El discurso de la transparencia en un año ...",clarin,/opinion/discurso-transparencia-ano-electoral_0_ZzK_-1w_B.html,2019-05-18T02:30:04-03:00,2019-05-18T09:30:04-03:00,1034,1034,"Carlos Rozen",M
+9650,"Marguerite, y esa vela en la oscuridad",clarin,/espectaculos/marguerite-vela-oscuridad_0_KoXSmG63e.html,2019-05-17T22:30:05-03:00,2019-05-19T02:30:04-03:00,49,49,"Silvia Fesquet",F
+9651,"Todas y ninguna de las guerras de Donald Trump",clarin,/mundo/todas-guerras-donald-trump_0_F9o88Vb_d.html,2019-05-17T22:30:05-03:00,2019-05-19T02:30:04-03:00,50,50,"Marcelo Cantelmi",M
+9652,"Kafka, Cristina y la Corte",clarin,/opinion/kafka-cristina-corte_0_tnIy_dLg_.html,2019-05-17T23:30:04-03:00,2019-05-18T22:30:04-03:00,205,205,"Miguel Wiñazki",M
+9653,"Comunidad gitana y castigo colectivo",pagina12,https://www.pagina12.com.ar/194625-comunidad-gitana-y-castigo-colectivo,2019-05-18T01:30:13-03:00,2019-05-19T02:30:13-03:00,1842,1842,"Jorge Bernal",M
+9654,"La máquina de odiar no para",pagina12,https://www.pagina12.com.ar/194599-la-maquina-de-odiar-no-para,2019-05-18T01:30:13-03:00,2019-05-19T02:30:13-03:00,194,194,"Juan José Panno",M
+9655,"El debido proceso te lo debo",pagina12,https://www.pagina12.com.ar/194335-el-debido-proceso-te-lo-debo,2019-05-18T01:30:13-03:00,2019-05-19T02:30:13-03:00,657,657,"Martín Granovsky",M
+9656,"La obsesiva apuesta de Mauricio Macri por la ...",clarin,/opinion/sinuosa-apuesta-macri-reeleccion_0_zaR3_qw1M.html,2019-05-18T02:30:04-03:00,2019-05-18T22:30:04-03:00,73,73,"Fernando Gonzalez",M
+9657,"El derecho básico a aprender",clarin,/opinion/derecho-basico-aprender_0_BTSiyXgoX.html,2019-05-18T02:30:04-03:00,2019-05-19T02:30:04-03:00,208,208,"Facundo Manes",M
+9658,"El discurso de la transparencia en un año ...",clarin,/opinion/discurso-transparencia-ano-electoral_0_ZzK_-1w_B.html,2019-05-18T02:30:04-03:00,2019-05-19T02:30:04-03:00,1034,1034,"Carlos Rozen",M
 9659,"Cacerola mata pacto de impunidad",lanacion,/opinion/miradas/cacerola-mata-pacto-de-impunidad-nid2249113,2019-05-18T04:30:10-03:00,2019-05-18T04:30:10-03:00,1843,1843,"Héctor Guyot",M
-9660,"El peronismo define su identidad",lanacion,/opinion/columnistas/el-peronismo-define-su-identidad-nid2249022,2019-05-18T04:30:10-03:00,2019-05-18T09:30:10-03:00,48,48,"Eduardo Fidanza",M
+9660,"El peronismo define su identidad",lanacion,/opinion/columnistas/el-peronismo-define-su-identidad-nid2249022,2019-05-18T04:30:10-03:00,2019-05-19T03:30:09-03:00,48,48,"Eduardo Fidanza",M
 9661,"Se despedazó el pacto judicial de Cristina",lanacion,/politica/se-despedazo-el-pacto-judicial-de-cristina-nid2249102,2019-05-18T04:30:10-03:00,2019-05-18T08:30:10-03:00,230,230,"Damián Nabot",M
-9662,"Historia íntima deun boom literario",lanacion,/opinion/miradas/historia-intima-de-un-boom-literario-nid2249114,2019-05-18T04:30:10-03:00,2019-05-18T09:30:10-03:00,274,274,"Víctor Hugo Ghitta",M
-9663,"Cacerola mata pacto de impunidad",lanacion,/opinion/miradas/cacerola-mata-pacto-de-impunidad-nid2249113,2019-05-18T05:30:10-03:00,2019-05-18T09:30:10-03:00,47,47,"Héctor M. Guyot",M
-9664,"Tensiones que se dirimen entre Córdoba y Buenos Aires",lanacion,/economia/tensiones-que-se-dirimen-entre-cordoba-y-buenos-aires-nid2249023,2019-05-18T09:30:10-03:00,2019-05-18T09:30:10-03:00,46,46,"Francisco Olivera",M
+9662,"Historia íntima deun boom literario",lanacion,/opinion/miradas/historia-intima-de-un-boom-literario-nid2249114,2019-05-18T04:30:10-03:00,2019-05-19T03:30:09-03:00,274,274,"Víctor Hugo Ghitta",M
+9663,"Cacerola mata pacto de impunidad",lanacion,/opinion/miradas/cacerola-mata-pacto-de-impunidad-nid2249113,2019-05-18T05:30:10-03:00,2019-05-19T03:30:09-03:00,47,47,"Héctor M. Guyot",M
+9664,"Tensiones que se dirimen entre Córdoba y Buenos Aires",lanacion,/economia/tensiones-que-se-dirimen-entre-cordoba-y-buenos-aires-nid2249023,2019-05-18T09:30:10-03:00,2019-05-19T03:30:09-03:00,46,46,"Francisco Olivera",M
+9665,"De manifiestos y proclamas",clarin,/opinion/manifiestos-proclamas_0_51LmkQ8Ay.html,2019-05-18T11:30:05-03:00,2019-05-19T02:30:04-03:00,946,946,"Fabian Bosoer",M
+9666,"Conmoción política colectiva",pagina12,https://www.pagina12.com.ar/194731-conmocion-politica-colectiva,2019-05-18T11:30:14-03:00,2019-05-19T02:30:13-03:00,64,64,"Edgardo Mocca",M
+9667,"Cimbronazo: el impacto político de la decisión de CFK",pagina12,https://www.pagina12.com.ar/194733-cimbronazo,2019-05-18T12:30:15-03:00,2019-05-19T09:30:12-03:00,140,140,"Luis Bruschtein",M
+9668,"15 claves de la fórmula Fernández - Fernández",pagina12,https://www.pagina12.com.ar/194752-15-claves-de-la-formula-fernandez-fernandez,2019-05-18T14:30:15-03:00,2019-05-19T09:30:12-03:00,657,657,"Martín Granovsky",M
+9669,"Cristina le corrió el arco",pagina12,https://www.pagina12.com.ar/194758-cristina-le-corrio-el-arco,2019-05-18T15:30:13-03:00,2019-05-19T02:30:13-03:00,117,117,"Washington Uranga",M
+9670,"¡Macraris!",pagina12,https://www.pagina12.com.ar/194762-macraris,2019-05-18T16:30:13-03:00,2019-05-19T02:30:13-03:00,265,265,"Marcelo Rudaeff (Rudy)",M
+9671,"Mentir la historia",pagina12,https://www.pagina12.com.ar/194770-mentir-la-historia,2019-05-18T19:30:13-03:00,2019-05-19T09:30:12-03:00,977,977,"María Seoane",F
+9672,"Renunciamiento, gatopardismo y un nuevo escenario",clarin,/opinion/renunciamiento-gatopardismo-nuevo-escenario_0_Dx5tFT34L.html,2019-05-18T23:30:04-03:00,2019-05-19T09:30:04-03:00,37,37,"Ricardo Kirschbaum",M
+9673,"Terremoto en el mapa electoral",clarin,/opinion/terremoto-mapa-electoral_0_97Y1sTP2j.html,2019-05-18T23:30:04-03:00,2019-05-19T09:30:04-03:00,70,70,"Eduardo van der Kooy",M
+9674,"El primer feminista",clarin,/opinion/primer-feminista_0_4fJXT0GGN.html,2019-05-18T23:30:04-03:00,2019-05-19T09:30:04-03:00,496,496,"John Carlin",M
+9675,"Indexación, intensa y de plazos cortos",clarin,/opinion/indexacion-intensa-plazos-cortos_0_pHUuo9lmA.html,2019-05-19T03:30:04-03:00,2019-05-19T09:30:04-03:00,71,71,"Alcadio Oña",M
+9676,"La economía mundial juega en contra",clarin,/opinion/economia-mundial-juega_0_MJcqsN6OL.html,2019-05-19T03:30:04-03:00,2019-05-19T09:30:04-03:00,211,211,"Ricardo Arriazu",M
+9677,"Financiamiento electoral: una ley esperada",clarin,/opinion/financiamiento-electoral-ley-esperada_0_PbeVWJWF3.html,2019-05-19T03:30:04-03:00,2019-05-19T09:30:04-03:00,1844,1844,"Carolina Tchintian",F
+9678,"Aquella luz de las horas mágicas",clarin,/opinion/luz-horas-magicas_0_dejQsDb4R.html,2019-05-19T03:30:04-03:00,2019-05-19T09:30:04-03:00,49,49,"Silvia Fesquet",F
+9679,"Crisis con cara de Bolsonaro",pagina12,https://www.pagina12.com.ar/194845-crisis-con-cara-de-bolsonaro,2019-05-19T03:30:12-03:00,2019-05-19T09:30:12-03:00,65,65,"Eric Nepomuceno",M
+9680,"El monstruo",pagina12,https://www.pagina12.com.ar/194715-el-monstruo,2019-05-19T03:30:12-03:00,2019-05-19T09:30:12-03:00,106,106,"Claudio Scaletta",M
+9681,"De la persistencia",pagina12,https://www.pagina12.com.ar/194539-de-la-persistencia,2019-05-19T03:30:12-03:00,2019-05-19T09:30:12-03:00,1845,1845,"Mercedes Halfon",F
+9682,"The end of the grieta",pagina12,https://www.pagina12.com.ar/194841-the-end-of-the-grieta,2019-05-19T03:30:12-03:00,2019-05-19T09:30:12-03:00,1084,1084,"José Natanson",M
+9683,"Alberto y Cristina, la fórmula",pagina12,https://www.pagina12.com.ar/194828-alberto-y-cristina-la-formula,2019-05-19T03:30:12-03:00,2019-05-19T09:30:12-03:00,64,64,"Edgardo Mocca",M
+9684,"Hacia la unidad más amplia",pagina12,https://www.pagina12.com.ar/194832-hacia-la-unidad-mas-amplia,2019-05-19T03:30:12-03:00,2019-05-19T09:30:12-03:00,603,603,"Carlos Heller",M
+9685,"Jugadora de toda la cancha",pagina12,https://www.pagina12.com.ar/194824-jugadora-de-toda-la-cancha,2019-05-19T03:30:12-03:00,2019-05-19T09:30:12-03:00,117,117,"Washington Uranga",M
+9686,"La esperanza y la pesadilla",pagina12,https://www.pagina12.com.ar/194816-la-esperanza-y-la-pesadilla,2019-05-19T03:30:12-03:00,2019-05-19T09:30:12-03:00,1846,1846,"Márgara Averbach",
+9687,"Un nuevo Scioli para Cristina",lanacion,/opinion/un-nuevo-scioli-para-cristina-nid2249325,2019-05-19T04:30:10-03:00,2019-05-19T09:30:10-03:00,146,146,"Jorge Fernández Díaz",M
+9688,"Fernández al gobierno; Fernández al poder",lanacion,/politica/elecciones-2019-fernandez-al-gobierno-fernandez-al-nid2249223,2019-05-19T04:30:10-03:00,2019-05-19T09:30:10-03:00,148,148,"Pablo Sirvén",M
+9689,"Ahora sí, Cristina va por más",lanacion,/politica/ahora-si-cristina-va-mas-nid2249225,2019-05-19T04:30:10-03:00,2019-05-19T09:30:10-03:00,96,96,"Claudio Jacquelin",M
+9690,"Macho alfa",lanacion,/opinion/las-palabrasmacho-alfa-nid2249326,2019-05-19T04:30:10-03:00,2019-05-19T09:30:10-03:00,1329,1329,"Jorge Rosales",M
