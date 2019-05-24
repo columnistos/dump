@@ -10007,7 +10007,7 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 9677,"Financiamiento electoral: una ley esperada",clarin,/opinion/financiamiento-electoral-ley-esperada_0_PbeVWJWF3.html,2019-05-19T03:30:04-03:00,2019-05-20T03:30:04-03:00,1844,1844,"Carolina Tchintian",F
 9678,"Aquella luz de las horas mágicas",clarin,/opinion/luz-horas-magicas_0_dejQsDb4R.html,2019-05-19T03:30:04-03:00,2019-05-20T03:30:04-03:00,49,49,"Silvia Fesquet",F
 9679,"Crisis con cara de Bolsonaro",pagina12,https://www.pagina12.com.ar/194845-crisis-con-cara-de-bolsonaro,2019-05-19T03:30:12-03:00,2019-05-20T01:30:14-03:00,65,65,"Eric Nepomuceno",M
-9680,"El monstruo",pagina12,https://www.pagina12.com.ar/194715-el-monstruo,2019-05-19T03:30:12-03:00,2019-05-23T09:30:13-03:00,106,106,"Claudio Scaletta",M
+9680,"El monstruo",pagina12,https://www.pagina12.com.ar/194715-el-monstruo,2019-05-19T03:30:12-03:00,2019-05-23T23:30:14-03:00,106,106,"Claudio Scaletta",M
 9681,"De la persistencia",pagina12,https://www.pagina12.com.ar/194539-de-la-persistencia,2019-05-19T03:30:12-03:00,2019-05-19T16:30:13-03:00,1845,1845,"Mercedes Halfon",F
 9682,"The end of the grieta",pagina12,https://www.pagina12.com.ar/194841-the-end-of-the-grieta,2019-05-19T03:30:12-03:00,2019-05-21T19:30:13-03:00,1084,1084,"José Natanson",M
 9683,"Alberto y Cristina, la fórmula",pagina12,https://www.pagina12.com.ar/194828-alberto-y-cristina-la-formula,2019-05-19T03:30:12-03:00,2019-05-20T01:30:14-03:00,64,64,"Edgardo Mocca",M
@@ -10076,18 +10076,34 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 9746,"Libros de campaña",clarin,/opinion/libros-campana_0_IdiacjflT.html,2019-05-22T18:30:05-03:00,2019-05-23T02:30:04-03:00,419,419,"Federico Finchelstein",M
 9747,"Cuando las pruebas no importan",pagina12,https://www.pagina12.com.ar/195349-cuando-las-pruebas-no-importan,2019-05-22T22:30:13-03:00,2019-05-23T08:30:13-03:00,1114,1114,"Raúl Kollmann",M
 9748,"A Macri se le cayó el sistema",pagina12,https://www.pagina12.com.ar/195532-a-macri-se-le-cayo-el-sistema,2019-05-22T23:30:13-03:00,2019-05-22T23:30:13-03:00,1854,1854,"Silvina Gvirtz",F
-9749,"La niñez en banda",pagina12,https://www.pagina12.com.ar/195492-la-ninez-en-banda,2019-05-23T01:30:12-03:00,2019-05-23T09:30:13-03:00,412,412,"Monika Arredondo",F
-9750,"Messi, en televisión",pagina12,https://www.pagina12.com.ar/195253-messi-en-television,2019-05-23T01:30:12-03:00,2019-05-23T09:30:13-03:00,1391,1391,"Enrique Medina",M
-9751,"Leo Brizuela",pagina12,https://www.pagina12.com.ar/194508-leo-brizuela,2019-05-23T01:30:12-03:00,2019-05-23T09:30:13-03:00,1855,1855,"Sebastián Basualdo",M
-9752,"Macri desconectó la igualdad",pagina12,https://www.pagina12.com.ar/195532-macri-desconecto-la-igualdad,2019-05-23T01:30:12-03:00,2019-05-23T09:30:13-03:00,1854,1854,"Silvina Gvirtz",F
-9753,"Nacionalistas vendidos",pagina12,https://www.pagina12.com.ar/195524-nacionalistas-vendidos,2019-05-23T01:30:12-03:00,2019-05-23T09:30:13-03:00,120,120,"Eduardo Febbro",M
-9754,"El fútbol alienado: de héroe a traidor",clarin,/opinion/futbol-alienado-heroe-traidor_0_Jb_E9nThD.html,2019-05-23T03:30:04-03:00,2019-05-23T09:30:04-03:00,1,1,"Ricardo Roa",M
-9755,"EE.UU. vs. China: ¿La desglobalización ha ...",clarin,/opinion/ee-uu-vs-china-desglobalizacion-comenzado_0_wJhCHf0Hl.html,2019-05-23T03:30:04-03:00,2019-05-23T09:30:04-03:00,284,284,"Carlos Pérez Llana",M
-9756,"La economía, reflejo de nuestra cultura",clarin,/opinion/economia-reflejo-cultura_0_q36VFyImi.html,2019-05-23T03:30:04-03:00,2019-05-23T09:30:04-03:00,1553,1553,"Alicia Caballero",F
-9757,"Para el futuro del Estado se requiere consenso",clarin,/opinion/futuro-requiere-consenso_0_syIw8Es43.html,2019-05-23T03:30:04-03:00,2019-05-23T09:30:04-03:00,1313,1313,"Gustavo Blutman",M
+9749,"La niñez en banda",pagina12,https://www.pagina12.com.ar/195492-la-ninez-en-banda,2019-05-23T01:30:12-03:00,2019-05-23T23:30:14-03:00,412,412,"Monika Arredondo",F
+9750,"Messi, en televisión",pagina12,https://www.pagina12.com.ar/195253-messi-en-television,2019-05-23T01:30:12-03:00,2019-05-23T23:30:14-03:00,1391,1391,"Enrique Medina",M
+9751,"Leo Brizuela",pagina12,https://www.pagina12.com.ar/194508-leo-brizuela,2019-05-23T01:30:12-03:00,2019-05-23T23:30:14-03:00,1855,1855,"Sebastián Basualdo",M
+9752,"Macri desconectó la igualdad",pagina12,https://www.pagina12.com.ar/195532-macri-desconecto-la-igualdad,2019-05-23T01:30:12-03:00,2019-05-24T09:30:14-03:00,1854,1854,"Silvina Gvirtz",F
+9753,"Nacionalistas vendidos",pagina12,https://www.pagina12.com.ar/195524-nacionalistas-vendidos,2019-05-23T01:30:12-03:00,2019-05-23T20:30:13-03:00,120,120,"Eduardo Febbro",M
+9754,"El fútbol alienado: de héroe a traidor",clarin,/opinion/futbol-alienado-heroe-traidor_0_Jb_E9nThD.html,2019-05-23T03:30:04-03:00,2019-05-24T04:30:05-03:00,1,1,"Ricardo Roa",M
+9755,"EE.UU. vs. China: ¿La desglobalización ha ...",clarin,/opinion/ee-uu-vs-china-desglobalizacion-comenzado_0_wJhCHf0Hl.html,2019-05-23T03:30:04-03:00,2019-05-24T04:30:05-03:00,284,284,"Carlos Pérez Llana",M
+9756,"La economía, reflejo de nuestra cultura",clarin,/opinion/economia-reflejo-cultura_0_q36VFyImi.html,2019-05-23T03:30:04-03:00,2019-05-24T04:30:05-03:00,1553,1553,"Alicia Caballero",F
+9757,"Para el futuro del Estado se requiere consenso",clarin,/opinion/futuro-requiere-consenso_0_syIw8Es43.html,2019-05-23T03:30:04-03:00,2019-05-24T04:30:05-03:00,1313,1313,"Gustavo Blutman",M
 9758,"En Cambiemos, sin oportunismo ni complacencia",lanacion,/opinion/columnistas/en-cambiemos-sin-oportunismo-ni-complacencia-nid2250725,2019-05-23T03:30:10-03:00,2019-05-23T08:30:10-03:00,1373,1373,"Fabio J. Quetglas",M
 9759,"Las sanciones económicas de EE.UU. golpean duro a Irán",lanacion,/opinion/columnistas/las-sanciones-economicas-eeuu-golpean-duro-iran-nid2250745,2019-05-23T03:30:10-03:00,2019-05-23T07:30:10-03:00,195,195,"Emilio Cárdenas",M
-9760,"No puedo sacarme de la cabeza a mi ex",lanacion,/opinion/miradas/no-puedo-sacarme-cabeza-mi-ex-nid2250746,2019-05-23T03:30:10-03:00,2019-05-23T09:30:10-03:00,196,196,"Bernardo Stamateas",M
-9761,"Doble vara",lanacion,/opinion/miradas/doble-vara-nid2250690,2019-05-23T03:30:10-03:00,2019-05-23T09:30:10-03:00,148,148,"Pablo Sirvén",M
-9762,"Las incógnitas de la Argentina, con Cristina en lista de espera",lanacion,/politica/las-incognitas-argentina-ahora-cristina-lista-espera-nid2250742,2019-05-23T08:30:10-03:00,2019-05-23T09:30:10-03:00,1856,1856,"Willy Kohan",M
-9763,"El peronismo, un partido que se cree iglesia",lanacion,/opinion/columnistas/el-peronismo-un-partido-que-se-cree-iglesia-nid2250631,2019-05-23T09:30:10-03:00,2019-05-23T09:30:10-03:00,181,181,"Loris Zanatta",M
+9760,"No puedo sacarme de la cabeza a mi ex",lanacion,/opinion/miradas/no-puedo-sacarme-cabeza-mi-ex-nid2250746,2019-05-23T03:30:10-03:00,2019-05-23T15:30:11-03:00,196,196,"Bernardo Stamateas",M
+9761,"Doble vara",lanacion,/opinion/miradas/doble-vara-nid2250690,2019-05-23T03:30:10-03:00,2019-05-23T16:30:10-03:00,148,148,"Pablo Sirvén",M
+9762,"Las incógnitas de la Argentina, con Cristina en lista de espera",lanacion,/politica/las-incognitas-argentina-ahora-cristina-lista-espera-nid2250742,2019-05-23T08:30:10-03:00,2019-05-24T02:30:10-03:00,1856,1856,"Willy Kohan",M
+9763,"El peronismo, un partido que se cree iglesia",lanacion,/opinion/columnistas/el-peronismo-un-partido-que-se-cree-iglesia-nid2250631,2019-05-23T09:30:10-03:00,2019-05-24T02:30:10-03:00,181,181,"Loris Zanatta",M
+9764,"La nueva crisis del peronismo",lanacion,/politica/la-nueva-crisis-del-peronismo-nid2250647,2019-05-23T16:30:10-03:00,2019-05-24T02:30:10-03:00,93,93,"Joaquín Morales Solá",M
+9765,"¿Quiénes son los que profundizan la “Grieta”?",pagina12,https://www.pagina12.com.ar/195697-quienes-son-los-que-profundizan-la-grieta,2019-05-23T16:30:13-03:00,2019-05-23T23:30:14-03:00,1857,1857,"Estela de Carlotto",F
+9766,"Macri se prepara para su última palabra",lanacion,/politica/macri-se-prepara-para-su-ultima-palabra-nid2250709,2019-05-23T17:30:10-03:00,2019-05-24T02:30:10-03:00,5,5,"Carlos Pagni",M
+9767,"¿Quiénes son los que profundizan la “grieta”?",pagina12,https://www.pagina12.com.ar/195816-quienes-son-los-que-profundizan-la-grieta,2019-05-24T00:30:12-03:00,2019-05-24T09:30:14-03:00,1857,1857,"Estela de Carlotto",F
+9768,Alivio,pagina12,https://www.pagina12.com.ar/195557-alivio,2019-05-24T00:30:12-03:00,2019-05-24T09:30:14-03:00,1104,1104,"Adriana Clemente",F
+9769,"Libanesas en lucha",pagina12,https://www.pagina12.com.ar/195747-libanesas-en-lucha,2019-05-24T00:30:12-03:00,2019-05-24T09:30:14-03:00,1770,1770,"Jodor Jalit",M
+9770,"Las incógnitas electorales tras la elevación de Alberto Fernández",lanacion,/opinion/las-incognitas-electorales-elevacion-alberto-fernandez-nid2251164,2019-05-24T03:30:10-03:00,2019-05-24T09:30:11-03:00,131,131,"Fernando Laborda",M
+9771,"Cómo obtener recursos millonarios",lanacion,/opinion/como-obtener-recursos-millonarios-nid2251101,2019-05-24T03:30:10-03:00,2019-05-24T09:30:11-03:00,1858,1858,"Arturo Prins",M
+9772,"El futuro de la UE está amenazado",lanacion,/opinion/el-futuro-de-la-ue-esta-amenazado-nid2251173,2019-05-24T03:30:10-03:00,2019-05-24T09:30:11-03:00,703,703,"Agustín Romero",M
+9773,"El vaso medio lleno",lanacion,/opinion/el-vaso-medio-lleno-nid2251090,2019-05-24T03:30:10-03:00,2019-05-24T09:30:11-03:00,450,450,"Nora Bär",F
+9774,"Último momento: esta noticia acaba de morir",clarin,/opinion/ultimo-momento-noticia-acaba-morir_0_YkEX5-LhK.html,2019-05-24T05:30:05-03:00,2019-05-24T09:30:05-03:00,101,101,"Héctor Gambini",M
+9775,"Rumores y versiones sobre el armado electoral ...",clarin,/opinion/rumores-versiones-armado-electoral-llegan-wall-street_0_IUA4ubDfQ.html,2019-05-24T05:30:05-03:00,2019-05-24T09:30:05-03:00,38,38,"Marcelo Bonelli",M
+9776,"Fernández, el aborto y el año electoral",clarin,/opinion/fernandez-aborto-ano-electoral_0_WWZzlc1kN.html,2019-05-24T05:30:05-03:00,2019-05-24T09:30:05-03:00,1729,1729,"Mariana Iglesias",F
+9777,"Guerra comercial: ruta hacia el conflicto ...",clarin,/opinion/guerra-comercial-ruta-conflicto-permanente_0_6S5_Qv7li.html,2019-05-24T05:30:05-03:00,2019-05-24T09:30:05-03:00,578,578,"Raúl Ochoa",M
+9778,"Todo empieza por el aula: despacio, con ...",clarin,/opinion/empieza-aula-despacio-tiempo-avanzando_0_vEXNsSRpJ.html,2019-05-24T05:30:05-03:00,2019-05-24T09:30:05-03:00,757,757,"Gustavo Iaies",M
+9779,"La afroargentinidad que no se pinta",pagina12,https://www.pagina12.com.ar/195489-la-afroargentinidad-que-no-se-pinta,2019-05-24T09:30:14-03:00,2019-05-24T09:30:14-03:00,1859,1859,"Lisa María Montaño Ortíz",F
