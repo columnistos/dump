@@ -10400,8 +10400,8 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 10070,"¿Todo a la primera vuelta?",lanacion,/politica/todo-a-la-primera-vuelta-nid2256386,2019-06-10T16:30:09-03:00,2019-06-11T19:30:10-03:00,96,96,"Claudio Jacquelin",M
 10071,"Lo previsto y la onda expansiva",pagina12,https://www.pagina12.com.ar/199392-lo-previsto-y-la-onda-expansiva,2019-06-10T17:30:13-03:00,2019-06-11T00:30:13-03:00,66,66,"Mario Wainfeld",M
 10072,"Políticas que dañan el deporte",pagina12,https://www.pagina12.com.ar/199517-politicas-que-danan-el-deporte,2019-06-11T01:30:12-03:00,2019-06-12T00:30:12-03:00,1629,1629,"Osvaldo Arsenio",M
-10073,"El falso argumento de una economía “saneada”",pagina12,https://www.pagina12.com.ar/199560-el-falso-argumento-de-una-economia-saneada,2019-06-11T01:30:12-03:00,2019-06-12T09:30:13-03:00,561,561,"Paula Español",F
-10074,"Caída de un país líder",pagina12,https://www.pagina12.com.ar/199606-caida-de-un-pais-lider,2019-06-11T01:30:12-03:00,2019-06-12T09:30:13-03:00,745,745,"Juan Manuel Karg",M
+10073,"El falso argumento de una economía “saneada”",pagina12,https://www.pagina12.com.ar/199560-el-falso-argumento-de-una-economia-saneada,2019-06-11T01:30:12-03:00,2019-06-13T00:30:13-03:00,561,561,"Paula Español",F
+10074,"Caída de un país líder",pagina12,https://www.pagina12.com.ar/199606-caida-de-un-pais-lider,2019-06-11T01:30:12-03:00,2019-06-12T12:30:13-03:00,745,745,"Juan Manuel Karg",M
 10075,"El derecho a la defensa",pagina12,https://www.pagina12.com.ar/199594-el-derecho-a-la-defensa,2019-06-11T01:30:12-03:00,2019-06-11T22:30:13-03:00,545,545,"Lucila Larrandart",F
 10076,"Con amigos así...",pagina12,https://www.pagina12.com.ar/199597-con-amigos-asi,2019-06-11T01:30:12-03:00,2019-06-11T11:30:14-03:00,117,117,"Washington Uranga",M
 10077,"Nuevas rarezas en la Operación Puf",clarin,/opinion/nuevas-rarezas-operacion-puf_0_0eXZFlRm7.html,2019-06-11T03:30:04-03:00,2019-06-12T02:30:04-03:00,1,1,"Ricardo Roa",M
@@ -10414,11 +10414,22 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 10084,"Tu emancipación financiera",lanacion,/opinion/tu-emancipacion-financiera-nid2256713,2019-06-11T05:30:09-03:00,2019-06-11T19:30:10-03:00,172,172,"Nicolás Litvinoff",M
 10085,"Una cultura que rinde peligrosa idolatría a la juventud",lanacion,/opinion/columnistas/una-cultura-que-rinde-peligrosa-idolatria-a-la-juventuduna-cultura-que-rinde-peligrosa-idolatria-a-la-juventud-nid2256655,2019-06-11T09:30:10-03:00,2019-06-11T19:30:10-03:00,122,122,"Pablo Mendelevich",M
 10086,"La ultraderecha europea y el caso Bolsonaro",pagina12,https://www.pagina12.com.ar/199671-la-ultraderecha-europea-y-el-caso-bolsonaro,2019-06-11T13:30:13-03:00,2019-06-12T00:30:12-03:00,1902,1902,"Agustín Fontenla",M
-10087,"La ultraderecha europea y Bolsonaro",pagina12,https://www.pagina12.com.ar/199781-la-ultraderecha-europea-y-bolsonaro,2019-06-12T01:30:13-03:00,2019-06-12T09:30:13-03:00,1902,1902,"Agustín Fontenla",M
-10088,"Homo Freak",pagina12,https://www.pagina12.com.ar/199535-homo-freak,2019-06-12T01:30:13-03:00,2019-06-12T09:30:13-03:00,861,861,"Rodrigo Fresán",M
-10089,"No hay revoleo",pagina12,https://www.pagina12.com.ar/199816-no-hay-revoleo,2019-06-12T01:30:13-03:00,2019-06-12T09:30:13-03:00,140,140,"Luis Bruschtein",M
-10090,"Elecciones 2019: la llave de la Rosada la ...",clarin,/opinion/elecciones-2019-llave-rosada-anti_0_RxMe_Fnnl.html,2019-06-12T03:30:05-03:00,2019-06-12T09:30:04-03:00,351,351,"Pablo Vaca",M
-10091,"Los autos cuestan en pesos y dólares 15% ...",clarin,/opinion/autos-cuestan-pesos-dolares-15-hace-semanas_0_NkFwrEAtg.html,2019-06-12T03:30:05-03:00,2019-06-12T09:30:04-03:00,102,102,"Daniel Fernández Canedo",M
-10092,"Quién sabe si Será justicia",clarin,/opinion/sabe-justicia_0_iXRZOlS3f.html,2019-06-12T03:30:05-03:00,2019-06-12T09:30:04-03:00,285,285,"Alberto Amato",M
-10093,"Las dinastías políticas",clarin,/opinion/dinastias-politicas_0_88Fb1KpL4.html,2019-06-12T03:30:05-03:00,2019-06-12T09:30:04-03:00,84,84,"Norma Morandini",F
-10094,"La erradicación del trabajo infantil, tarea ...",clarin,/opinion/erradicacion-trabajo-infantil-tarea-sociedad_0_owKYPTwwY.html,2019-06-12T03:30:05-03:00,2019-06-12T09:30:04-03:00,1903,1903,"Cecilia Garau",F
+10087,"La ultraderecha europea y Bolsonaro",pagina12,https://www.pagina12.com.ar/199781-la-ultraderecha-europea-y-bolsonaro,2019-06-12T01:30:13-03:00,2019-06-13T00:30:13-03:00,1902,1902,"Agustín Fontenla",M
+10088,"Homo Freak",pagina12,https://www.pagina12.com.ar/199535-homo-freak,2019-06-12T01:30:13-03:00,2019-06-12T13:30:13-03:00,861,861,"Rodrigo Fresán",M
+10089,"No hay revoleo",pagina12,https://www.pagina12.com.ar/199816-no-hay-revoleo,2019-06-12T01:30:13-03:00,2019-06-13T09:30:12-03:00,140,140,"Luis Bruschtein",M
+10090,"Elecciones 2019: la llave de la Rosada la ...",clarin,/opinion/elecciones-2019-llave-rosada-anti_0_RxMe_Fnnl.html,2019-06-12T03:30:05-03:00,2019-06-13T02:30:04-03:00,351,351,"Pablo Vaca",M
+10091,"Los autos cuestan en pesos y dólares 15% ...",clarin,/opinion/autos-cuestan-pesos-dolares-15-hace-semanas_0_NkFwrEAtg.html,2019-06-12T03:30:05-03:00,2019-06-13T02:30:04-03:00,102,102,"Daniel Fernández Canedo",M
+10092,"Quién sabe si Será justicia",clarin,/opinion/sabe-justicia_0_iXRZOlS3f.html,2019-06-12T03:30:05-03:00,2019-06-13T02:30:04-03:00,285,285,"Alberto Amato",M
+10093,"Las dinastías políticas",clarin,/opinion/dinastias-politicas_0_88Fb1KpL4.html,2019-06-12T03:30:05-03:00,2019-06-13T02:30:04-03:00,84,84,"Norma Morandini",F
+10094,"La erradicación del trabajo infantil, tarea ...",clarin,/opinion/erradicacion-trabajo-infantil-tarea-sociedad_0_owKYPTwwY.html,2019-06-12T03:30:05-03:00,2019-06-13T02:30:04-03:00,1903,1903,"Cecilia Garau",F
+10095,"Pichetto: Un peronista sin votos",pagina12,https://www.pagina12.com.ar/199742-pichetto-un-peronista-sin-votos,2019-06-12T14:30:18-03:00,2019-06-13T09:30:12-03:00,66,66,"Mario Wainfeld",M
+10096,"Pentecostés: la senda del amor para llegar a  ...",clarin,/opinion/senda-amor-llegar-entendernos_0_4XmK160Fr.html,2019-06-12T19:30:04-03:00,2019-06-13T02:30:04-03:00,1181,1181,"Guillermo Marcó",M
+10097,"Las divisas reales de Vaca Muerta",pagina12,https://www.pagina12.com.ar/200022-las-divisas-reales-de-vaca-muerta,2019-06-13T01:30:12-03:00,2019-06-13T09:30:12-03:00,1675,1675,"Andrés Repar",M
+10098,"La hegemonía de Techint",pagina12,https://www.pagina12.com.ar/200019-la-hegemonia-de-techint,2019-06-13T01:30:12-03:00,2019-06-13T09:30:12-03:00,749,749,"Federico Bernal",M
+10099,"¿Movida electoral o algo más?",clarin,/opinion/movida-electoral_0_W-4RSK8gZ.html,2019-06-13T03:30:04-03:00,2019-06-13T09:30:05-03:00,1,1,"Ricardo Roa",M
+10100,"Pichetto, el antídoto peronista de Macri",clarin,/politica/pichetto-antidoto-peronista-macri_0_5g3EFpIyO.html,2019-06-13T03:30:04-03:00,2019-06-13T09:30:05-03:00,73,73,"Fernando Gonzalez",M
+10101,"Argentina, entre la muerte del presente y los ...",clarin,/opinion/argentina-muerte-presente-desafios-futuro_0_q1UxoEjea.html,2019-06-13T03:30:04-03:00,2019-06-13T09:30:05-03:00,808,808,"Marcelo Elizondo",M
+10102,"La revelación de Pichetto",clarin,/opinion/revelacion-pichetto_0_4F2b42NTS.html,2019-06-13T03:30:04-03:00,2019-06-13T09:30:05-03:00,247,247,"Jorge Ossona",M
+10103,"Cooperación Sur-Sur: un desafío para ...",clarin,/opinion/cooperacion-sur-sur-desafio-iberoamerica_0_khGcSY9ey.html,2019-06-13T03:30:04-03:00,2019-06-13T09:30:05-03:00,1904,1904,"Mariano Jabonero",M
+10104,"""The Affair"", adultos llenos de secretos y rarezas",clarin,/opinion/the-affair-adultos-llenos-secretos-rarezas_0_WdaQaT9qa.html,2019-06-13T03:30:04-03:00,2019-06-13T09:30:05-03:00,336,336,"Raquel Garzón",F
+10105,"La humanitaria urgencia de tirar la pelota afuera",clarin,/opinion/humanitaria-urgencia-tirar-pelota-afuera_0_TSQNJcEgL.html,2019-06-13T03:30:04-03:00,2019-06-13T09:30:05-03:00,1887,1887,"Juan Tejedor",M
