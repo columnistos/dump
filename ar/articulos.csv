@@ -10671,7 +10671,7 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 10341,"El quilombo brasileño",pagina12,https://www.pagina12.com.ar/203072-el-quilombo-brasileno,2019-06-28T01:30:12-03:00,2019-06-28T08:30:12-03:00,123,123,"Emir Sader",M
 10342,"Te la debo",pagina12,https://www.pagina12.com.ar/202957-te-la-debo,2019-06-28T01:30:12-03:00,2019-06-29T01:30:12-03:00,107,107,"Luciana Peker",F
 10343,"Repudio al sistema educativo que censura las escuelas inclusivas",pagina12,https://www.pagina12.com.ar/202958-repudio-al-sistema-educativo-que-censura-las-escuelas-inclus,2019-06-28T01:30:12-03:00,2019-06-29T01:30:12-03:00,1435,1435,"Graciela Morgade",F
-10344,"Lo que Almodóvar enseña sobre el deseo",pagina12,https://www.pagina12.com.ar/202819-lo-que-almodovar-ensena-sobre-el-deseo,2019-06-28T01:30:12-03:00,2019-06-29T09:30:12-03:00,1538,1538,"Daniela Giorgetta",F
+10344,"Lo que Almodóvar enseña sobre el deseo",pagina12,https://www.pagina12.com.ar/202819-lo-que-almodovar-ensena-sobre-el-deseo,2019-06-28T01:30:12-03:00,2019-06-30T00:30:12-03:00,1538,1538,"Daniela Giorgetta",F
 10345,"Para el votante, la inflación debe ser la prioridad del próximo gobierno",lanacion,/opinion/columnistas/para-el-votante-la-inflacion-debe-ser-la-prioridad-del-proximo-gobierno-nid2262321,2019-06-28T03:30:09-03:00,2019-06-28T16:30:10-03:00,16,16,"Sergio Berensztein",M
 10346,"La lucha en el barro de ""Rocky"" Espert",lanacion,/opinion/la-lucha-barro-rocky-espert-nid2262437,2019-06-28T03:30:09-03:00,2019-06-28T22:30:10-03:00,131,131,"Fernando Laborda",M
 10347,"Un país sin violentos en el poder",lanacion,/opinion/columnistas/un-pais-sin-violentos-en-el-poder-nid2262395,2019-06-28T03:30:09-03:00,2019-06-28T16:30:10-03:00,1936,1936,"Paula Oliveto Lago",F
@@ -10682,24 +10682,44 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 10352,"Educación sexual integral: un puente entre ...",clarin,/opinion/educacion-sexual-integral-puente-deseos-tensiones_0_Vj6a9zxDV.html,2019-06-28T05:30:04-03:00,2019-06-29T01:30:03-03:00,678,678,"Carolina Sánchez Agostini",F
 10353,"Lo que ocurrió no debería haber ocurrido",pagina12,https://www.pagina12.com.ar/203092-lo-que-ocurrio-no-deberia-haber-ocurrido,2019-06-28T08:30:12-03:00,2019-06-28T20:30:11-03:00,1937,1937,"Greta Pena y Florencia Feldman",+
 10354,"El maestro del secreto",pagina12,https://www.pagina12.com.ar/202796-el-maestro-del-secreto,2019-06-28T09:30:12-03:00,2019-06-29T01:30:12-03:00,992,992,"Adrian Melo",M
-10355,Lesbianas,pagina12,https://www.pagina12.com.ar/203189-lesbianas,2019-06-28T16:30:13-03:00,2019-06-29T09:30:12-03:00,294,294,"Marta Dillon",F
+10355,Lesbianas,pagina12,https://www.pagina12.com.ar/203189-lesbianas,2019-06-28T16:30:13-03:00,2019-06-30T09:30:11-03:00,294,294,"Marta Dillon",F
 10356,"Acuerdo Mercosur-Unión Europea: gol de Argentina",lanacion,/economia/acuerdo-mercosur-union-europea-gol-argentina-nid2262715,2019-06-28T17:30:09-03:00,2019-06-29T00:30:10-03:00,1938,1938,"Shunko Rojas",M
 10357,"Un paso significativo para romper un modelo endocéntrico",lanacion,/economia/comercio-exterior/mercosur-ue-un-paso-significativo-romper-modelo-integracion-nid2262610,2019-06-28T17:30:09-03:00,2019-06-29T03:30:10-03:00,808,808,"Marcelo Elizondo",M
-10358,"""No somos homofóbicos""",pagina12,https://www.pagina12.com.ar/203214-no-somos-homofobicos,2019-06-28T19:30:13-03:00,2019-06-29T09:30:12-03:00,990,990,"Adriana Carrasco",F
-10359,"Plegaria para un equipo ambiguo",pagina12,https://www.pagina12.com.ar/203225-plegaria-para-un-equipo-ambiguo,2019-06-28T20:30:11-03:00,2019-06-29T09:30:12-03:00,53,53,"Gustavo Veiga",M
-10360,"El triunfo no fue de taquito",pagina12,https://www.pagina12.com.ar/203220-el-triunfo-no-fue-de-taquito,2019-06-28T21:30:13-03:00,2019-06-29T09:30:12-03:00,194,194,"Juan José Panno",M
-10361,"La fe en Mauricio Macri o en Cristina Kirchner",clarin,/opinion/fe-mauricio-macri-cristina-kirchner_0_TdOp7iAMQ.html,2019-06-28T22:30:04-03:00,2019-06-29T09:30:03-03:00,205,205,"Miguel Wiñazki",M
+10358,"""No somos homofóbicos""",pagina12,https://www.pagina12.com.ar/203214-no-somos-homofobicos,2019-06-28T19:30:13-03:00,2019-06-30T00:30:12-03:00,990,990,"Adriana Carrasco",F
+10359,"Plegaria para un equipo ambiguo",pagina12,https://www.pagina12.com.ar/203225-plegaria-para-un-equipo-ambiguo,2019-06-28T20:30:11-03:00,2019-06-30T00:30:12-03:00,53,53,"Gustavo Veiga",M
+10360,"El triunfo no fue de taquito",pagina12,https://www.pagina12.com.ar/203220-el-triunfo-no-fue-de-taquito,2019-06-28T21:30:13-03:00,2019-06-30T00:30:12-03:00,194,194,"Juan José Panno",M
+10361,"La fe en Mauricio Macri o en Cristina Kirchner",clarin,/opinion/fe-mauricio-macri-cristina-kirchner_0_TdOp7iAMQ.html,2019-06-28T22:30:04-03:00,2019-06-30T02:30:04-03:00,205,205,"Miguel Wiñazki",M
 10362,"Macri festejó como un gol este acuerdo histórico",lanacion,/politica/macri-festejo-como-gol-este-acuerdo-historico-nid2262905,2019-06-28T23:30:10-03:00,2019-06-29T05:30:09-03:00,78,78,"Sergio Suppo",M
-10363,"Macri se quedó en 1853",pagina12,https://www.pagina12.com.ar/203251-macri-se-quedo-en-1853,2019-06-29T00:30:12-03:00,2019-06-29T09:30:12-03:00,657,657,"Martín Granovsky",M
-10364,"Un capital simbólico en medio de la campaña",lanacion,/politica/un-capital-simbolico-en-medio-de-la-campana-nid2262889,2019-06-29T01:30:10-03:00,2019-06-29T09:30:09-03:00,111,111,"Martín Rodríguez Yebra",M
-10365,"La historia debe quedar lejos de la campaña",clarin,/opinion/paso-historico-debe-lejos-campana_0_nJdXUs0NV.html,2019-06-29T02:30:04-03:00,2019-06-29T09:30:03-03:00,73,73,"Fernando Gonzalez",M
-10366,"Guerra comercial, baja de tasas y todas las G ...",clarin,/mundo/guerra-comercial-baja-tasas-todas-20_0_mmw_8eP71.html,2019-06-29T02:30:04-03:00,2019-06-29T09:30:03-03:00,50,50,"Marcelo Cantelmi",M
-10367,"Chernobyl: como perros tóxicos",clarin,/opinion/chernobyl-perros-toxicos_0_EuDn-ayj6.html,2019-06-29T02:30:04-03:00,2019-06-29T09:30:03-03:00,297,297,"Claudio Campagna",M
-10368,"Laudato si': un programa que nos une a todos",clarin,/opinion/laudato-programa-une_0_0rfOLnToV.html,2019-06-29T02:30:04-03:00,2019-06-29T09:30:03-03:00,1939,1939,"Enrique Morad",M
-10369,"Pasar las PASO",clarin,/opinion/pasar-paso_0_U5EuR0Vgu.html,2019-06-29T02:30:04-03:00,2019-06-29T09:30:03-03:00,946,946,"Fabian Bosoer",M
-10370,"Libertad con libertinaje",pagina12,https://www.pagina12.com.ar/203063-libertad-con-libertinaje,2019-06-29T02:30:12-03:00,2019-06-29T09:30:12-03:00,317,317,"Claudio Zeiger",M
-10371,"Arrepentida de qué",pagina12,https://www.pagina12.com.ar/202955-arrepentida-de-que,2019-06-29T02:30:12-03:00,2019-06-29T09:30:12-03:00,457,457,"Marisa Avigliano",F
-10372,"La mueca de las PASO",lanacion,/opinion/la-mueca-de-las-paso-nid2262805,2019-06-29T04:30:09-03:00,2019-06-29T09:30:09-03:00,48,48,"Eduardo Fidanza",M
-10373,"Trump, AMLO y Cristina, parecidos que asombran",lanacion,/opinion/trump-amlo-y-cristina-parecidos-que-asombran-nid2262748,2019-06-29T04:30:09-03:00,2019-06-29T09:30:09-03:00,47,47,"Héctor M. Guyot",M
+10363,"Macri se quedó en 1853",pagina12,https://www.pagina12.com.ar/203251-macri-se-quedo-en-1853,2019-06-29T00:30:12-03:00,2019-06-30T09:30:11-03:00,657,657,"Martín Granovsky",M
+10364,"Un capital simbólico en medio de la campaña",lanacion,/politica/un-capital-simbolico-en-medio-de-la-campana-nid2262889,2019-06-29T01:30:10-03:00,2019-06-30T03:30:10-03:00,111,111,"Martín Rodríguez Yebra",M
+10365,"La historia debe quedar lejos de la campaña",clarin,/opinion/paso-historico-debe-lejos-campana_0_nJdXUs0NV.html,2019-06-29T02:30:04-03:00,2019-06-30T02:30:04-03:00,73,73,"Fernando Gonzalez",M
+10366,"Guerra comercial, baja de tasas y todas las G ...",clarin,/mundo/guerra-comercial-baja-tasas-todas-20_0_mmw_8eP71.html,2019-06-29T02:30:04-03:00,2019-06-30T02:30:04-03:00,50,50,"Marcelo Cantelmi",M
+10367,"Chernobyl: como perros tóxicos",clarin,/opinion/chernobyl-perros-toxicos_0_EuDn-ayj6.html,2019-06-29T02:30:04-03:00,2019-06-30T02:30:04-03:00,297,297,"Claudio Campagna",M
+10368,"Laudato si': un programa que nos une a todos",clarin,/opinion/laudato-programa-une_0_0rfOLnToV.html,2019-06-29T02:30:04-03:00,2019-06-30T02:30:04-03:00,1939,1939,"Enrique Morad",M
+10369,"Pasar las PASO",clarin,/opinion/pasar-paso_0_U5EuR0Vgu.html,2019-06-29T02:30:04-03:00,2019-06-30T02:30:04-03:00,946,946,"Fabian Bosoer",M
+10370,"Libertad con libertinaje",pagina12,https://www.pagina12.com.ar/203063-libertad-con-libertinaje,2019-06-29T02:30:12-03:00,2019-06-30T00:30:12-03:00,317,317,"Claudio Zeiger",M
+10371,"Arrepentida de qué",pagina12,https://www.pagina12.com.ar/202955-arrepentida-de-que,2019-06-29T02:30:12-03:00,2019-06-29T11:30:12-03:00,457,457,"Marisa Avigliano",F
+10372,"La mueca de las PASO",lanacion,/opinion/la-mueca-de-las-paso-nid2262805,2019-06-29T04:30:09-03:00,2019-06-29T21:30:10-03:00,48,48,"Eduardo Fidanza",M
+10373,"Trump, AMLO y Cristina, parecidos que asombran",lanacion,/opinion/trump-amlo-y-cristina-parecidos-que-asombran-nid2262748,2019-06-29T04:30:09-03:00,2019-06-29T12:30:11-03:00,47,47,"Héctor M. Guyot",M
 10374,"El día que las vacas voten",lanacion,/economia/campo/el-dia-que-las-vacas-voten-nid2262689,2019-06-29T04:30:09-03:00,2019-06-29T08:30:09-03:00,343,343,"Cristian Mira",M
-10375,"El discreto encanto de los perdedores",clarin,/opinion/discreto-encanto-perdedores_0__hCOaknZS.html,2019-06-29T07:30:04-03:00,2019-06-29T09:30:03-03:00,49,49,"Silvia Fesquet",F
+10375,"El discreto encanto de los perdedores",clarin,/opinion/discreto-encanto-perdedores_0__hCOaknZS.html,2019-06-29T07:30:04-03:00,2019-06-30T02:30:04-03:00,49,49,"Silvia Fesquet",F
+10376,"Macri y el equilibrio entre dos gigantes",lanacion,/economia/equilibrio-entre-dos-gigantes-nid2262806,2019-06-29T10:30:09-03:00,2019-06-30T03:30:10-03:00,46,46,"Francisco Olivera",M
+10377,"Macri, a fondo; y yo también",lanacion,/opinion/columnistas/macri-a-fondo-y-yo-tambien-nid2262835,2019-06-29T11:30:10-03:00,2019-06-30T03:30:10-03:00,45,45,"Carlos M. Reymundo Roberts",M
+10378,"¿Con el debate o con el de bate?",pagina12,https://www.pagina12.com.ar/203260-con-el-debate-o-con-el-de-bate,2019-06-29T12:30:13-03:00,2019-06-30T00:30:12-03:00,265,265,"Marcelo Rudaeff (Rudy)",M
+10379,"Todo lo irracional del sistema judicial: el caso de Mariana Gómez",pagina12,https://www.pagina12.com.ar/203385-todo-lo-irracional-del-sistema-judicial,2019-06-29T15:30:12-03:00,2019-06-30T09:30:11-03:00,243,243,"Mariana Carbajal",F
+10380,"Algunos sectores o aumentan la productividad o se extinguirán",lanacion,/politica/algunos-sectores-o-aumentan-la-productividad-o-se-extinguiran-nid2262902,2019-06-29T19:30:10-03:00,2019-06-30T03:30:10-03:00,332,332,"Diego Cabot",M
+10381,"Proponer un sueño",pagina12,https://www.pagina12.com.ar/203468-proponer-un-sueno,2019-06-30T01:30:12-03:00,2019-06-30T09:30:11-03:00,603,603,"Carlos Heller",M
+10382,"Apagón y deuda",pagina12,https://www.pagina12.com.ar/203309-apagon-y-deuda,2019-06-30T01:30:12-03:00,2019-06-30T09:30:11-03:00,140,140,"Luis Bruschtein",M
+10383,"¿Fin de la grieta?",pagina12,https://www.pagina12.com.ar/203449-fin-de-la-grieta,2019-06-30T01:30:12-03:00,2019-06-30T09:30:11-03:00,64,64,"Edgardo Mocca",M
+10384,"La patología de la economía y la patología ...",clarin,/opinion/patologia-economia-patologia-politica_0_tIUqvVbat.html,2019-06-30T03:30:03-03:00,2019-06-30T09:30:04-03:00,37,37,"Ricardo Kirschbaum",M
+10385,"Igualdad de género",clarin,/opinion/igualdad-genero_0_VN7X5fq2K.html,2019-06-30T03:30:03-03:00,2019-06-30T09:30:04-03:00,496,496,"John Carlin",M
+10386,"La polarización rompe límites",clarin,/opinion/polarizacion_0_afb-h4AHX.html,2019-06-30T03:30:03-03:00,2019-06-30T09:30:04-03:00,70,70,"Eduardo van der Kooy",M
+10387,"Acuerdo entre Estados Unidos y China: un ...",clarin,/mundo/acuerdo-unidos-china-armisticio-dispuesto-voluntad-puro-realismo_0_oozP2_7UF.html,2019-06-30T03:30:03-03:00,2019-06-30T09:30:04-03:00,50,50,"Marcelo Cantelmi",M
+10388,"En busca de otro rumbo",clarin,/opinion/busca-rumbo_0_UfazQWBwT.html,2019-06-30T03:30:03-03:00,2019-06-30T09:30:04-03:00,304,304,"Natalio Botana",M
+10389,"La inteligencia artificial aplicada al ...",clarin,/opinion/inteligencia-artificial-aplicada-derecho-dilemas-eticos_0_muF_Yyhn7.html,2019-06-30T03:30:03-03:00,2019-06-30T09:30:04-03:00,754,754,"Raúl Martínez Fazzalari",M
+10390,"Los insondables caminos                       ...",clarin,/opinion/insondables-caminos-amor_0_PdCCuEgUL.html,2019-06-30T03:30:03-03:00,2019-06-30T09:30:04-03:00,49,49,"Silvia Fesquet",F
+10391,"La matriz ideológica del plan kirchnerista",lanacion,/opinion/la-matriz-ideologica-del-plan-kirchnerista-nid2263080,2019-06-30T04:30:09-03:00,2019-06-30T04:30:09-03:00,146,146,"Jorge Fernández Díaz",M
+10392,"Un presidente vicario, pero con carácter",lanacion,/opinion/un-presidente-vicario-pero-con-caracter-nid2263102,2019-06-30T04:30:09-03:00,2019-06-30T09:30:09-03:00,148,148,"Pablo Sirvén",M
+10393,"Las PASO se vuelven una obsesión para Macri y el kirchnerismo",lanacion,/politica/las-paso-se-vuelven-una-obsesion-para-macri-y-el-kirchnerismo-nid2263113,2019-06-30T04:30:09-03:00,2019-06-30T09:30:09-03:00,111,111,"Martín Rodríguez Yebra",M
+10394,"Tomar decisiones en un semestre con suspenso",lanacion,/economia/tomar-decisiones-en-un-semestre-con-suspenso-nid2262812,2019-06-30T04:30:09-03:00,2019-06-30T09:30:09-03:00,149,149,"Juan Carlos de Pablo",M
+10395,"Oficio de chorro",lanacion,/opinion/las-palabrasoficio-de-chorro-nid2263079,2019-06-30T05:30:10-03:00,2019-06-30T09:30:09-03:00,1329,1329,"Jorge Rosales",M
