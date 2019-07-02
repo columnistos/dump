@@ -10709,8 +10709,8 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 10379,"Todo lo irracional del sistema judicial: el caso de Mariana Gómez",pagina12,https://www.pagina12.com.ar/203385-todo-lo-irracional-del-sistema-judicial,2019-06-29T15:30:12-03:00,2019-07-01T01:30:13-03:00,243,243,"Mariana Carbajal",F
 10380,"Algunos sectores o aumentan la productividad o se extinguirán",lanacion,/politica/algunos-sectores-o-aumentan-la-productividad-o-se-extinguiran-nid2262902,2019-06-29T19:30:10-03:00,2019-06-30T03:30:10-03:00,332,332,"Diego Cabot",M
 10381,"Proponer un sueño",pagina12,https://www.pagina12.com.ar/203468-proponer-un-sueno,2019-06-30T01:30:12-03:00,2019-07-01T01:30:13-03:00,603,603,"Carlos Heller",M
-10382,"Apagón y deuda",pagina12,https://www.pagina12.com.ar/203309-apagon-y-deuda,2019-06-30T01:30:12-03:00,2019-07-01T09:30:12-03:00,140,140,"Luis Bruschtein",M
-10383,"¿Fin de la grieta?",pagina12,https://www.pagina12.com.ar/203449-fin-de-la-grieta,2019-06-30T01:30:12-03:00,2019-07-01T09:30:12-03:00,64,64,"Edgardo Mocca",M
+10382,"Apagón y deuda",pagina12,https://www.pagina12.com.ar/203309-apagon-y-deuda,2019-06-30T01:30:12-03:00,2019-07-02T01:30:11-03:00,140,140,"Luis Bruschtein",M
+10383,"¿Fin de la grieta?",pagina12,https://www.pagina12.com.ar/203449-fin-de-la-grieta,2019-06-30T01:30:12-03:00,2019-07-02T09:30:11-03:00,64,64,"Edgardo Mocca",M
 10384,"La patología de la economía y la patología ...",clarin,/opinion/patologia-economia-patologia-politica_0_tIUqvVbat.html,2019-06-30T03:30:03-03:00,2019-07-01T02:30:04-03:00,37,37,"Ricardo Kirschbaum",M
 10385,"Igualdad de género",clarin,/opinion/igualdad-genero_0_VN7X5fq2K.html,2019-06-30T03:30:03-03:00,2019-07-01T02:30:04-03:00,496,496,"John Carlin",M
 10386,"La polarización rompe límites",clarin,/opinion/polarizacion_0_afb-h4AHX.html,2019-06-30T03:30:03-03:00,2019-07-01T02:30:04-03:00,70,70,"Eduardo van der Kooy",M
@@ -10718,27 +10718,41 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 10388,"En busca de otro rumbo",clarin,/opinion/busca-rumbo_0_UfazQWBwT.html,2019-06-30T03:30:03-03:00,2019-07-01T02:30:04-03:00,304,304,"Natalio Botana",M
 10389,"La inteligencia artificial aplicada al ...",clarin,/opinion/inteligencia-artificial-aplicada-derecho-dilemas-eticos_0_muF_Yyhn7.html,2019-06-30T03:30:03-03:00,2019-07-01T02:30:04-03:00,754,754,"Raúl Martínez Fazzalari",M
 10390,"Los insondables caminos                       ...",clarin,/opinion/insondables-caminos-amor_0_PdCCuEgUL.html,2019-06-30T03:30:03-03:00,2019-07-01T02:30:04-03:00,49,49,"Silvia Fesquet",F
-10391,"La matriz ideológica del plan kirchnerista",lanacion,/opinion/la-matriz-ideologica-del-plan-kirchnerista-nid2263080,2019-06-30T04:30:09-03:00,2019-07-01T09:30:10-03:00,146,146,"Jorge Fernández Díaz",M
+10391,"La matriz ideológica del plan kirchnerista",lanacion,/opinion/la-matriz-ideologica-del-plan-kirchnerista-nid2263080,2019-06-30T04:30:09-03:00,2019-07-01T13:30:10-03:00,146,146,"Jorge Fernández Díaz",M
 10392,"Un presidente vicario, pero con carácter",lanacion,/opinion/un-presidente-vicario-pero-con-caracter-nid2263102,2019-06-30T04:30:09-03:00,2019-07-01T01:30:10-03:00,148,148,"Pablo Sirvén",M
 10393,"Las PASO se vuelven una obsesión para Macri y el kirchnerismo",lanacion,/politica/las-paso-se-vuelven-una-obsesion-para-macri-y-el-kirchnerismo-nid2263113,2019-06-30T04:30:09-03:00,2019-06-30T18:30:09-03:00,111,111,"Martín Rodríguez Yebra",M
 10394,"Tomar decisiones en un semestre con suspenso",lanacion,/economia/tomar-decisiones-en-un-semestre-con-suspenso-nid2262812,2019-06-30T04:30:09-03:00,2019-07-01T01:30:10-03:00,149,149,"Juan Carlos de Pablo",M
 10395,"Oficio de chorro",lanacion,/opinion/las-palabrasoficio-de-chorro-nid2263079,2019-06-30T05:30:10-03:00,2019-07-01T01:30:10-03:00,1329,1329,"Jorge Rosales",M
-10396,"Gracias otra vez, Pixar",pagina12,https://www.pagina12.com.ar/203562-gracias-otra-vez-pixar,2019-06-30T18:30:12-03:00,2019-07-01T09:30:12-03:00,261,261,"Eduardo Fabregat",M
-10397,"En el fútbol la lógica no siempre juega",pagina12,https://www.pagina12.com.ar/203575-en-el-futbol-la-logica-no-siempre-juega,2019-06-30T19:30:13-03:00,2019-07-01T09:30:12-03:00,194,194,"Juan José Panno",M
+10396,"Gracias otra vez, Pixar",pagina12,https://www.pagina12.com.ar/203562-gracias-otra-vez-pixar,2019-06-30T18:30:12-03:00,2019-07-02T09:30:11-03:00,261,261,"Eduardo Fabregat",M
+10397,"En el fútbol la lógica no siempre juega",pagina12,https://www.pagina12.com.ar/203575-en-el-futbol-la-logica-no-siempre-juega,2019-06-30T19:30:13-03:00,2019-07-01T20:30:12-03:00,194,194,"Juan José Panno",M
 10398,"La sensación de una persistente derrota colectiva",lanacion,/opinion/columnistas/la-sensacion-de-una-persistente-derrota-colectiva-nid2263226,2019-07-01T02:30:10-03:00,2019-07-01T02:30:10-03:00,231,231,"Alejandro Katz",M
-10399,"El ""voto susto"", la respuesta a los sondeos desfavorables",lanacion,/politica/el-voto-susto-la-respuesta-a-los-sondeos-desfavorables-nid2263296,2019-07-01T02:30:10-03:00,2019-07-01T08:30:09-03:00,96,96,"Claudio Jacquelin",M
-10400,"Sorpresas que guardan los días que solo parecen previsibles",lanacion,/opinion/sorpresas-que-guardan-los-dias-que-solo-parecen-previsibles-nid2262350,2019-07-01T02:30:10-03:00,2019-07-01T09:30:10-03:00,877,877,"Santiago Kovadloff",M
-10401,"Otra vez Roca-Runciman",pagina12,https://www.pagina12.com.ar/203464-otra-vez-roca-runciman,2019-07-01T02:30:12-03:00,2019-07-01T09:30:12-03:00,429,429,"José Pablo Feinmann",M
+10399,"El ""voto susto"", la respuesta a los sondeos desfavorables",lanacion,/politica/el-voto-susto-la-respuesta-a-los-sondeos-desfavorables-nid2263296,2019-07-01T02:30:10-03:00,2019-07-02T03:30:09-03:00,96,96,"Claudio Jacquelin",M
+10400,"Sorpresas que guardan los días que solo parecen previsibles",lanacion,/opinion/sorpresas-que-guardan-los-dias-que-solo-parecen-previsibles-nid2262350,2019-07-01T02:30:10-03:00,2019-07-02T03:30:09-03:00,877,877,"Santiago Kovadloff",M
+10401,"Otra vez Roca-Runciman",pagina12,https://www.pagina12.com.ar/203464-otra-vez-roca-runciman,2019-07-01T02:30:12-03:00,2019-07-02T01:30:11-03:00,429,429,"José Pablo Feinmann",M
 10402,"Aprovechar y esconderse",pagina12,https://www.pagina12.com.ar/203451-maria-eugenia-vidal-aprovechar-y-esconderse,2019-07-01T02:30:12-03:00,2019-07-01T09:30:12-03:00,657,657,"Martín Granovsky",M
-10403,"El que sale caro es Macri",pagina12,https://www.pagina12.com.ar/203644-el-que-sale-caro-es-macri,2019-07-01T02:30:12-03:00,2019-07-01T09:30:12-03:00,83,83,"Eduardo Aliverti",M
-10404,"Cristina en Resistencia",pagina12,https://www.pagina12.com.ar/203650-cristina-en-resistencia,2019-07-01T02:30:12-03:00,2019-07-01T09:30:12-03:00,82,82,"Mempo Giardinelli",M
-10405,"Nada mejor que casa",pagina12,https://www.pagina12.com.ar/203653-nada-mejor-que-casa,2019-07-01T02:30:12-03:00,2019-07-01T09:30:12-03:00,1940,1940,"Fernando Cibeira",M
-10406,"Autonomía y felicidad",pagina12,https://www.pagina12.com.ar/203618-autonomia-y-felicidad,2019-07-01T02:30:12-03:00,2019-07-01T09:30:12-03:00,725,725,"Estela Díaz",F
-10407,"Atención: hay un viejo en tu futuro",clarin,/opinion/atencion-viejo-futuro_0_Tzu9Z2zTi.html,2019-07-01T03:30:04-03:00,2019-07-01T09:30:04-03:00,49,49,"Silvia Fesquet",F
-10408,"Horacio Rodríguez Larreta, ""ciempiés"" de ...",clarin,/politica/horacio-rodriguez-larreta-ciempies-patas-peronistas-subconsciente-traicionero-german-garavano_0_DKCZXp3wd.html,2019-07-01T03:30:04-03:00,2019-07-01T09:30:04-03:00,166,166,"Ignacio Zuleta",M
-10409,"Las opciones electorales, ¿como el gordo de ...",clarin,/opinion/opciones-electorales-gordo-loteria_0_xHn8VCdeh.html,2019-07-01T03:30:04-03:00,2019-07-01T09:30:04-03:00,39,39,"Eugenio Díaz Bonilla",M
-10410,"Energía: una apuesta a la previsibilidad",clarin,/opinion/energia-apuesta-previsibilidad_0_ZOM5BK1ea.html,2019-07-01T03:30:04-03:00,2019-07-01T09:30:04-03:00,288,288,"Emilio Apud",M
-10411,"El Caso de Víctor Saldaño en la Justicia de ...",clarin,/opinion/caso-victor-saldano-justicia-ee-uu_0_uJgPDJ7Jj.html,2019-07-01T03:30:04-03:00,2019-07-01T09:30:04-03:00,1870,1870,"Juan Carlos Vega",M
-10412,"Deténgase: de acá los nazis se llevaron gente",clarin,/cultura/detengase-aca-nazis-llevaron-gente_0_zsReT_NtP.html,2019-07-01T03:30:04-03:00,2019-07-01T09:30:04-03:00,640,640,"Patricia Kolesnicov",F
-10413,"Un gobierno que empieza a salir de terapia intensiva",lanacion,/economia/un-gobierno-que-empieza-a-salir-de-terapia-intensiva-nid2263278,2019-07-01T03:30:10-03:00,2019-07-01T09:30:10-03:00,1721,1721,"Florencia Donovan",F
-10414,"Los primeros años son cruciales",lanacion,/opinion/columnistas/los-primeros-anos-son-cruciales-nid2263228,2019-07-01T09:30:10-03:00,2019-07-01T09:30:10-03:00,721,721,"Alejandra Cardini",F
+10403,"El que sale caro es Macri",pagina12,https://www.pagina12.com.ar/203644-el-que-sale-caro-es-macri,2019-07-01T02:30:12-03:00,2019-07-01T19:30:12-03:00,83,83,"Eduardo Aliverti",M
+10404,"Cristina en Resistencia",pagina12,https://www.pagina12.com.ar/203650-cristina-en-resistencia,2019-07-01T02:30:12-03:00,2019-07-02T09:30:11-03:00,82,82,"Mempo Giardinelli",M
+10405,"Nada mejor que casa",pagina12,https://www.pagina12.com.ar/203653-nada-mejor-que-casa,2019-07-01T02:30:12-03:00,2019-07-01T12:30:12-03:00,1940,1940,"Fernando Cibeira",M
+10406,"Autonomía y felicidad",pagina12,https://www.pagina12.com.ar/203618-autonomia-y-felicidad,2019-07-01T02:30:12-03:00,2019-07-02T01:30:11-03:00,725,725,"Estela Díaz",F
+10407,"Atención: hay un viejo en tu futuro",clarin,/opinion/atencion-viejo-futuro_0_Tzu9Z2zTi.html,2019-07-01T03:30:04-03:00,2019-07-02T00:30:03-03:00,49,49,"Silvia Fesquet",F
+10408,"Horacio Rodríguez Larreta, ""ciempiés"" de ...",clarin,/politica/horacio-rodriguez-larreta-ciempies-patas-peronistas-subconsciente-traicionero-german-garavano_0_DKCZXp3wd.html,2019-07-01T03:30:04-03:00,2019-07-02T00:30:03-03:00,166,166,"Ignacio Zuleta",M
+10409,"Las opciones electorales, ¿como el gordo de ...",clarin,/opinion/opciones-electorales-gordo-loteria_0_xHn8VCdeh.html,2019-07-01T03:30:04-03:00,2019-07-02T00:30:03-03:00,39,39,"Eugenio Díaz Bonilla",M
+10410,"Energía: una apuesta a la previsibilidad",clarin,/opinion/energia-apuesta-previsibilidad_0_ZOM5BK1ea.html,2019-07-01T03:30:04-03:00,2019-07-02T00:30:03-03:00,288,288,"Emilio Apud",M
+10411,"El Caso de Víctor Saldaño en la Justicia de ...",clarin,/opinion/caso-victor-saldano-justicia-ee-uu_0_uJgPDJ7Jj.html,2019-07-01T03:30:04-03:00,2019-07-02T00:30:03-03:00,1870,1870,"Juan Carlos Vega",M
+10412,"Deténgase: de acá los nazis se llevaron gente",clarin,/cultura/detengase-aca-nazis-llevaron-gente_0_zsReT_NtP.html,2019-07-01T03:30:04-03:00,2019-07-02T00:30:03-03:00,640,640,"Patricia Kolesnicov",F
+10413,"Un gobierno que empieza a salir de terapia intensiva",lanacion,/economia/un-gobierno-que-empieza-a-salir-de-terapia-intensiva-nid2263278,2019-07-01T03:30:10-03:00,2019-07-02T03:30:09-03:00,1721,1721,"Florencia Donovan",F
+10414,"Los primeros años son cruciales",lanacion,/opinion/columnistas/los-primeros-anos-son-cruciales-nid2263228,2019-07-01T09:30:10-03:00,2019-07-01T12:30:09-03:00,721,721,"Alejandra Cardini",F
+10415,"Cómo será un futuro gobierno de Macri",lanacion,/opinion/columnistas/como-sera-un-futuro-gobierno-de-macri-nid2263081,2019-07-01T13:30:10-03:00,2019-07-02T09:30:08-03:00,93,93,"Joaquín Morales Solá",M
+10416,"Se durmió muerto de frío",pagina12,https://www.pagina12.com.ar/203731-se-durmio-muerto-de-frio,2019-07-01T14:30:12-03:00,2019-07-02T09:30:11-03:00,396,396,"Horacio Cecchi",M
+10417,"El acuerdo Mercosur-UE es <i>fake</i>",pagina12,https://www.pagina12.com.ar/203747-el-acuerdo-mercosur-ue-es-i-fake-i,2019-07-01T16:30:12-03:00,2019-07-01T16:30:12-03:00,154,154,"Alfredo Zaiat",M
+10418,"El acuerdo Mercosur - UE es ""fake""",pagina12,https://www.pagina12.com.ar/203747-el-acuerdo-mercosur-ue-es-fake,2019-07-01T17:30:11-03:00,2019-07-02T09:30:11-03:00,154,154,"Alfredo Zaiat",M
+10419,"El paraje de la Luna y el Sol",pagina12,https://www.pagina12.com.ar/203826-el-paraje-de-la-luna-y-el-sol,2019-07-02T00:30:11-03:00,2019-07-02T09:30:11-03:00,1941,1941,"Gustavo Llorente",M
+10420,"Preguntas fáciles y respuestas más difíciles",clarin,/opinion/preguntas-faciles-respuestas-dificiles_0_yCvSxVs-e.html,2019-07-02T01:30:04-03:00,2019-07-02T09:30:03-03:00,37,37,"Ricardo Kirschbaum",M
+10421,"Objetivo 2020: terminar con la ""estanflación""",clarin,/opinion/objetivo-2020-terminar-estanflacion_0_gFiDMPR-Q.html,2019-07-02T01:30:04-03:00,2019-07-02T09:30:03-03:00,1942,1942,"Víctor A. Beker",M
+10422,"El Che Guevara va a la escuela",clarin,/opinion/che-guevara-va-escuela_0_AweVQLNQx.html,2019-07-02T01:30:04-03:00,2019-07-02T09:30:03-03:00,848,848,"Ricardo Braginski",M
+10423,"Los derechos de los difuntos",clarin,/opinion/derechos-difuntos_0_gB4ck_6Gd.html,2019-07-02T01:30:04-03:00,2019-07-02T09:30:03-03:00,1790,1790,"Ronald Cárdenas Krenz",M
+10424,"Emprendedores de la economía popular",clarin,/opinion/emprendedores-economia-popular_0_DhW1uNTHh.html,2019-07-02T01:30:04-03:00,2019-07-02T09:30:03-03:00,1753,1753,"Mario Elgue",M
+10425,"Un mundo de sensaciones, un mundo de restricciones",pagina12,https://www.pagina12.com.ar/203372-un-mundo-de-sensaciones-un-mundo-de-restricciones,2019-07-02T02:30:12-03:00,2019-07-02T09:30:11-03:00,106,106,"Claudio Scaletta",M
+10426,"Alberto Fernández, el inesperado defensor de Mauricio Macri",lanacion,/politica/alberto-fernandez-inesperado-defensor-mauricio-macri-nid2263619,2019-07-02T04:30:10-03:00,2019-07-02T09:30:08-03:00,5,5,"Carlos Pagni",M
+10427,"Música por la memoria de la AMIA",lanacion,/opinion/columnistas/musica-por-la-memoria-de-la-amia-nid2263591,2019-07-02T04:30:10-03:00,2019-07-02T09:30:08-03:00,503,503,"Norberto Frigerio",M
+10428,"Estadística para crecer",lanacion,/opinion/columnistas/estadistica-para-crecer-nid2263590,2019-07-02T04:30:10-03:00,2019-07-02T09:30:08-03:00,1858,1858,"Arturo Prins",M
