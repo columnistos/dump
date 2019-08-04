@@ -11263,7 +11263,7 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 10933,"Deportes mentales",lanacion,/opinion/miradas/deportes-mentales-nid2272367,2019-07-30T09:30:10-03:00,2019-07-30T10:30:11-03:00,325,325,"Ariel Torres",M
 10934,"Cambios en la política de la Fed: ¿qué pasará con las tasas en Estados Unidos?",lanacion,/el-mundo/cambios-politica-fed-que-pasara-tasas-eeuu-nid2272350,2019-07-30T12:30:11-03:00,2019-07-31T01:30:11-03:00,546,546,"Luis Palma Cané",M
 10935,"¿Cómo hacer campaña con un partido en crisis?",lanacion,/politica/como-hacer-campana-partido-crisis-nid2272447,2019-07-30T13:30:11-03:00,2019-07-31T02:30:11-03:00,5,5,"Carlos Pagni",M
-10936,"La economía macrista está en un callejón sin salida",pagina12,https://www.pagina12.com.ar/209264-la-economia-macrista-esta-en-un-callejon-sin-salida,2019-07-30T14:30:13-03:00,2019-08-03T09:30:15-03:00,561,561,"Paula Español",F
+10936,"La economía macrista está en un callejón sin salida",pagina12,https://www.pagina12.com.ar/209264-la-economia-macrista-esta-en-un-callejon-sin-salida,2019-07-30T14:30:13-03:00,2019-08-04T01:30:13-03:00,561,561,"Paula Español",F
 10937,"Los cuatro puntos de debate entre Alberto Ferández y Macri",lanacion,/politica/los-cuatro-puntos-debate-alberto-fernandez-mauricio-nid2272740,2019-07-31T00:30:10-03:00,2019-07-31T02:30:11-03:00,133,133,"Jorge Liotti",M
 10938,"Las preguntas que faltan en la campaña",pagina12,https://www.pagina12.com.ar/209367-las-preguntas-que-faltan-en-la-campana,2019-07-31T00:30:13-03:00,2019-08-01T00:30:13-03:00,359,359,"Manuel Barrientos",M
 10939,"Una despedida con guayabera para Roberto Fernández Retamar",pagina12,https://www.pagina12.com.ar/208225-una-despedida-con-guayabera-para-roberto-fernandez-retamar,2019-07-31T00:30:13-03:00,2019-08-01T00:30:13-03:00,2006,2006,"Susana Cella",F
@@ -11300,8 +11300,8 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 10970,"A los intelectuales que apoyan a Macri",pagina12,https://www.pagina12.com.ar/208828-a-los-intelectuales-que-apoyan-a-macri,2019-08-01T15:30:14-03:00,2019-08-02T01:30:15-03:00,445,445,"Alejandro Grimson",M
 10971,"El gobierno socialista de Uruguay y su postura frente a Venezuela",lanacion,/opinion/el-gobierno-socialista-uruguay-su-postura-frente-nid2273196,2019-08-01T21:30:12-03:00,2019-08-02T02:30:11-03:00,195,195,"Emilio Cárdenas",M
 10972,"¿Podría haber fraude electoral?",lanacion,/politica/podria-haber-fraude-electoral-nid2273457,2019-08-01T22:30:13-03:00,2019-08-03T02:30:11-03:00,86,86,"Hugo Alconada Mon",M
-10973,"Otra de Bolsonaro",pagina12,https://www.pagina12.com.ar/209722-otra-de-bolsonaro,2019-08-02T02:30:14-03:00,2019-08-03T09:30:15-03:00,65,65,"Eric Nepomuceno",M
-10974,"No usamos el lenguaje, somos lenguaje",pagina12,https://www.pagina12.com.ar/209514-no-usamos-el-lenguaje-somos-lenguaje,2019-08-02T02:30:14-03:00,2019-08-03T09:30:15-03:00,1426,1426,"Rodolfo Alonso",M
+10973,"Otra de Bolsonaro",pagina12,https://www.pagina12.com.ar/209722-otra-de-bolsonaro,2019-08-02T02:30:14-03:00,2019-08-04T01:30:13-03:00,65,65,"Eric Nepomuceno",M
+10974,"No usamos el lenguaje, somos lenguaje",pagina12,https://www.pagina12.com.ar/209514-no-usamos-el-lenguaje-somos-lenguaje,2019-08-02T02:30:14-03:00,2019-08-04T01:30:13-03:00,1426,1426,"Rodolfo Alonso",M
 10975,"El espectro del atraso del dólar y sus efectos políticos",lanacion,/opinion/el-espectro-del-atraso-del-dolar-sus-nid2273537,2019-08-02T03:30:11-03:00,2019-08-02T13:30:16-03:00,131,131,"Fernando Laborda",M
 10976,"La remake de un método",clarin,/opinion/remake-metodo_0_r0RysoO7b.html,2019-08-02T05:30:03-03:00,2019-08-03T02:30:04-03:00,37,37,"Ricardo Kirschbaum",M
 10977,"Inquietudes empresarias a nueve días de las PASO",clarin,/opinion/inquietudes-empresarias-dias-paso_0_Gk9NLRUJ9.html,2019-08-02T05:30:03-03:00,2019-08-03T02:30:04-03:00,337,337,"Silvia Naishtat",F
@@ -11310,18 +11310,43 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 10980,"Violencia sin límites contra las mujeres en ...",clarin,/opinion/violencia-limites-mujeres-politica_0_eHTysT2n9.html,2019-08-02T05:30:03-03:00,2019-08-03T02:30:04-03:00,1729,1729,"Mariana Iglesias",F
 10981,"",lanacion,/opinion/los-temas-cruciales-ausentes-en-la-campana-nid2273450,2019-08-02T07:30:11-03:00,2019-08-02T22:30:11-03:00,16,16,"Sergio Berensztein",M
 10982,"",lanacion,/politica/la-obsesion-venezolana-tic-culposo-cristina-nid2273436,2019-08-02T14:30:12-03:00,2019-08-02T22:30:11-03:00,111,111,"Martín Rodríguez Yebra",M
-10983,"EE.UU. o China: ¿quién ganará la gran guerra?",lanacion,/el-mundo/eeuu-china-quien-ganara-gran-guerra-nid2273904,2019-08-02T23:30:12-03:00,2019-08-03T09:30:12-03:00,310,310,"Inés Capdevila",F
+10983,"EE.UU. o China: ¿quién ganará la gran guerra?",lanacion,/el-mundo/eeuu-china-quien-ganara-gran-guerra-nid2273904,2019-08-02T23:30:12-03:00,2019-08-04T02:30:11-03:00,310,310,"Inés Capdevila",F
 10984,"Macri contra Cristina: un largo camino para llegar al mismo lugar",lanacion,/politica/macri-cristina-largo-camino-llegar-al-mismo-nid2273922,2019-08-02T23:30:12-03:00,2019-08-03T02:30:11-03:00,78,78,"Sergio Suppo",M
-10985,"Un pasito palante: ¡María!",pagina12,https://www.pagina12.com.ar/208506-chatgate-en-puerto-rico-ricky-martin-y-ahora-que,2019-08-03T02:30:14-03:00,2019-08-03T09:30:15-03:00,2012,2012,"Flavio Rapisardi",M
-10986,"¿A quién tiene que temer Sandra Pitta?",clarin,/opinion/temer-sandra-pitta_0_BluHu-GfU.html,2019-08-03T03:30:04-03:00,2019-08-03T09:30:03-03:00,1,1,"Ricardo Roa",M
-10987,"Los científicos, los veganos y el fanatismo ...",clarin,/opinion/sandra-pitta-veganos-exposicion-rural-alberto-fernandez_0_tIgGmH4pM.html,2019-08-03T03:30:04-03:00,2019-08-03T09:30:03-03:00,205,205,"Miguel Wiñazki",M
-10988,"Recalculando: ¿qué es esto de que bajen las tasas?",clarin,/mundo/recalculando-bajen-tasas_0_4nVJmsIBA.html,2019-08-03T03:30:04-03:00,2019-08-03T09:30:03-03:00,50,50,"Marcelo Cantelmi",M
-10989,"Por la calle, en la ciudad de la furia",clarin,/opinion/calle-ciudad-furia_0_dkr29C_PK.html,2019-08-03T03:30:04-03:00,2019-08-03T09:30:03-03:00,49,49,"Silvia Fesquet",F
-10990,"Memoria del candidato",clarin,/opinion/memoria-candidato_0_F3IpBVlr5.html,2019-08-03T03:30:04-03:00,2019-08-03T09:30:03-03:00,527,527,"Pedro Bekinschtein",M
-10991,"Qué es (y qué no es) Big Data electoral",clarin,/opinion/big-data-electoral_0_NjXLVxFS2.html,2019-08-03T03:30:04-03:00,2019-08-03T09:30:03-03:00,2013,2013,"Luciano Galup",M
-10992,"La abuelita que espiaba para la KGB",clarin,/opinion/abuelita-espiaba-kgb_0_AUlOFzsvO.html,2019-08-03T03:30:04-03:00,2019-08-03T09:30:03-03:00,49,49,"Silvia Fesquet",F
-10993,"Aquella foto de la reforma del 94 (anatomía de ...",clarin,/opinion/foto-reforma-94-anatomia-instante_0_NDkA4Db5n.html,2019-08-03T03:30:04-03:00,2019-08-03T09:30:03-03:00,946,946,"Fabian Bosoer",M
+10985,"Un pasito palante: ¡María!",pagina12,https://www.pagina12.com.ar/208506-chatgate-en-puerto-rico-ricky-martin-y-ahora-que,2019-08-03T02:30:14-03:00,2019-08-03T10:30:14-03:00,2012,2012,"Flavio Rapisardi",M
+10986,"¿A quién tiene que temer Sandra Pitta?",clarin,/opinion/temer-sandra-pitta_0_BluHu-GfU.html,2019-08-03T03:30:04-03:00,2019-08-03T22:30:04-03:00,1,1,"Ricardo Roa",M
+10987,"Los científicos, los veganos y el fanatismo ...",clarin,/opinion/sandra-pitta-veganos-exposicion-rural-alberto-fernandez_0_tIgGmH4pM.html,2019-08-03T03:30:04-03:00,2019-08-04T05:30:03-03:00,205,205,"Miguel Wiñazki",M
+10988,"Recalculando: ¿qué es esto de que bajen las tasas?",clarin,/mundo/recalculando-bajen-tasas_0_4nVJmsIBA.html,2019-08-03T03:30:04-03:00,2019-08-04T05:30:03-03:00,50,50,"Marcelo Cantelmi",M
+10989,"Por la calle, en la ciudad de la furia",clarin,/opinion/calle-ciudad-furia_0_dkr29C_PK.html,2019-08-03T03:30:04-03:00,2019-08-04T05:30:03-03:00,49,49,"Silvia Fesquet",F
+10990,"Memoria del candidato",clarin,/opinion/memoria-candidato_0_F3IpBVlr5.html,2019-08-03T03:30:04-03:00,2019-08-04T05:30:03-03:00,527,527,"Pedro Bekinschtein",M
+10991,"Qué es (y qué no es) Big Data electoral",clarin,/opinion/big-data-electoral_0_NjXLVxFS2.html,2019-08-03T03:30:04-03:00,2019-08-04T05:30:03-03:00,2013,2013,"Luciano Galup",M
+10992,"La abuelita que espiaba para la KGB",clarin,/opinion/abuelita-espiaba-kgb_0_AUlOFzsvO.html,2019-08-03T03:30:04-03:00,2019-08-03T22:30:04-03:00,49,49,"Silvia Fesquet",F
+10993,"Aquella foto de la reforma del 94 (anatomía de ...",clarin,/opinion/foto-reforma-94-anatomia-instante_0_NDkA4Db5n.html,2019-08-03T03:30:04-03:00,2019-08-04T05:30:03-03:00,946,946,"Fabian Bosoer",M
 10994,"Sigue activa la pista de la venganza contra Yadón",lanacion,/seguridad/sigue-activa-la-pista-de-la-venganza-contra-yadon-nid2273918,2019-08-03T03:30:11-03:00,2019-08-03T08:30:12-03:00,1897,1897,"Gustavo Carabajal",M
-10995,"En cualquier momento, Hitler llega a la campaña",lanacion,/opinion/miradas/en-cualquier-momento-hitler-llega-a-la-campana-nid2273960,2019-08-03T03:30:11-03:00,2019-08-03T09:30:12-03:00,96,96,"Claudio Jacquelin",M
-10996,"Miopías intelectuales antes de las elecciones",lanacion,/opinion/columnistas/miopias-intelectuales-antes-de-las-elecciones-nid2273952,2019-08-03T04:30:12-03:00,2019-08-03T09:30:12-03:00,48,48,"Eduardo Fidanza",M
-10997,"Medio millón de libros entre las llamas",lanacion,/opinion/miradas/medio-millon-de-libros-entre-las-llamas-nid2273924,2019-08-03T09:30:12-03:00,2019-08-03T09:30:12-03:00,274,274,"Víctor Hugo Ghitta",M
+10995,"En cualquier momento, Hitler llega a la campaña",lanacion,/opinion/miradas/en-cualquier-momento-hitler-llega-a-la-campana-nid2273960,2019-08-03T03:30:11-03:00,2019-08-04T02:30:11-03:00,96,96,"Claudio Jacquelin",M
+10996,"Miopías intelectuales antes de las elecciones",lanacion,/opinion/columnistas/miopias-intelectuales-antes-de-las-elecciones-nid2273952,2019-08-03T04:30:12-03:00,2019-08-04T02:30:11-03:00,48,48,"Eduardo Fidanza",M
+10997,"Medio millón de libros entre las llamas",lanacion,/opinion/miradas/medio-millon-de-libros-entre-las-llamas-nid2273924,2019-08-03T09:30:12-03:00,2019-08-03T15:30:11-03:00,274,274,"Víctor Hugo Ghitta",M
+10998,"La deuda es la jactancia de los intelectuales",pagina12,https://www.pagina12.com.ar/210005-la-deuda-es-la-jactancia-de-los-intelectuales,2019-08-03T11:30:14-03:00,2019-08-04T01:30:13-03:00,265,265,"Marcelo Rudaeff (Rudy)",M
+10999,"Exclusivo: adelanto quién ganará las PASO",lanacion,/opinion/columnistas/exclusivo-adelanto-quien-ganara-las-paso-nid2273923,2019-08-03T13:30:12-03:00,2019-08-04T02:30:11-03:00,45,45,"Carlos M. Reymundo Roberts",M
+11000,"La economía y el voto: el gran enigma",pagina12,https://www.pagina12.com.ar/210109-la-economia-y-el-voto-el-gran-enigma,2019-08-03T19:30:14-03:00,2019-08-04T09:30:13-03:00,1775,1775,"Luis Alberto Quevedo",M
+11001,"Recesión o crecimiento",pagina12,https://www.pagina12.com.ar/210093-recesion-o-crecimiento,2019-08-03T22:30:15-03:00,2019-08-04T09:30:13-03:00,603,603,"Carlos Heller",M
+11002,"Frente electoral y coaliciones para gobernar ...",clarin,/opinion/frente-electoral-coaliciones-gobernar-pais_0_s9ydppe8d.html,2019-08-03T23:30:04-03:00,2019-08-04T09:30:03-03:00,37,37,"Ricardo Kirschbaum",M
+11003,"Se aleja el balotaje",clarin,/opinion/aleja-balotaje_0_xUULT-GCa.html,2019-08-03T23:30:04-03:00,2019-08-04T09:30:03-03:00,70,70,"Eduardo van der Kooy",M
+11004,"¿Y para cuándo el fin de la recesión?",clarin,/opinion/fin-recesion_0_xXVXmz6u2.html,2019-08-03T23:30:04-03:00,2019-08-04T09:30:03-03:00,71,71,"Alcadio Oña",M
+11005,"El sueño de una guerra con Irán",pagina12,https://www.pagina12.com.ar/210130-el-sueno-de-una-guerra-con-iran,2019-08-03T23:30:14-03:00,2019-08-04T09:30:13-03:00,464,464,"Sergio Kiernan",M
+11006,"La última semana, la primera votación",pagina12,https://www.pagina12.com.ar/210150-la-ultima-semana-la-primera-votacion,2019-08-04T01:30:13-03:00,2019-08-04T09:30:13-03:00,66,66,"Mario Wainfeld",M
+11007,"Recuerdos del Cine Arte",pagina12,https://www.pagina12.com.ar/210154-recuerdos-del-cine-arte,2019-08-04T01:30:13-03:00,2019-08-04T09:30:13-03:00,2014,2014,"Litto Nebbia",M
+11008,"Estrategias de resistencia",pagina12,https://www.pagina12.com.ar/210153-estrategias-de-resistencia,2019-08-04T01:30:13-03:00,2019-08-04T09:30:13-03:00,2015,2015,"Horacio Banega",M
+11009,"Una cuestión de fe",pagina12,https://www.pagina12.com.ar/209531-una-cuestion-de-fe,2019-08-04T02:30:13-03:00,2019-08-04T04:30:15-03:00,410,410,"Diego Rubinzal",M
+11010,"El asesor secreto de Cristina",pagina12,https://www.pagina12.com.ar/209803-el-asesor-secreto-de-cristina,2019-08-04T02:30:13-03:00,2019-08-04T09:30:13-03:00,470,470,"Hugo Soriani",M
+11011,"Las cosas que nos gustan",pagina12,https://www.pagina12.com.ar/209961-las-cosas-que-nos-gustan,2019-08-04T02:30:13-03:00,2019-08-04T09:30:13-03:00,571,571,"Sandra Russo",F
+11012,"""Hay una oportunidad para salir de donde estamos para estar mejor""",pagina12,https://www.pagina12.com.ar/209981-hay-una-oportunidad-para-salir-de-donde-estamos-para-estar-m,2019-08-04T02:30:13-03:00,2019-08-04T09:30:13-03:00,2016,2016,"Julián Bruschtein",M
+11013,"Macri y Alberto ya se disputan el relato del día después",lanacion,/politica/macri-y-alberto-ya-se-disputan-el-relato-del-dia-despues-nid2274088,2019-08-04T03:30:12-03:00,2019-08-04T08:30:14-03:00,133,133,"Jorge Liotti",M
+11014,"Entre las amenazas K y el silencio M",lanacion,/opinion/entre-las-amenazas-k-y-el-silencio-m-nid2274065,2019-08-04T03:30:12-03:00,2019-08-04T09:30:11-03:00,148,148,"Pablo Sirvén",M
+11015,"Disparates y omisiones en la economía preelectoral",lanacion,/economia/disparates-y-omisiones-en-la-economia-preelectoral174x130mm-nid2273826,2019-08-04T03:30:12-03:00,2019-08-04T09:30:11-03:00,147,147,"Néstor O. Scibona",M
+11016,"Nada es gratarola",lanacion,/opinion/las-palabrasnada-es-gratarola-nid2274050,2019-08-04T03:30:12-03:00,2019-08-04T09:30:11-03:00,673,673,"Graciela Guadalupe",F
+11017,"China, en el laberinto de Hong Kong",clarin,/mundo/china-laberinto-hong-kong_0_cGTJPurw9.html,2019-08-04T06:30:04-03:00,2019-08-04T09:30:03-03:00,50,50,"Marcelo Cantelmi",M
+11018,"Gran Bretaña, en un túnel oscuro",clarin,/opinion/gran-bretana-tunel-oscuro_0_kTQOwAe0X.html,2019-08-04T06:30:04-03:00,2019-08-04T09:30:03-03:00,2017,2017,"Alastair Campbell",M
+11019,"Un simulacro de elección presidencial",clarin,/opinion/simulacro-eleccion-presidencial_0_fIIWTfj7L.html,2019-08-04T06:30:04-03:00,2019-08-04T09:30:03-03:00,1008,1008,"Liliana De Riz",F
+11020,"Ensayo y error: saber rectificarse",clarin,/opinion/ensayo-error-saber-rectificarse_0_dqZKgUV6G.html,2019-08-04T06:30:04-03:00,2019-08-04T09:30:03-03:00,2018,2018,"Norbert Bilbeny",M
+11021,"La campaña electoral y el voto de Lola",clarin,/opinion/campana-electoral-voto-lola_0_B3nkS8ghc.html,2019-08-04T06:30:04-03:00,2019-08-04T09:30:03-03:00,285,285,"Alberto Amato",M
+11022,"Por qué los candidatos se comportan como lo hacen",lanacion,/economia/por-que-los-candidatos-se-comportan-como-lo-hacen-nid2273828,2019-08-04T09:30:11-03:00,2019-08-04T09:30:11-03:00,149,149,"Juan Carlos de Pablo",M
