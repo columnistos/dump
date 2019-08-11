@@ -11406,7 +11406,7 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 11076,"¡Alerta! Témpano a la vista",lanacion,/opinion/alerta-tempano-vista-nid2275325,2019-08-07T23:30:10-03:00,2019-08-08T03:30:09-03:00,2024,2024,"Manuel del Pino",M
 11077,"Todos creen que ganan; ninguno está preparado para la derrota",lanacion,/politica/todos-creen-ganan-ninguno-esta-preparado-derrota-nid2275323,2019-08-08T00:30:11-03:00,2019-08-08T22:30:09-03:00,1856,1856,"Willy Kohan",M
 11078,"El tintorero de Hiroshima",pagina12,https://www.pagina12.com.ar/210654-el-tintorero-de-hiroshima,2019-08-08T01:30:13-03:00,2019-08-09T13:30:14-03:00,1274,1274,"Mario Rapoport",M
-11079,"A Macri no le alcanza un carajo",pagina12,https://www.pagina12.com.ar/210969-a-macri-no-le-alcanza-un-carajo,2019-08-08T01:30:13-03:00,2019-08-10T09:30:15-03:00,657,657,"Martín Granovsky",M
+11079,"A Macri no le alcanza un carajo",pagina12,https://www.pagina12.com.ar/210969-a-macri-no-le-alcanza-un-carajo,2019-08-08T01:30:13-03:00,2019-08-11T00:30:14-03:00,657,657,"Martín Granovsky",M
 11080,"Anticipo de lo que puede venir",clarin,/opinion/anticipo-puede-venir_0_pyK6K_s1z.html,2019-08-08T04:30:04-03:00,2019-08-09T04:30:03-03:00,1,1,"Ricardo Roa",M
 11081,"PASO: Cuando las pasiones se imponen sobre las ...",clarin,/opinion/paso-pasiones-imponen-razones_0_6sMDyIBsT.html,2019-08-08T04:30:04-03:00,2019-08-09T04:30:03-03:00,540,540,"Roberto Gargarella",M
 11082,"Albert Camus vuelve a Buenos Aires",clarin,/opinion/albert-camus-vuelve-buenos-aires_0_lBK3aS7Hb.html,2019-08-08T04:30:04-03:00,2019-08-09T04:30:03-03:00,336,336,"Raquel Garzón",F
@@ -11422,8 +11422,8 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 11092,"La trampa de una campaña electoral",lanacion,/opinion/la-trampa-campana-electoral-nid2275637,2019-08-08T21:30:10-03:00,2019-08-09T02:30:11-03:00,1067,1067,"Javier Correa",M
 11093,"La ética del voto útil",lanacion,/opinion/la-etica-del-voto-util-nid2275733,2019-08-08T23:30:12-03:00,2019-08-09T22:30:11-03:00,2026,2026,"Carlos Manfroni",M
 11094,"Un escenario de oportunidades y desafíos",pagina12,https://www.pagina12.com.ar/211163-un-escenario-de-oportunidades-y-desafios,2019-08-09T01:30:13-03:00,2019-08-10T01:30:13-03:00,2027,2027,"Mariana Caminotti",F
-11095,"Cambiemos que me hiciste mal, y sin embargo...",pagina12,https://www.pagina12.com.ar/210896-cambiemos-que-me-hiciste-mal-y-sin-embargo,2019-08-09T02:30:13-03:00,2019-08-10T09:30:15-03:00,631,631,"Liliana Viola",F
-11096,"Sobre tácticas, mensajes y carajeadas",pagina12,https://www.pagina12.com.ar/211131-sobre-tacticas-mensajes-y-carajeadas,2019-08-09T02:30:13-03:00,2019-08-10T09:30:15-03:00,66,66,"Mario Wainfeld",M
+11095,"Cambiemos que me hiciste mal, y sin embargo...",pagina12,https://www.pagina12.com.ar/210896-cambiemos-que-me-hiciste-mal-y-sin-embargo,2019-08-09T02:30:13-03:00,2019-08-11T00:30:14-03:00,631,631,"Liliana Viola",F
+11096,"Sobre tácticas, mensajes y carajeadas",pagina12,https://www.pagina12.com.ar/211131-sobre-tacticas-mensajes-y-carajeadas,2019-08-09T02:30:13-03:00,2019-08-11T00:30:14-03:00,66,66,"Mario Wainfeld",M
 11097,"La polarización electoral y el voto de los mercados",lanacion,/opinion/la-polarizacion-electoral-voto-mercados-nid2275756,2019-08-09T03:30:13-03:00,2019-08-10T02:30:12-03:00,131,131,"Fernando Laborda",M
 11098,"Macri, Cristina y una grieta que promete eternidad",lanacion,/politica/macri-cristina-grieta-promete-eternidad-nid2275739,2019-08-09T03:30:13-03:00,2019-08-09T21:30:12-03:00,78,78,"Sergio Suppo",M
 11099,"Desmesuras y fantasmas agitados por la desconfianza política",lanacion,/opinion/columnistas/desmesuras-y-fantasmas-agitados-por-la-desconfianza-politica-nid2275679,2019-08-09T03:30:13-03:00,2019-08-10T02:30:12-03:00,16,16,"Sergio Berensztein",M
@@ -11434,17 +11434,35 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 11104,"La grieta nos conduce a la irrelevancia",clarin,/opinion/grieta-conduce-irrelevancia_0_rH-EstQcs.html,2019-08-09T05:30:04-03:00,2019-08-10T04:30:04-03:00,177,177,"Juan Gabriel Tokatlian",M
 11105,"¿Todos juntos unidos?",clarin,/opinion/-juntos-unidos-_0_SfoT0t1ZZ.html,2019-08-09T05:30:04-03:00,2019-08-10T04:30:04-03:00,2028,2028,"Ricardo Talesnik",M
 11106,"El voto del conurbano profundo",lanacion,/opinion/columnistas/el-voto-del-conurbano-profundo-nid2275831,2019-08-09T09:30:11-03:00,2019-08-09T11:30:12-03:00,247,247,"Jorge Ossona",M
-11107,"No es 2015",pagina12,https://www.pagina12.com.ar/211298-no-es-2015,2019-08-09T18:30:13-03:00,2019-08-10T09:30:15-03:00,1293,1293,"Jorge Halperín",M
-11108,"¿Puede Venezuela transformarse en otra Siria?",lanacion,/el-mundo/puede-venezuela-transformarse-otra-siria-nid2276153,2019-08-09T22:30:11-03:00,2019-08-10T09:30:12-03:00,310,310,"Inés Capdevila",F
-11109,"Si los mercados votan, votaron ya por Macri",clarin,/opinion/mercados-votan-votaron-macri_0_Dx5noWFanQ.html,2019-08-09T23:30:03-03:00,2019-08-10T09:30:04-03:00,1,1,"Ricardo Roa",M
+11107,"No es 2015",pagina12,https://www.pagina12.com.ar/211298-no-es-2015,2019-08-09T18:30:13-03:00,2019-08-11T00:30:14-03:00,1293,1293,"Jorge Halperín",M
+11108,"¿Puede Venezuela transformarse en otra Siria?",lanacion,/el-mundo/puede-venezuela-transformarse-otra-siria-nid2276153,2019-08-09T22:30:11-03:00,2019-08-11T03:30:11-03:00,310,310,"Inés Capdevila",F
+11109,"Si los mercados votan, votaron ya por Macri",clarin,/opinion/mercados-votan-votaron-macri_0_Dx5noWFanQ.html,2019-08-09T23:30:03-03:00,2019-08-11T05:30:03-03:00,1,1,"Ricardo Roa",M
 11110,"Las tres claves para poder seguir el escrutinio",lanacion,/politica/las-tres-claves-poder-seguir-escrutinio-nid2276163,2019-08-09T23:30:12-03:00,2019-08-10T02:30:12-03:00,78,78,"Sergio Suppo",M
-11111,"Discurso y realidad",pagina12,https://www.pagina12.com.ar/211128-discurso-y-realidad,2019-08-10T02:30:14-03:00,2019-08-10T09:30:15-03:00,228,228,"Eduardo Jozami",M
-11112,"En el medio del río",pagina12,https://www.pagina12.com.ar/211372-en-el-medio-del-rio,2019-08-10T02:30:14-03:00,2019-08-10T09:30:15-03:00,1940,1940,"Fernando Cibeira",M
-11113,"Detrás de la grieta hay un nudo",lanacion,/economia/detras-de-la-grieta-hay-un-nudo-nid2276045,2019-08-10T03:30:11-03:00,2019-08-10T09:30:12-03:00,46,46,"Francisco Olivera",M
-11114,"Guía práctica para el votante indeciso",lanacion,/opinion/columnistas/guia-practica-para-el-votante-indeciso-nid2276011,2019-08-10T03:30:11-03:00,2019-08-10T09:30:12-03:00,47,47,"Héctor M. Guyot",M
-11115,"La nueva CGT se construye con la mira en la elección presidencial",lanacion,/politica/la-nueva-cgt-se-construye-con-la-mira-en-la-eleccion-presidencial-nid2276047,2019-08-10T03:30:11-03:00,2019-08-10T09:30:12-03:00,112,112,"Nicolás Balinotti",M
-11116,"El autoritarismo y la censura deseada",clarin,/opinion/autoritarismo-censura-deseada_0_DSu0Qhc-0.html,2019-08-10T05:30:04-03:00,2019-08-10T09:30:04-03:00,205,205,"Miguel Wiñazki",M
-11117,"Recalculando: ¿qué es esto de que China devalúe?",clarin,/mundo/recalculando-china-devalue-_0_XzHvpXDGI.html,2019-08-10T05:30:04-03:00,2019-08-10T09:30:04-03:00,50,50,"Marcelo Cantelmi",M
-11118,"Ante todo, no dañar",clarin,/opinion/danar_0_MH0W-D7Ma.html,2019-08-10T05:30:04-03:00,2019-08-10T09:30:04-03:00,1471,1471,"Jorge Tartaglione",M
-11119,"Argentina, Chile y la protección de la ...",clarin,/opinion/argentina-chile-proteccion-peninsula-antartica_0_FUAgTvoIo.html,2019-08-10T05:30:04-03:00,2019-08-10T09:30:04-03:00,668,668,"Mariano Aguas",M
-11120,"Lenguaje y violencia",clarin,/opinion/lenguaje-violencia_0_VAenTgLMS.html,2019-08-10T05:30:04-03:00,2019-08-10T09:30:04-03:00,946,946,"Fabian Bosoer",M
+11111,"Discurso y realidad",pagina12,https://www.pagina12.com.ar/211128-discurso-y-realidad,2019-08-10T02:30:14-03:00,2019-08-10T12:30:14-03:00,228,228,"Eduardo Jozami",M
+11112,"En el medio del río",pagina12,https://www.pagina12.com.ar/211372-en-el-medio-del-rio,2019-08-10T02:30:14-03:00,2019-08-11T09:30:14-03:00,1940,1940,"Fernando Cibeira",M
+11113,"Detrás de la grieta hay un nudo",lanacion,/economia/detras-de-la-grieta-hay-un-nudo-nid2276045,2019-08-10T03:30:11-03:00,2019-08-11T03:30:11-03:00,46,46,"Francisco Olivera",M
+11114,"Guía práctica para el votante indeciso",lanacion,/opinion/columnistas/guia-practica-para-el-votante-indeciso-nid2276011,2019-08-10T03:30:11-03:00,2019-08-11T03:30:11-03:00,47,47,"Héctor M. Guyot",M
+11115,"La nueva CGT se construye con la mira en la elección presidencial",lanacion,/politica/la-nueva-cgt-se-construye-con-la-mira-en-la-eleccion-presidencial-nid2276047,2019-08-10T03:30:11-03:00,2019-08-10T12:30:11-03:00,112,112,"Nicolás Balinotti",M
+11116,"El autoritarismo y la censura deseada",clarin,/opinion/autoritarismo-censura-deseada_0_DSu0Qhc-0.html,2019-08-10T05:30:04-03:00,2019-08-11T05:30:03-03:00,205,205,"Miguel Wiñazki",M
+11117,"Recalculando: ¿qué es esto de que China devalúe?",clarin,/mundo/recalculando-china-devalue-_0_XzHvpXDGI.html,2019-08-10T05:30:04-03:00,2019-08-11T05:30:03-03:00,50,50,"Marcelo Cantelmi",M
+11118,"Ante todo, no dañar",clarin,/opinion/danar_0_MH0W-D7Ma.html,2019-08-10T05:30:04-03:00,2019-08-11T05:30:03-03:00,1471,1471,"Jorge Tartaglione",M
+11119,"Argentina, Chile y la protección de la ...",clarin,/opinion/argentina-chile-proteccion-peninsula-antartica_0_FUAgTvoIo.html,2019-08-10T05:30:04-03:00,2019-08-11T05:30:03-03:00,668,668,"Mariano Aguas",M
+11120,"Lenguaje y violencia",clarin,/opinion/lenguaje-violencia_0_VAenTgLMS.html,2019-08-10T05:30:04-03:00,2019-08-11T05:30:03-03:00,946,946,"Fabian Bosoer",M
+11121,"Terminó el calvario: ya no soy un indeciso",lanacion,/opinion/columnistas/termino-el-calvario-ya-no-soy-un-indeciso-nid2276127,2019-08-10T13:30:12-03:00,2019-08-11T03:30:11-03:00,45,45,"Carlos M. Reymundo Roberts",M
+11122,"Domingo de clases",pagina12,https://www.pagina12.com.ar/211425-domingo-de-clases,2019-08-10T13:30:15-03:00,2019-08-11T00:30:14-03:00,265,265,"Marcelo Rudaeff (Rudy)",M
+11123,"Sandra, la tarefera",pagina12,https://www.pagina12.com.ar/211417-sandra-la-tarefera,2019-08-10T13:30:15-03:00,2019-08-10T16:30:14-03:00,243,243,"Mariana Carbajal",F
+11124,"La “buena campaña” del oficialismo",pagina12,https://www.pagina12.com.ar/211454-la-buena-campana-del-oficialismo,2019-08-10T19:30:14-03:00,2019-08-11T09:30:14-03:00,64,64,"Edgardo Mocca",M
+11125,"La economía y el dólar, pendientes del resultado de las PASO",clarin,/opinion/hagan-juego-apuestas-mercado_0_T00BZwZqR.html,2019-08-11T00:30:04-03:00,2019-08-11T07:30:04-03:00,71,71,"Alcadio Oña",M
+11126,"Lo peor no pasó",pagina12,https://www.pagina12.com.ar/211478-lo-peor-no-paso,2019-08-11T00:30:14-03:00,2019-08-11T09:30:14-03:00,603,603,"Carlos Heller",M
+11127,"Bolsonaro destruye la Amazonia",pagina12,https://www.pagina12.com.ar/211445-bolsonaro-destruye-la-amazonia,2019-08-11T00:30:14-03:00,2019-08-11T09:30:14-03:00,65,65,"Eric Nepomuceno",M
+11128,"Las prioridades de la economía macrista",pagina12,https://www.pagina12.com.ar/211328-como-se-altero-el-orden-de-prioridades-de-la-economia,2019-08-11T01:30:14-03:00,2019-08-11T09:30:14-03:00,141,141,"David Cufré",M
+11129,"Los números que miran Fernández y Macri ante la batalla más incierta",lanacion,/politica/los-numeros-que-miran-fernandez-y-macri-ante-la-batalla-mas-incierta-nid2276272,2019-08-11T04:30:14-03:00,2019-08-11T09:30:12-03:00,111,111,"Martín Rodríguez Yebra",M
+11130,"Cuando Perón fue vice y se quedó con todo",lanacion,/opinion/cuando-peron-fue-vice-y-se-quedo-con-todo-nid2276331,2019-08-11T04:30:14-03:00,2019-08-11T09:30:12-03:00,148,148,"Pablo Sirvén",M
+11131,"Monedas en el aire entre dos concepciones de país",lanacion,/economia/monedas-en-el-aire-entre-dos-concepciones-de-pais-nid2276059,2019-08-11T04:30:14-03:00,2019-08-11T09:30:12-03:00,147,147,"Néstor O. Scibona",M
+11132,"El voto, ese papelito",lanacion,/opinion/las-palabrasel-voto-ese-papelito-nid2276288,2019-08-11T04:30:14-03:00,2019-08-11T09:30:12-03:00,673,673,"Graciela Guadalupe",F
+11133,"Hoy gana [Filmus] Lammens",clarin,/opinion/hoy-gana-filmus-lammens_0_uElqLzRn9.html,2019-08-11T06:30:04-03:00,2019-08-11T09:30:03-03:00,144,144,"Alejandro Borensztein",M
+11134,"Pugna de dos líderes en crisis",clarin,/opinion/pugna-lideres-crisis_0_QFhAMnMEW.html,2019-08-11T06:30:04-03:00,2019-08-11T09:30:03-03:00,70,70,"Eduardo van der Kooy",M
+11135,"Elecciones que de primarias no tienen nada",clarin,/opinion/elecciones-primarias_0_398Ms44DT.html,2019-08-11T06:30:04-03:00,2019-08-11T09:30:03-03:00,37,37,"Ricardo Kirschbaum",M
+11136,"Entrañables rutinas cotidianas",clarin,/opinion/entranables-rutinas-cotidianas_0_0YqLWbbDo.html,2019-08-11T06:30:04-03:00,2019-08-11T09:30:03-03:00,49,49,"Silvia Fesquet",F
+11137,"Hay que optar",clarin,/opinion/optar_0_dKW_Byl-Z.html,2019-08-11T06:30:04-03:00,2019-08-11T09:30:03-03:00,145,145,"Rodolfo Terragno",M
+11138,"Una oportunidad para celebrar a los maestros",clarin,/opinion/oportunidad-celebrar-maestros_0_ySpCItmic.html,2019-08-11T06:30:04-03:00,2019-08-11T09:30:03-03:00,1432,1432,"Agustín Porres",M
