@@ -11572,7 +11572,7 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 11242,"Rosita y Patricia",pagina12,https://www.pagina12.com.ar/212601-rosita-y-patricia,2019-08-15T22:30:13-03:00,2019-08-17T00:30:12-03:00,53,53,"Gustavo Veiga",M
 11243,"Macri-Fernández, el pacto del miedo",lanacion,/politica/macri-fernandez-pacto-del-miedo-nid2277813,2019-08-15T23:30:10-03:00,2019-08-16T09:30:10-03:00,111,111,"Martín Rodríguez Yebra",M
 11244,"Intrigas en la Casa Rosada y pases de factura en la City por el “lunes negro”",clarin,/opinion/intrigas-casa-rosada-pases-factura-city-lunes-negro_0_jnggAIsh5.html,2019-08-16T00:30:04-03:00,2019-08-17T04:30:04-03:00,38,38,"Marcelo Bonelli",M
-11245,"Los culpables",pagina12,https://www.pagina12.com.ar/212320-los-culpables,2019-08-16T00:30:13-03:00,2019-08-18T09:30:11-03:00,158,158,"Horacio González",M
+11245,"Los culpables",pagina12,https://www.pagina12.com.ar/212320-los-culpables,2019-08-16T00:30:13-03:00,2019-08-18T23:30:13-03:00,158,158,"Horacio González",M
 11246,"La distribución de la tristeza",pagina12,https://www.pagina12.com.ar/212278-la-distribucion-de-la-tristeza,2019-08-16T00:30:13-03:00,2019-08-16T09:30:13-03:00,2036,2036,"Camila Baron Missbeiron",F
 11247,"El error mortal de votar sin elegir",lanacion,/politica/el-error-mortal-votar-sin-elegir-nid2278032,2019-08-16T03:30:11-03:00,2019-08-17T00:30:09-03:00,78,78,"Sergio Suppo",M
 11248,"La crisis y una oportunidad para la Argentina",lanacion,/opinion/la-crisis-oportunidad-argentina-nid2278090,2019-08-16T03:30:11-03:00,2019-08-17T02:30:11-03:00,131,131,"Fernando Laborda",M
@@ -11599,19 +11599,36 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 11269,"Alberto, Cristina, San Martín y la Argentina ...",clarin,/opinion/alberto-cristina-san-martin-argentina-incierta_0__sIGsLJxU.html,2019-08-17T07:30:04-03:00,2019-08-18T03:30:05-03:00,205,205,"Miguel Wiñazki",M
 11270,"Los amigos del campeón",lanacion,/economia/los-amigos-del-campeon-nid2278410,2019-08-17T12:30:10-03:00,2019-08-18T02:30:09-03:00,46,46,"Francisco Olivera",M
 11271,"China y EEUU, ¿rivales o enemigos?",pagina12,https://www.pagina12.com.ar/212901-china-y-eeuu-rivales-o-enemigos,2019-08-17T18:30:12-03:00,2019-08-18T00:30:11-03:00,796,796,"Andrés Ferrari Haines",M
-11272,"El odio entre nosotros",pagina12,https://www.pagina12.com.ar/212907-el-odio-entre-nosotros,2019-08-17T21:30:13-03:00,2019-08-18T09:30:11-03:00,180,180,"Soledad Vallejos",F
-11273,"Panorama económico: Para que Macri entienda",pagina12,https://www.pagina12.com.ar/212803-para-que-macri-entienda,2019-08-18T01:30:12-03:00,2019-08-18T09:30:11-03:00,141,141,"David Cufré",M
-11274,"Los cuentos fantásticos y anticapitalistas de China Miéville",pagina12,https://www.pagina12.com.ar/211886-los-cuentos-fantasticos-y-anticapitalistas-de-china-mieville,2019-08-18T01:30:12-03:00,2019-08-18T09:30:11-03:00,401,401,"Mariana Enriquez",F
-11275,"Es la herencia (macrista)",pagina12,https://www.pagina12.com.ar/212810-es-la-herencia-macrista,2019-08-18T01:30:12-03:00,2019-08-18T09:30:11-03:00,603,603,"Carlos Heller",M
-11276,"Un plebiscito cocinado a fuego lento",pagina12,https://www.pagina12.com.ar/212927-un-plebiscito-cocinado-a-fuego-lento,2019-08-18T02:30:11-03:00,2019-08-18T09:30:11-03:00,66,66,"Mario Wainfeld",M
-11277,"Dilemas de un cuarto gobierno kirchnerista",lanacion,/opinion/dilemas-cuarto-gobierno-kirchnerista-nid2278700,2019-08-18T03:30:11-03:00,2019-08-18T08:30:10-03:00,146,146,"Jorge Fernández Díaz",M
-11278,"Macri, de las horas más oscuras al pacto de gobernabilidad con Alberto Fernández",lanacion,/politica/columnista-5x1-cpo32reublie-cemsner-lopsretsmacri-de-las-horas-mas-oscuras-al-pacto-de-gobernabilidad-con-alberto-fernandez-nid2278656,2019-08-18T03:30:11-03:00,2019-08-18T09:30:09-03:00,133,133,"Jorge Liotti",M
-11279,"Manotearon la heladera",lanacion,/opinion/columnistas/las-palabrasmanotearon-la-heladera-nid2278662,2019-08-18T03:30:11-03:00,2019-08-18T09:30:09-03:00,673,673,"Graciela Guadalupe",F
-11280,"El karma de gobernar sin ser peronista",lanacion,/opinion/el-karma-de-gobernar-sin-ser-peronista-nid2278667,2019-08-18T03:30:11-03:00,2019-08-18T09:30:09-03:00,148,148,"Pablo Sirvén",M
-11281,"El impacto de los votos obliga a Mauricio ...",clarin,/opinion/impacto-votos-obliga-macri-sacrificio_0_QKY_i1oj2.html,2019-08-18T04:30:04-03:00,2019-08-18T09:30:03-03:00,37,37,"Ricardo Kirschbaum",M
-11282,"Sobre una cornisa",clarin,/opinion/cornisa_0_ttQ8R16nD.html,2019-08-18T04:30:04-03:00,2019-08-18T09:30:03-03:00,70,70,"Eduardo van der Kooy",M
-11283,"Alberto F. también es parte del problema",clarin,/opinion/alberto-f-parte-problema_0_Q_Hg_-6wz.html,2019-08-18T04:30:04-03:00,2019-08-18T09:30:03-03:00,71,71,"Alcadio Oña",M
-11284,"El país, ante una encrucijada",clarin,/opinion/pais-encrucijada_0_nWfJD2Vi8.html,2019-08-18T04:30:04-03:00,2019-08-18T09:30:03-03:00,211,211,"Ricardo Arriazu",M
-11285,"No menosprecien a los que no queremos correr",clarin,/opinion/menosprecien-queremos-correr_0_A6BNrXsGF.html,2019-08-18T04:30:04-03:00,2019-08-18T09:30:03-03:00,2039,2039,"Núria Escur",F
-11286,"El diálogo como pilar de la convivencia",clarin,/opinion/dialogo-pilar-convivencia_0_lzf_dpYqF.html,2019-08-18T04:30:04-03:00,2019-08-18T09:30:03-03:00,285,285,"Alberto Amato",M
-11287,"Mauricio Macri. Del shock electoral al tembladeral económico y político",lanacion,/politica/mauricio-macri-del-shock-electoral-al-tembladeral-economico-y-politico-nid2278643,2019-08-18T09:30:09-03:00,2019-08-18T09:30:09-03:00,2040,2040,"Maia Jastreblansky",F
+11272,"El odio entre nosotros",pagina12,https://www.pagina12.com.ar/212907-el-odio-entre-nosotros,2019-08-17T21:30:13-03:00,2019-08-18T23:30:13-03:00,180,180,"Soledad Vallejos",F
+11273,"Panorama económico: Para que Macri entienda",pagina12,https://www.pagina12.com.ar/212803-para-que-macri-entienda,2019-08-18T01:30:12-03:00,2019-08-18T23:30:13-03:00,141,141,"David Cufré",M
+11274,"Los cuentos fantásticos y anticapitalistas de China Miéville",pagina12,https://www.pagina12.com.ar/211886-los-cuentos-fantasticos-y-anticapitalistas-de-china-mieville,2019-08-18T01:30:12-03:00,2019-08-18T17:30:13-03:00,401,401,"Mariana Enriquez",F
+11275,"Es la herencia (macrista)",pagina12,https://www.pagina12.com.ar/212810-es-la-herencia-macrista,2019-08-18T01:30:12-03:00,2019-08-19T09:30:13-03:00,603,603,"Carlos Heller",M
+11276,"Un plebiscito cocinado a fuego lento",pagina12,https://www.pagina12.com.ar/212927-un-plebiscito-cocinado-a-fuego-lento,2019-08-18T02:30:11-03:00,2019-08-19T09:30:13-03:00,66,66,"Mario Wainfeld",M
+11277,"Dilemas de un cuarto gobierno kirchnerista",lanacion,/opinion/dilemas-cuarto-gobierno-kirchnerista-nid2278700,2019-08-18T03:30:11-03:00,2019-08-19T09:30:11-03:00,146,146,"Jorge Fernández Díaz",M
+11278,"Macri, de las horas más oscuras al pacto de gobernabilidad con Alberto Fernández",lanacion,/politica/columnista-5x1-cpo32reublie-cemsner-lopsretsmacri-de-las-horas-mas-oscuras-al-pacto-de-gobernabilidad-con-alberto-fernandez-nid2278656,2019-08-18T03:30:11-03:00,2019-08-18T18:30:09-03:00,133,133,"Jorge Liotti",M
+11279,"Manotearon la heladera",lanacion,/opinion/columnistas/las-palabrasmanotearon-la-heladera-nid2278662,2019-08-18T03:30:11-03:00,2019-08-18T14:30:10-03:00,673,673,"Graciela Guadalupe",F
+11280,"El karma de gobernar sin ser peronista",lanacion,/opinion/el-karma-de-gobernar-sin-ser-peronista-nid2278667,2019-08-18T03:30:11-03:00,2019-08-18T13:30:09-03:00,148,148,"Pablo Sirvén",M
+11281,"El impacto de los votos obliga a Mauricio ...",clarin,/opinion/impacto-votos-obliga-macri-sacrificio_0_QKY_i1oj2.html,2019-08-18T04:30:04-03:00,2019-08-19T03:30:04-03:00,37,37,"Ricardo Kirschbaum",M
+11282,"Sobre una cornisa",clarin,/opinion/cornisa_0_ttQ8R16nD.html,2019-08-18T04:30:04-03:00,2019-08-19T03:30:04-03:00,70,70,"Eduardo van der Kooy",M
+11283,"Alberto F. también es parte del problema",clarin,/opinion/alberto-f-parte-problema_0_Q_Hg_-6wz.html,2019-08-18T04:30:04-03:00,2019-08-19T03:30:04-03:00,71,71,"Alcadio Oña",M
+11284,"El país, ante una encrucijada",clarin,/opinion/pais-encrucijada_0_nWfJD2Vi8.html,2019-08-18T04:30:04-03:00,2019-08-19T03:30:04-03:00,211,211,"Ricardo Arriazu",M
+11285,"No menosprecien a los que no queremos correr",clarin,/opinion/menosprecien-queremos-correr_0_A6BNrXsGF.html,2019-08-18T04:30:04-03:00,2019-08-19T03:30:04-03:00,2039,2039,"Núria Escur",F
+11286,"El diálogo como pilar de la convivencia",clarin,/opinion/dialogo-pilar-convivencia_0_lzf_dpYqF.html,2019-08-18T04:30:04-03:00,2019-08-19T03:30:04-03:00,285,285,"Alberto Amato",M
+11287,"Mauricio Macri. Del shock electoral al tembladeral económico y político",lanacion,/politica/mauricio-macri-del-shock-electoral-al-tembladeral-economico-y-politico-nid2278643,2019-08-18T09:30:09-03:00,2019-08-18T13:30:09-03:00,2040,2040,"Maia Jastreblansky",F
+11288,"Elecciones que se resuelven entre lágrimas",lanacion,/opinion/elecciones-se-resuelven-lagrimas-nid2278701,2019-08-18T12:30:10-03:00,2019-08-19T03:30:12-03:00,93,93,"Joaquín Morales Solá",M
+11289,"Las señales necesarias para calmar las aguas",lanacion,/economia/las-senales-necesarias-para-calmar-las-aguas-nid2278470,2019-08-18T14:30:10-03:00,2019-08-19T03:30:12-03:00,2041,2041,"Marcos Buscaglia",M
+11290,"Diseñar políticas en tiempos de cambios vertiginosos",lanacion,/economia/disenar-politicas-tiempos-cambios-vertiginosos-nid2278509,2019-08-18T15:30:10-03:00,2019-08-19T03:30:12-03:00,149,149,"Juan Carlos de Pablo",M
+11291,"El sujeto libre se adueñó de la historia",pagina12,https://www.pagina12.com.ar/212936-el-sujeto-libre-se-adueno-de-la-historia,2019-08-18T18:30:12-03:00,2019-08-19T09:30:13-03:00,429,429,"José Pablo Feinmann",M
+11292,"Fallo necesario, pero no suficiente",pagina12,https://www.pagina12.com.ar/213089-fallo-necesario-pero-no-suficiente,2019-08-18T19:30:12-03:00,2019-08-19T09:30:13-03:00,968,968,"Mariano Lovelli",M
+11293,"Acerca del neoliberalismo",pagina12,https://www.pagina12.com.ar/213137-acerca-del-neoliberalismo,2019-08-18T21:30:12-03:00,2019-08-19T09:30:13-03:00,82,82,"Mempo Giardinelli",M
+11294,"Las aplicaciones de los celosos",pagina12,https://www.pagina12.com.ar/213135-las-aplicaciones-de-los-celosos,2019-08-18T21:30:12-03:00,2019-08-19T09:30:13-03:00,1893,1893,"Martín Smud",M
+11295,"Otra vez contra el muro del default",pagina12,https://www.pagina12.com.ar/212919-otra-vez-contra-el-muro-del-default,2019-08-19T00:30:13-03:00,2019-08-19T09:30:13-03:00,154,154,"Alfredo Zaiat",M
+11296,"Entre debacle y esperanza",pagina12,https://www.pagina12.com.ar/213158-entre-debacle-y-esperanza,2019-08-19T00:30:13-03:00,2019-08-19T09:30:13-03:00,83,83,"Eduardo Aliverti",M
+11297,"Cuando se enciende la luz en el cuarto oscuro",clarin,/opinion/enciende-luz-cuarto-oscuro_0_JcYa3rmtC.html,2019-08-19T04:30:03-03:00,2019-08-19T09:30:05-03:00,49,49,"Silvia Fesquet",F
+11298,"Los últimos minutos de Dujovne, Lacunza y una ...",clarin,/politica/ultimo-minutos-dujovne-llegada-lacunza-pasantia-titanic_0_0J0HayzcR.html,2019-08-19T04:30:03-03:00,2019-08-19T09:30:05-03:00,166,166,"Ignacio Zuleta",M
+11299,"No basta con tener estadísticas veraces: ...",clarin,/opinion/basta-tener-estadisticas-veraces-usarlas_0_0o5r0eXq8.html,2019-08-19T04:30:03-03:00,2019-08-19T09:30:05-03:00,1942,1942,"Víctor A. Beker",M
+11300,"El mundo del próximo gobierno",clarin,/opinion/mundo-proximo-gobierno_0_8Ae8jb3Dk.html,2019-08-19T04:30:03-03:00,2019-08-19T09:30:05-03:00,615,615,"Mariano Turzi",M
+11301,"¿Qué tan éticos somos los argentinos?",clarin,/opinion/-eticos-argentinos-_0_hnuwPRG-c.html,2019-08-19T04:30:03-03:00,2019-08-19T09:30:05-03:00,1034,1034,"Carlos Rozen",M
+11302,"Un reclamo absurdo e improcedente",lanacion,/opinion/columnistas/un-reclamo-absurdo-e-improcedente-nid2278823,2019-08-19T04:30:10-03:00,2019-08-19T09:30:11-03:00,269,269,"Félix Lonigro",M
+11303,"Milagros y milagritos",lanacion,/opinion/catalejo-nid2278749,2019-08-19T04:30:10-03:00,2019-08-19T09:30:11-03:00,45,45,"Carlos M. Reymundo Roberts",M
+11304,"Los vecinos insomnes de Ava",lanacion,/opinion/miradas/los-vecinos-insomnes-de-ava-nid2278751,2019-08-19T04:30:10-03:00,2019-08-19T09:30:11-03:00,1201,1201,"Hugo Beccacece",M
