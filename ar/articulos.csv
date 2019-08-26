@@ -11722,21 +11722,40 @@ id,title,site,url,added,last_seen,author_id,id,author,gender
 11392,"Lo verdadero y lo falso del señor Alberto",lanacion,/opinion/columnistas/lo-verdadero-y-lo-falso-del-senor-alberto-nid2280554,2019-08-24T12:30:09-03:00,2019-08-25T02:30:11-03:00,45,45,"Carlos M. Reymundo Roberts",M
 11393,"Morir en campaña",pagina12,https://www.pagina12.com.ar/214219-morir-en-campana,2019-08-24T13:30:12-03:00,2019-08-24T16:30:13-03:00,2053,2053,"Marianela Nappi, Tomás Crespo",F
 11394,"Lo que pasa en la selva no queda en la selva",clarin,/mundo/pasa-selva-queda-selva_0_1N6YYmlDU.html,2019-08-24T17:30:04-03:00,2019-08-25T02:30:04-03:00,2054,2054,"Silvina Heguy",F
-11395,"Conspiración y corrupción: una hipótesis probable",pagina12,https://www.pagina12.com.ar/214262-conspiracion-y-corrupcion-una-hipotesis-probable,2019-08-24T19:30:13-03:00,2019-08-25T09:30:12-03:00,2055,2055,"José Luís Fiori* y William Nozak",+
-11396,"El giro al centro, recurso electoral que suma poder",clarin,/opinion/giro-centro-recurso-electoral-suma-poder_0_zH1t_ymY7.html,2019-08-24T23:30:04-03:00,2019-08-25T09:30:04-03:00,37,37,"Ricardo Kirschbaum",M
-11397,"Los planes de Alberto Fernández",clarin,/opinion/planes_0_iw81sJXFn.html,2019-08-24T23:30:04-03:00,2019-08-25T09:30:04-03:00,70,70,"Eduardo van der Kooy",M
-11398,"Bolsonaro y Macri, abrasados",pagina12,https://www.pagina12.com.ar/214289-bolsonaro-y-macri-abrasados,2019-08-24T23:30:12-03:00,2019-08-25T09:30:12-03:00,657,657,"Martín Granovsky",M
-11399,Ficciones,pagina12,https://www.pagina12.com.ar/214306-ficciones,2019-08-25T01:30:13-03:00,2019-08-25T09:30:12-03:00,603,603,"Carlos Heller",M
-11400,"Bolsonaro, el destrozador",pagina12,https://www.pagina12.com.ar/214274-bolsonaro-el-destrozador,2019-08-25T01:30:13-03:00,2019-08-25T09:30:12-03:00,65,65,"Eric Nepomuceno",M
-11401,"Hombre muerto, mundo en llamas",pagina12,https://www.pagina12.com.ar/214149-hombre-muerto-mundo-en-llamas,2019-08-25T01:30:13-03:00,2019-08-25T09:30:12-03:00,140,140,"Luis Bruschtein",M
-11402,"¿Qué quiere decir “terminar con la grieta”?",pagina12,https://www.pagina12.com.ar/214305-que-quiere-decir-terminar-con-la-grieta,2019-08-25T01:30:13-03:00,2019-08-25T09:30:12-03:00,64,64,"Edgardo Mocca",M
-11403,"Una oportunidad enorme",pagina12,https://www.pagina12.com.ar/214303-una-oportunidad-enorme,2019-08-25T01:30:13-03:00,2019-08-25T09:30:12-03:00,1435,1435,"Graciela Morgade",F
-11404,"Morir en campaña",pagina12,https://www.pagina12.com.ar/214219-morir-en-campana,2019-08-25T01:30:13-03:00,2019-08-25T09:30:12-03:00,2056,2056,"Marianela Nappi, Tomás Crespo, Mercedes Calzado",F
-11405,"Inflación, dólar, FMI: todo en el límite",clarin,/opinion/inflacion-dolar-fmi-limite_0_wrc5qqv78.html,2019-08-25T03:30:03-03:00,2019-08-25T09:30:04-03:00,71,71,"Alcadio Oña",M
-11406,"Del rojo vivo a la derrota",clarin,/opinion/rojo-vivo-derrota_0_58w6DSbjZ.html,2019-08-25T03:30:03-03:00,2019-08-25T09:30:04-03:00,304,304,"Natalio Botana",M
-11407,"El psicoanálisis, interpelado",clarin,/opinion/psicoanalisis-interpelado_0_cimF4PQ_d.html,2019-08-25T03:30:03-03:00,2019-08-25T09:30:04-03:00,2057,2057,"Hugo Lerner",M
-11408,"El designio de Martín",clarin,/opinion/designio-martin_0_jf7jEJ0zB.html,2019-08-25T03:30:03-03:00,2019-08-25T09:30:04-03:00,49,49,"Silvia Fesquet",F
-11409,"Recuperar la autoestima republicana",lanacion,/opinion/columnistas/recuperar-autoestima-republicana-nid2281201,2019-08-25T03:30:09-03:00,2019-08-25T08:30:10-03:00,146,146,"Jorge Fernández Díaz",M
-11410,"Tensas batallas por el poder simbólico",lanacion,/opinion/tensas-batallas-por-el-poder-simbolico-nid2281240,2019-08-25T03:30:09-03:00,2019-08-25T09:30:10-03:00,148,148,"Pablo Sirvén",M
-11411,"Alberto Fernández, de Cristina a Kristalina",lanacion,/politica/alberto-fernandez-de-cristina-a-kristalina-nid2281213,2019-08-25T03:30:09-03:00,2019-08-25T09:30:10-03:00,230,230,"Damián Nabot",M
-11412,"Voto más que oculto",lanacion,/opinion/voto-mas-que-oculto-nid2281233,2019-08-25T03:30:09-03:00,2019-08-25T09:30:10-03:00,673,673,"Graciela Guadalupe",F
+11395,"Conspiración y corrupción: una hipótesis probable",pagina12,https://www.pagina12.com.ar/214262-conspiracion-y-corrupcion-una-hipotesis-probable,2019-08-24T19:30:13-03:00,2019-08-25T16:30:14-03:00,2055,2055,"José Luís Fiori* y William Nozak",+
+11396,"El giro al centro, recurso electoral que suma poder",clarin,/opinion/giro-centro-recurso-electoral-suma-poder_0_zH1t_ymY7.html,2019-08-24T23:30:04-03:00,2019-08-26T03:30:04-03:00,37,37,"Ricardo Kirschbaum",M
+11397,"Los planes de Alberto Fernández",clarin,/opinion/planes_0_iw81sJXFn.html,2019-08-24T23:30:04-03:00,2019-08-26T03:30:04-03:00,70,70,"Eduardo van der Kooy",M
+11398,"Bolsonaro y Macri, abrasados",pagina12,https://www.pagina12.com.ar/214289-bolsonaro-y-macri-abrasados,2019-08-24T23:30:12-03:00,2019-08-25T20:30:13-03:00,657,657,"Martín Granovsky",M
+11399,Ficciones,pagina12,https://www.pagina12.com.ar/214306-ficciones,2019-08-25T01:30:13-03:00,2019-08-26T09:30:12-03:00,603,603,"Carlos Heller",M
+11400,"Bolsonaro, el destrozador",pagina12,https://www.pagina12.com.ar/214274-bolsonaro-el-destrozador,2019-08-25T01:30:13-03:00,2019-08-26T09:30:12-03:00,65,65,"Eric Nepomuceno",M
+11401,"Hombre muerto, mundo en llamas",pagina12,https://www.pagina12.com.ar/214149-hombre-muerto-mundo-en-llamas,2019-08-25T01:30:13-03:00,2019-08-26T09:30:12-03:00,140,140,"Luis Bruschtein",M
+11402,"¿Qué quiere decir “terminar con la grieta”?",pagina12,https://www.pagina12.com.ar/214305-que-quiere-decir-terminar-con-la-grieta,2019-08-25T01:30:13-03:00,2019-08-26T09:30:12-03:00,64,64,"Edgardo Mocca",M
+11403,"Una oportunidad enorme",pagina12,https://www.pagina12.com.ar/214303-una-oportunidad-enorme,2019-08-25T01:30:13-03:00,2019-08-25T23:30:13-03:00,1435,1435,"Graciela Morgade",F
+11404,"Morir en campaña",pagina12,https://www.pagina12.com.ar/214219-morir-en-campana,2019-08-25T01:30:13-03:00,2019-08-25T17:30:15-03:00,2056,2056,"Marianela Nappi, Tomás Crespo, Mercedes Calzado",F
+11405,"Inflación, dólar, FMI: todo en el límite",clarin,/opinion/inflacion-dolar-fmi-limite_0_wrc5qqv78.html,2019-08-25T03:30:03-03:00,2019-08-26T03:30:04-03:00,71,71,"Alcadio Oña",M
+11406,"Del rojo vivo a la derrota",clarin,/opinion/rojo-vivo-derrota_0_58w6DSbjZ.html,2019-08-25T03:30:03-03:00,2019-08-26T03:30:04-03:00,304,304,"Natalio Botana",M
+11407,"El psicoanálisis, interpelado",clarin,/opinion/psicoanalisis-interpelado_0_cimF4PQ_d.html,2019-08-25T03:30:03-03:00,2019-08-26T03:30:04-03:00,2057,2057,"Hugo Lerner",M
+11408,"El designio de Martín",clarin,/opinion/designio-martin_0_jf7jEJ0zB.html,2019-08-25T03:30:03-03:00,2019-08-26T03:30:04-03:00,49,49,"Silvia Fesquet",F
+11409,"Recuperar la autoestima republicana",lanacion,/opinion/columnistas/recuperar-autoestima-republicana-nid2281201,2019-08-25T03:30:09-03:00,2019-08-26T03:30:10-03:00,146,146,"Jorge Fernández Díaz",M
+11410,"Tensas batallas por el poder simbólico",lanacion,/opinion/tensas-batallas-por-el-poder-simbolico-nid2281240,2019-08-25T03:30:09-03:00,2019-08-26T03:30:10-03:00,148,148,"Pablo Sirvén",M
+11411,"Alberto Fernández, de Cristina a Kristalina",lanacion,/politica/alberto-fernandez-de-cristina-a-kristalina-nid2281213,2019-08-25T03:30:09-03:00,2019-08-25T18:30:10-03:00,230,230,"Damián Nabot",M
+11412,"Voto más que oculto",lanacion,/opinion/voto-mas-que-oculto-nid2281233,2019-08-25T03:30:09-03:00,2019-08-26T03:30:10-03:00,673,673,"Graciela Guadalupe",F
+11413,"¡Nuestra casa se prende fuego!",lanacion,/opinion/nuestra-casa-se-prende-fuego-nid2281305,2019-08-25T11:30:10-03:00,2019-08-25T11:30:10-03:00,1171,1171,"Ernesto Martelli",M
+11414,"Inversores en tiempos críticos: las claves para gestionar los ahorros",lanacion,/economia/minversores-en-tiempos-criticos-las-claves-para-gestionar-los-ahorrosetiquetacendre-dionse-magna-acipit-venim-ipis-adipiscinimcuanto-sale-una-cafesegun-el-pais-en-dondelo-tomescuanto-sale-una-cafesegun-el-pais-en-dondelo-tomes-nid2280536,2019-08-25T12:30:10-03:00,2019-08-26T03:30:10-03:00,1797,1797,"Claudio Zuchovicki",M
+11415,"La parábola que une a ministros macristas",lanacion,/opinion/miradas/la-parabola-une-ministros-macristas-nid2280617,2019-08-25T19:30:11-03:00,2019-08-25T19:30:11-03:00,96,96,"Claudio Jacquelin",M
+11416,"La invisibilidad de lo “metropolitano”",pagina12,https://www.pagina12.com.ar/214414-la-invisibilidad-de-lo-metropolitano,2019-08-25T19:30:14-03:00,2019-08-25T21:30:14-03:00,664,664,"Alejandro López Accotto, Carlos Martínez, Martín Mangas y Ricardo Paparas",+
+11417,"¿Qué hacer con el Fondo?",pagina12,https://www.pagina12.com.ar/214411-que-hacer-con-el-fondo,2019-08-25T21:30:14-03:00,2019-08-26T09:30:12-03:00,2058,2058,"Nicolás Segal y José Fernández Alonso",+
+11418,"El oratorio del aguafiestas",pagina12,https://www.pagina12.com.ar/214230-el-oratorio-del-aguafiestas,2019-08-26T00:30:12-03:00,2019-08-26T09:30:12-03:00,1304,1304,"Guillermo Saccomanno",M
+11419,"El hambre",pagina12,https://www.pagina12.com.ar/214431-el-hambre,2019-08-26T00:30:12-03:00,2019-08-26T09:30:12-03:00,83,83,"Eduardo Aliverti",M
+11420,"Tiempos de prudencia y cintura",pagina12,https://www.pagina12.com.ar/214425-tiempos-de-prudencia-y-cintura,2019-08-26T00:30:12-03:00,2019-08-26T09:30:12-03:00,82,82,"Mempo Giardinelli",M
+11421,"¿Qué hacer con el Fondo?",pagina12,https://www.pagina12.com.ar/214411-que-hacer-con-el-fondo,2019-08-26T01:30:13-03:00,2019-08-26T09:30:12-03:00,1021,1021,"Nicolás Segal",M
+11422,"¿A quién le calienta el calentamiento global?",clarin,/opinion/-calienta-calentamiento-global-_0_YjOeavBGR.html,2019-08-26T04:30:04-03:00,2019-08-26T09:30:03-03:00,49,49,"Silvia Fesquet",F
+11423,"La campaña de los suplentes, silencios ...",clarin,/politica/campana-suplentes-silencios-peronistas-alianza-2015_0_pU5gGTqU-.html,2019-08-26T04:30:04-03:00,2019-08-26T09:30:03-03:00,166,166,"Ignacio Zuleta",M
+11424,"De las PASO a las elecciones, de la ilusión a ...",clarin,/opinion/paso-elecciones-ilusion-realidad-viceversa-_0_2F27pj2jk.html,2019-08-26T04:30:04-03:00,2019-08-26T09:30:03-03:00,806,806,"Alvaro Abós",M
+11425,"La azarosa gestión del PRO",clarin,/opinion/azarosa-gestion-pro_0_HcVn5XhUt.html,2019-08-26T04:30:04-03:00,2019-08-26T09:30:03-03:00,529,529,"Ricardo Esteves",M
+11426,"El problema no fue el ajuste",clarin,/opinion/problema-ajuste_0_N8cNYFrku.html,2019-08-26T04:30:04-03:00,2019-08-26T09:30:03-03:00,879,879,"Emilio Ocampo",M
+11427,"Somos los depredadores y el Amazonas lo sabe",clarin,/cultura/depredadores-amazonas-sabe_0_Uc4jKOObi.html,2019-08-26T04:30:04-03:00,2019-08-26T09:30:03-03:00,640,640,"Patricia Kolesnicov",F
+11428,"Ganar tiempo y bajar expectativas, las coincidencias de Macri y Fernández",lanacion,/politica/ganar-tiempo-y-bajar-expectativas-las-coincidencias-de-macri-y-fernandez-nid2281393,2019-08-26T04:30:10-03:00,2019-08-26T09:30:10-03:00,96,96,"Claudio Jacquelin",M
+11429,"Es una república lo que está en juego",lanacion,/opinion/columnistas/es-una-republica-lo-que-esta-en-juego-nid2281357,2019-08-26T04:30:10-03:00,2019-08-26T09:30:10-03:00,183,183,"Fernando Iglesias",M
+11430,"La puerta giratoria de la política",lanacion,/opinion/la-puerta-giratoria-de-la-politica-nid2279988,2019-08-26T04:30:10-03:00,2019-08-26T09:30:10-03:00,1701,1701,"Diego Sehinkman",M
+11431,"Leer, vivir",lanacion,/opinion/miradas/catalejo-nid2281349,2019-08-26T04:30:10-03:00,2019-08-26T09:30:10-03:00,45,45,"Carlos M. Reymundo Roberts",M
